@@ -47,7 +47,7 @@ streamlit run chatbot.py #chemical_mapping No. --server.port #xxxx
 streamlit run chatbot.py 59 --server.port 2024
 ```
 
-#### 新增CHATGPT版本 使用前須輸入API KEY
+#### 新增CHATGPT版本 使用前須在 retriever_chain_openai.py 輸入API KEY
 
 ```bash
 streamlit run chatbot_openai.py 59 --server.port 2024
