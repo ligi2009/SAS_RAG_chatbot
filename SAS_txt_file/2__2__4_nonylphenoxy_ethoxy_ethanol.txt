@@ -1,0 +1,992 @@
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR模型 決策樹 C5.0
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 決策樹 C5.0
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR模型 隨機森林
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 隨機森林
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR模型 支持向量機 Polynomial核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 支持向量機 Polynomial核心
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR模型 支持向量機 RBF核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 支持向量機 RBF核心
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR Toolbox: QSAR
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf
+註解: 
+額外註解: 
+預測值: Toxics Release Inventory (TRI) Program
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.Classification model: ToxTree
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 輕度毒性
+預測值: Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: translation missing: zh-TW.hazard_annotation.US EPA CompTox
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: QSAR模型 支持向量機 Polynomial核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: QSAR模型 支持向量機 RBF核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: QSAR模型 決策樹 C5.0
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: QSAR模型 隨機森林
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 中
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 中
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 高
+資料來源: 歐盟高度關切物質候選清單
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://echa.europa.eu/previous-recommendations
+註解: translation missing: zh-TW.hazard_annotation.Equivalent Concern – Candidate List: endocrine disrupting properties cause probable serious effects to the environment or human health                                                                                                                         
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 高
+資料來源: 歐洲高度關注物質授權清單
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: The List of Substances Subject to Authorisation (Annex XIV of the REACH Regulation) is found at the first link. Additional information on authorisation can be found at the second link.
+http://echa.europa.eu/addressing-chemicals-of-concern/authorisation/recommendation-for-inclusion-in-the-authorisation-list/authorisation-list
+http://echa.europa.eu/regulations/reach/authorisation
+https://echa.europa.eu/authorisation-list 
+註解: translation missing: zh-TW.hazard_annotation.Equivalent Concern – Banned Unless Authorized: endocrine disrupting properties cause probable serious effects to the environment or human health                                                                                                               
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 高
+資料來源: 奧斯陸-巴黎公約委員會清單
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 比利時、丹麥、芬蘭、法國、德國、冰島、愛爾蘭、盧森堡、荷蘭、挪威、葡萄牙、西班牙、瑞典、瑞士和英國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The first link contains an overview of the OSPAR hazardous substances program. The List of Chemicals for Priority Action (as a Microsoft Word document) appears at the second link. A List of Substances of Possible Concern (as a webpage) appears at the third link.
+https://www.ospar.org/work-areas/hasec/hazardous-substances/overview 
+https://www.ospar.org/work-areas/hasec/hazardous-substances/possible-concern 
+https://www.ospar.org/work-areas/hasec/hazardous-substances/priority-action 
+註解: translation missing: zh-TW.hazard_annotation.Endocrine Disruptor – substance of possible concern
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.Endocrine Disruptor Lists (Danish EPA)
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: 所有
+是否具強制性？: N
+清單連結: https://edlists.org/the-ed-lists/list-i-substances-identified-as-endocrine-disruptors-by-the-eu
+註解: 
+額外註解: 
+預測值: Environmental Effects: Yes
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 高
+資料來源: 國際內分泌干擾交流協會 - 潛在內分泌干擾物清單
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: N
+清單連結: The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch
+註解: 潛在內分泌干擾物
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 非常高
+資料來源: 美國環保署極度危害物質清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: N
+清單連結: Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version
+註解: 極度危害物質
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 澳洲GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 澳洲
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List
+註解: 急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H302
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: translation missing: zh-TW.hazard_class.ST-R
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 低
+資料來源: QSAR Toolbox: AW
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.QSAR Toolbox: AW
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3: Negative, In domain
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / Skin sensitisation: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: No value
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 澳洲GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 澳洲
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 非常高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H318
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 嚴重眼睛損傷/刺激危害第2A級：H319
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 非常高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 非常高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 水生環境之急性危害第1級：H400
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 非常高
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 水生環境之急性危害第1級：H400
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 非常高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 水生環境之急性危害第1級：H400
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: T: 5.999 (5.677÷6.321) log(1/mol/L)
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 非常高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H410
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H411
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 中
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H412
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 低
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H413
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 非常高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境流佈
+危害名稱: 持續性
+危害等級: 中
+資料來源: translation missing: zh-TW.list_name.US EPA EPI Suite
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA EPI Suite
+額外註解: translation missing: zh-TW.prediction.M
+預測值: 
+
+化學物名稱: 2-[2-(4-nonylphenoxy)ethoxy]ethanol
+中文名稱: 
+風險等級: 1
+PubChem CID: 24773
+CAS No.: 9016-45-9
+危害組別: 環境流佈
+危害名稱: 生物累積性
+危害等級: 中
+資料來源: translation missing: zh-TW.list_name.US EPA EPI Suite
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA EPI Suite
+額外註解: translation missing: zh-TW.prediction.M
+預測值: 
+

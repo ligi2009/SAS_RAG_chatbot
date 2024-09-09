@@ -1,0 +1,489 @@
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: QSAR模型 決策樹 C5.0
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 決策樹 C5.0
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: QSAR模型 隨機森林
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 隨機森林
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: QSAR模型 支持向量機 Polynomial核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 支持向量機 Polynomial核心
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 低
+資料來源: QSAR模型 支持向量機 RBF核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: SAS QSAR模型 支持向量機 RBF核心
+額外註解: 輕度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 中
+資料來源: US EPA OncgLogic
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA OncgLogic
+額外註解: 中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf
+註解: 
+額外註解: 
+預測值: Toxics Release Inventory (TRI) Program
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.Classification model: ToxTree
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 輕度毒性
+預測值: Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 低
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: translation missing: zh-TW.hazard_annotation.US EPA CompTox
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: QSAR模型 支持向量機 Polynomial核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: QSAR模型 支持向量機 RBF核心
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: QSAR模型 決策樹 C5.0
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: QSAR模型 隨機森林
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv
+額外註解: 高度/中度毒性
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 低
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 中
+資料來源: 德國最大工作場所濃度清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 德國
+適用產業: 所有 (workplace safety)
+是否具強制性？: Y
+清單連結: The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm
+註解: 懷孕風險組C
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 低
+資料來源: US EPA ToxCast
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA ToxCast
+額外註解: 不干擾雌/雄激素受器
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 非常高
+資料來源: 美國環保署極度危害物質清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: N
+清單連結: Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version
+註解: 極度危害物質
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: translation missing: zh-TW.hazard_class.ST-S
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: translation missing: zh-TW.hazard_class.ST-R
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: 神經毒性 - 單次劑量
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應)
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 低
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 中
+資料來源: US EPA ECOSAR
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA ECOSAR
+額外註解: translation missing: zh-TW.prediction.M
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 環境流佈
+危害名稱: 持續性
+危害等級: 非常高
+資料來源: 加拿大國內物質清單
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: "Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for ""Categorization decisions for all DSL substances"". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment"
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F
+註解: 持續性
+額外註解: 
+預測值: 
+
+化學物名稱: Dichlorodifluoromethane
+中文名稱: 
+風險等級: 1
+PubChem CID: 6391
+CAS No.: 75-71-8
+危害組別: 環境流佈
+危害名稱: 生物累積性
+危害等級: 非常低
+資料來源: translation missing: zh-TW.list_name.US EPA EPI Suite
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.US EPA EPI Suite
+額外註解: 非常低毒性
+預測值: 
+

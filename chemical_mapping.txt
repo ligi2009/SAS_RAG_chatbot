@@ -1,0 +1,13 @@
+59:Benzene
+1694:N,N-Dimethylformamide
+1758:Acetonitrile
+1760:Methylene Chloride
+1801:Dichlorodifluoromethane
+1963:Tetrabromobisphenol A (TBBPA)
+2900:1,3-Butadiene
+3296:Di(2-ethylhexyl)phthalate (DEHP)
+7157:Hexabromocyclododecane (HBCD)
+8569:2-[2-(4-nonylphenoxy)ethoxy]ethanol
+9512:Tetrachloroethylene
+14826:Diisononyl phthalate (DINP)
+

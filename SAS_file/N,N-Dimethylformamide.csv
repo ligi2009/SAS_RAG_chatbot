@@ -1,0 +1,209 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,國際癌症研究機構清單,相對高,危害等級分類清楚。,全球,所有,N,"Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php",第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",致癌性,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,中,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",Carcinogen Group 3A or 3B or 4 or 5,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",致癌性危害第1A或1B級：H350或H350i (吸入性),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",致癌性危害第1A或1B級：H350或H350i (吸入性),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",致癌性危害第1A或1B級：H350或H350i (吸入性),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H350,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,"",translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,"","",Toxics Release Inventory (TRI) Program
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,"",translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"",輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致突變性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖細胞致突變性危害第2級：H341,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致突變性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H341,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",懷孕風險組A或B,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,"The Lancet Neurology 13(3), 330-338",相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/",發育神經毒性,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,內分泌干擾,低,歐盟內分泌干擾物優先列表,相對低,包含多種危害終點，危害等級分類模糊。,歐盟,所有,Y,"List developed from four EU studies published between 1999 and 2007. Categorization results contained in 1) reports and 2) a consolidated Microsoft Access database at the link below.
+http://ec.europa.eu/environment/chemicals/endocrine/strategy/substances_en.htm#priority_list",內分泌干擾物第3級,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,內分泌干擾,高,國際內分泌干擾交流協會 - 潛在內分泌干擾物清單,相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch",潛在內分泌干擾物,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",急毒性危害第3級：H301 (吞食) 或H311 (皮膚) 或H331 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H303,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H312,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H313,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H331,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H332,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,歐盟高度關切物質候選清單,相對高,危害等級分類清楚。,,,,https://echa.europa.eu/previous-recommendations,translation missing: zh-TW.hazard_annotation.Equivalent Concern – Candidate List,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Human Health Hazards / Sensitisation / EC3: No value
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: 
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: 
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Human Health Hazards / Sensitisation / Skin sensitisation: 
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: No value
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",腐蝕/刺激皮膚危害第2級：H315,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",嚴重眼睛損傷/刺激危害第2A級：H319,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,非常高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H318,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,"",translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,NA,所有,N,,"","",Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: 
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,"","",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,"",
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.OECD QSAR Toolbox,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.OECD,非常低毒性,
+"N,N-Dimethylformamide",,1,6228,68-12-2,物理危害,可燃性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H226,"",
