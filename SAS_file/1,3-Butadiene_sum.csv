@@ -1,0 +1,476 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,歐洲化學總署公告REACH法規附件17,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"""Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below).""
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 ",分類第一級或二級,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高，根據歐洲化學總署公告的 REACH 法規附件 17，可信度相對較高，且危害等級分類明確。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在 REACH 法規中的附錄 17 中列出，該清單包含 C（致癌性）、M（致突變性）、R（生殖毒性）物質，且相關 CAS 編號記載於 REACH 法規 EC (No) 1907/2006 的附錄 1-6，並會隨著法規修訂進行更新。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：限制物質清單，REACH 法規，以及 歐盟法律文本。此物質的危害分類屬於第一級或第二級。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+此物質屬於慢毒性危害，主要危害為致癌性，危害等級為高。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+該危害適用於歐盟地區，主要影響製造業（C 類）。此物質的危害等級被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,國際癌症研究機構清單,相對高,危害等級分類清楚。,全球,所有,N,"Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php",第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據國際癌症研究機構（IARC）清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+根據 IARC 分類，1,3-丁二烯被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。相關清單可通過以下連結查閱：IARC 分類清單，清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。此清單不具強制性。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,美國環保署整合性風險資料系統,相對高,危害等級分類清楚。,美國,所有,N,"""US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link).""
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris ",已知或很可能有毒性,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國環保署整合性風險資料系統（IRIS）的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，主要影響所有產業。
+該物質在美國環保署的 IRIS 系統中列出，該清單包含已知或很可能有毒性的物質，且相關 CAS 編號記載於 IRIS 系統中，並會隨著資料更新進行修訂。
+該系統在美國地區不具強制性要求，相關清單可通過以下連結查閱：US EPA Integrated Risk Information System home page (first link)，Advanced search by substance ID (second link)，以及 US EPA IRIS。
+此物質的危害分類屬於已知或很可能有毒性。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,美國衛生與公眾服務部-第十四次致癌物報告,相對高,危害等級分類清楚。,美國,所有,Y,"The Report on Carcinogens (RoC) is prepared by the National Toxicology Program (NTP) on behalf of the Secretary, Health and Human Services (description at the first link). The latest RoC edition is available at the second link.
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html",合理預期的人類致癌物,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國衛生與公眾服務部第十四次致癌物報告，該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+根據美國衛生與公眾服務部的報告，1,3-丁二烯被合理預期為人類致癌物。相關清單可通過以下連結查閱：The Report on Carcinogens (RoC) is prepared by the National Toxicology Program (NTP) on behalf of the Secretary, Health and Human Services (description at the first link). The latest RoC edition is available at the second link.
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html
+此清單在美國地區具有強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,美國疾病控制中心 - 職業致癌物清單,相對高,危害等級分類清楚。,美國,所有 (workplace safety),N,"NIOSH's carcinogen policy is described at the first link below. The current occupational carcinogen list is at the second link
+http://www.cdc.gov/niosh/topics/cancer/policy.html
+http://www.cdc.gov/niosh/topics/cancer/npotocca.html",職業性致癌物,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國疾病控制中心（CDC）職業致癌物清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，主要影響所有產業的工作場所安全。
+根據 CDC 的職業致癌物政策，1,3-丁二烯被列為職業性致癌物。相關清單可通過以下連結查閱：CDC 職業致癌物政策，以及當前的職業致癌物清單。
+這些清單會定期更新，並提供所有相關 CAS 編號與分類的詳細資訊。此清單不具強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",致癌性,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國加州第65號提案的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於加利福尼亞州美國地區，主要影響所有產業。
+該物質在美國加州第65號提案中列出，該清單包含致癌性物質，且相關 CAS 編號記載於提案中，並會隨著法規修訂進行更新。
+該法規在加利福尼亞州具有強制性要求，相關清單可通過以下連結查閱：Prop 65 descriptive information is at the first link below. The second link provides the current list of substances，http://oehha.ca.gov/proposition-65/about-proposition-65，以及 http://oehha.ca.gov/proposition-65/proposition-65-list。此物質的危害分類屬於致癌性。
+
+"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",致癌物第一或二組,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據德國最大工作場所濃度清單的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用於德國地區，主要影響所有工作場所安全相關的產業。
+
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）常設參議會化學物質健康危害調查委員會（MAK Commission）負責，相關分類可通過以下連結查閱：MAK Commission 的分類類別可在 Wiley 的 PDF 文件中找到（每年更新）：[DFG Profile](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html) 和 [Wiley Access](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)。
+
+該法規在德國地區具有強制性要求，相關清單可通過上述連結查閱。此物質的危害分類屬於致癌物第一或第二組。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據加拿大工作場所有害物質訊息系統（WHMIS）2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在 WHMIS 系統中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的 WHMIS 說明可通過以下連結查閱：WHMIS 說明，以及 Quebec CSST 網站，該網站包含受控產品清單，並可按 CAS 編號查詢，提供 txt 或 PDF 格式下載。
+此法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：WHMIS 說明，Quebec CSST 網站。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據澳洲 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於澳洲地區，並影響所有產業。
+該物質在澳洲 GHS 中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的澳洲 GHS 調和分類的最新清單，可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。
+該法規在澳洲地區具有強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 分類中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於馬來西亞地區，主要影響製造業（C 類）和批發及零售業（G 類）。
+該物質在馬來西亞 GHS 中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的馬來西亞 GHS 調和分類的最新清單，可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+此法規在馬來西亞地區具有強制性要求，相關清單可通過以下連結查閱：http://cims.dosh.gov.my/。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，1,3-丁二烯被歸類為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的南韓 GHS 調和分類的最新清單，可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類，並包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學物質可能只在其中一個清單中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並影響所有產業。該物質在紐西蘭的分類系統中被列為致癌性危害第 1A 或 1B 級，並對應 H350 或 H350i（吸入性）。
+
+紐西蘭使用其自身的分類術語，這些術語需要轉換為 GHS 分類類別以便在清單翻譯器中使用。相關的紐西蘭危害物質和新有機物（HSNO）分類資訊資料庫（CCID）可通過以下連結查閱：紐西蘭 EPA CCID 資料庫，以及 HSNO 到 GHS 分類轉換文件。
+
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+- [紐西蘭 EPA CCID 資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+- [HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+此物質的危害分類屬於第 1A 或 1B 級的致癌性危害。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據國際化學品秘書處（ChemSec）公告的立即替換清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+根據 ChemSec 的分類，1,3-丁二烯被歸類為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的 ChemSec 清單可通過以下連結查閱：ChemSec 介紹，以及立即替換清單。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。
+該法規在全球範圍內具有強制性要求，相關清單可通過以下連結查閱：http://chemsec.org/about-us 以及 http://sinlist.chemsec.org。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H350,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：PubChem 資料庫。此清單不具強制性。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國職業安全與健康管理局（US OSHA）公告的 Toxics Release Inventory (TRI) 清單，可信度相對較低，且危害等級分類清楚。
+此危害適用於美國地區，主要影響所有產業。
+該物質在 TRI 清單中列出，該清單包含致癌性物質，且相關 CAS 編號記載於 TRI 計劃的文件中，並會隨著法規修訂進行更新。
+該法規在美國地區具有強制性要求，相關清單可通過以下連結查閱：Toxics Release Inventory (TRI) Program。此物質的危害分類屬於第一級或第二級。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Silent Spring - Breast Cancer Chemicals,相對低,危害等級分類清楚。,,所有,N,http://sciencereview.silentspring.org/mamm_browse.cfm,,,IARC group: 2A; US EPA: Weight of evidence narrative only,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 Silent Spring - Breast Cancer Chemicals 清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此物質的危害適用於所有地區與產業。
+根據 IARC 分類，1,3-丁二烯被歸類為第 2A 類（極可能為人體致癌物），而根據美國環保署（US EPA）的資料，僅提供了權重證據敘述。
+相關清單可通過以下連結查閱：Silent Spring - Breast Cancer Chemicals 清單，該清單中會列出相關的研究資料與補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。此清單不具強制性。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為相對低。根據 ToxTree 的分類模型，該資料來源的可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+根據 ToxTree 的預測模型，1,3-丁二烯被評估為對基因毒性致癌性呈陰性，對非基因毒性致癌性也呈陰性，根據 QSAR 模型，對 S. typhimurium TA100 突變原性潛力為陰性，對致癌性潛力也為陰性。
+此清單不具強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 調和分類中被列為生殖細胞致突變性危害第 1A 或 1B 級，對應的危害說明為 H340。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：https://echa.europa.eu/information-on-chemicals/cl-inventory-database 以及 https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,歐洲化學總署公告REACH法規附件17,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"""Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below).""
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 ",分類第一級或二級,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據歐洲化學總署公告的 REACH 法規附件 17，可信度相對較高，且危害等級分類明確。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在 REACH 法規中的附錄 17 中列出，該清單包含 C（致癌性）、M（致突變性）、R（生殖毒性）物質，且相關 CAS 編號記載於 REACH 法規 EC (No) 1907/2006 的附錄 1-6，並會隨著法規修訂進行更新。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：限制物質清單，REACH 法規，以及 歐盟法律文本。此物質的危害分類屬於第一級或第二級。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",生殖細胞突變性第1級、第2級或第3a級,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據德國最大工作場所濃度清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用於德國地區，主要影響所有工作場所安全相關產業。
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）常設參議會化學化合物健康危害調查委員會（MAK Commission）提供，並可通過以下連結查閱：MAK Commission分類類別PDF文件（每年更新）。
+相關清單可通過以下連結查閱：
+- [德國研究基金會（DFG）常設參議會化學化合物健康危害調查委員會](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html)
+- [Wiley上的MAK和BAT值清單](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)
+該物質的危害分類屬於生殖細胞突變性第1級、第2級或第3a級，且在德國具有強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，影響所有產業。
+根據該清單，1,3-丁二烯被歸類為生殖細胞致突變性危害第 1A 或 1B 級，對應 H340。
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：加拿大工作場所有害物質訊息系統，以及 Quebec CSST 網站。這些清單包含所有相關 CAS 編號，並提供 txt 或 PDF 文件下載功能。
+Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據澳洲 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於澳洲地區，並影響所有產業。
+該物質在澳洲 GHS 中被列為生殖細胞致突變性危害第 1A 或 1B 級，對應的危害代碼為 H340。
+相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.，該清單包含所有相關的 CAS 編號與調和分類，並提供下載功能。
+此法規在澳洲地區具有強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，主要影響所有產業。
+該物質在日本 GHS 分類中被列為生殖細胞致突變性危害第 1A 或 1B 級，並對應 H340。
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，1,3-丁二烯被歸類為生殖細胞致突變性危害第 1A 或 1B 級，對應的危害說明為 H340。
+該物質在韓國具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，並包含五大類別：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質以及需準備事故應對的物質。每個類別都需單獨搜索，因為某些化學品可能只在其中一個清單中出現。
+相關清單連結為：http://ncis.nier.go.kr/en/main.do。該物質的危害分類屬於生殖細胞致突變性危害第 1A 或 1B 級：H340。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於馬來西亞地區，主要影響製造業（C 類）和批發及零售業（G 類）。
+該物質在馬來西亞 GHS 中被列為生殖細胞致突變性危害第 1A 或 1B 級，對應 H340。
+相關清單可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only. 此清單具有強制性要求，並提供相關 CAS 編號與調和分類的查詢功能。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於紐西蘭地區，並影響所有產業。
+根據紐西蘭的化學分類和資訊資料庫（CCID），該物質的危害等級被列為第 1A 或 1B 級的生殖細胞致突變性危害，並對應 H340。
+相關的紐西蘭 GHS 調和分類的最新清單，可通過以下連結查閱：紐西蘭危險物質和新生物體（HSNO）提供的化學分類和資訊資料庫，以及 HSNO 到 GHS 分類的轉換文件。
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資訊。該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+[紐西蘭 HSNO CCID 資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+[HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據國際化學品秘書處（ChemSec）公告的立即替換清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+根據 ChemSec 的資料，1,3-丁二烯被歸類為生殖細胞致突變性危害第 1A 或 1B 級，對應的危害代碼為 H340。
+相關清單可通過以下連結查閱：ChemSec 關於我們，以及 SIN List（立即替換清單）。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。
+該法規在全球範圍內具有強制性要求，相關清單可通過以下連結查閱：ChemSec 關於我們，以及 SIN List（立即替換清單）。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,致突變性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,生殖細胞致突變性危害第1A或1B級：H340,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類為生殖細胞致突變性危害第 1A 或 1B 級，對應 H340。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的化學物質資訊，並提供下載功能。此清單不具強制性要求。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,生殖毒性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",translation missing: zh-TW.hazard_annotation.Reproductive Toxicity – Male or Female,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據美國加州第65號提案的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於加利福尼亞州，美國，並影響所有產業。
+該物質在加州第65號提案中列出，該清單包含生殖毒性（男性或女性）物質，且相關 CAS 編號記載於提案清單中，並會隨著法規修訂進行更新。
+該法規在加利福尼亞州具有強制性要求，相關清單可通過以下連結查閱：Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.，http://oehha.ca.gov/proposition-65/about-proposition-65，以及 http://oehha.ca.gov/proposition-65/proposition-65-list。此物質的危害分類屬於生殖毒性（男性或女性）。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,生殖毒性,中,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據澳洲 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於澳洲地區，並影響所有產業。
+該物質在澳洲 GHS 法規中的清單中列出，該清單包含生殖毒性危害第 2 級：H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在澳洲地區具有強制性要求，相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below. http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,生殖毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，且影響所有產業。
+根據日本 GHS 的分類，1,3-丁二烯被歸類為第 1A 或 1B 級的生殖毒性危害，並對應 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該平台可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。此物質的危害分類屬於第 1A 或 1B 級。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害適用於日本地區，影響所有產業。
+根據日本 GHS 的分類，1,3-丁二烯被歸類為生殖毒性危害第 2 級，對應的危害代碼為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該平台可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於第 2 級。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,生殖毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於紐西蘭地區，並影響所有產業。
+紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單轉換器中使用。相關清單可通過以下連結查閱：紐西蘭危險物質和新生物體（HSNO）提供的化學分類和信息數據庫（CCID），以及描述從 HSNO 到 GHS 分類轉換的文件。
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+[紐西蘭 HSNO-CCID 數據庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+[HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+此物質的生殖毒性危害被列為第 2 級，對應 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",發育毒性,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據美國加州第65號提案的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於加利福尼亞州，美國，並影響所有產業。
+該物質在美國加州第65號提案中列出，該清單包含發育毒性物質，且相關 CAS 編號記載於提案中，並會隨著法規修訂進行更新。
+該法規在加利福尼亞州具有強制性要求，相關清單可通過以下連結查閱：Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.，http://oehha.ca.gov/proposition-65/about-proposition-65，以及 http://oehha.ca.gov/proposition-65/proposition-65-list。此物質的危害分類屬於發育毒性。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,中,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據澳洲 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於澳洲地區，並影響所有產業。
+該物質在澳洲 GHS 法規中的清單中列出，該清單包含生殖毒性危害第 2 級：H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+該法規在澳洲地區具有強制性要求，相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 分類中被列為第 1A 或 1B 級的生殖毒性危害，並對應 H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information""。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。此物質的危害分類屬於生殖毒性危害第 1A 或 1B 級或附加級別。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 分類中被列為生殖毒性危害第 2 級，對應 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於紐西蘭地區，並影響所有產業。
+紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。相關的紐西蘭危害物質和新有機物（HSNO）化學分類和資訊資料庫（CCID）可用於查詢個別化學品的危害，並可通過以下連結查閱：紐西蘭 HSNO CCID 資料庫，以及 HSNO 到 GHS 分類的轉換文件。
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：紐西蘭 HSNO CCID 資料庫，以及 HSNO 到 GHS 分類的轉換文件。此物質的危害分類屬於生殖毒性危害第 2 級，對應 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,發育毒性,高,"The Lancet Neurology 13(3), 330-338",相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/",發育神經毒性,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據《The Lancet Neurology》期刊第13卷第3期的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於全球所有地區與產業。
+根據 Grandjean 和 Landrigan 的研究，該物質的發育神經毒性已被確認。相關研究可通過以下連結查閱：Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006（第一個連結），以及 Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014（第二個連結）。
+此清單不具強制性要求，相關資料可通過以下連結查閱：http://www.ncbi.nlm.nih.gov/pubmed/17174709 和 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/。"
+"1,3-Butadiene",,1,7845,106-99-0,慢毒性危害,內分泌干擾,高,國際內分泌干擾交流協會 - 潛在內分泌干擾物清單,相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch",潛在內分泌干擾物,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為高。根據國際內分泌干擾交流協會（TEDX）公告的潛在內分泌干擾物清單，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業。該物質在 TEDX 清單中列出，該清單包含潛在內分泌干擾物，且相關 CAS 編號記載於 TEDX 清單中，並會隨著研究進展進行更新。
+
+該清單不具強制性要求，相關清單可通過以下連結查閱：國際內分泌干擾交流協會網站，以及 潛在內分泌干擾物清單。此物質的危害分類屬於潛在內分泌干擾物。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署極度危害物質清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用於美國地區，主要影響所有產業。
+該物質在美國環保署極度危害物質清單中列出，該清單包含 EPCRA 第 302 條極度危害物質，並記載於 40 CFR 第 355 部分的附錄 A 和 B。
+該法規在美國地區不具強制性要求，相關清單可通過以下連結查閱：USEPA Consolidated List of Lists, March 2015。GreenScreen 僅使用 EPCRA 第 302 條極度危害物質。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+此物質的危害分類屬於極度危害物質。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供相關的化學物質資訊。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為 DG。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求尚不明確。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他詳細資訊尚未提供。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為 DG。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為 DG。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為 DG。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H335 (呼吸道刺激),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為特定標的器官系統毒性（單一暴露），危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並且影響所有產業。
+該物質在日本 GHS 法規中被列為特定標的器官系統毒性（單一暴露）第 3 級，對應 H335（呼吸道刺激）。
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並提供完整的 CAS 編號清單下載功能。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為翻譯缺失：zh-TW.hazard_class.ST-R，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於高等級，並且相關清單會定期更新，提供所有相關 CAS 編號與調和分類的詳細資料。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,神經毒性 - 單次劑量,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+根據日本 GHS 的分類，1,3-丁二烯被歸類為特定標的器官系統毒性（單一暴露）危害第 3 級，對應 H336（麻醉效應）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為低。根據 QSAR Toolbox 的 QSAR 資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過 QSAR Toolbox 查閱，該資料來源的註解為 ""translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR""。
+此物質被分類為低毒性，並無額外註解或預測值。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,"Human Health Hazards / Sensitisation / EC3: Negative, Out of domain",,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，且目前沒有相關清單連結或額外註解。
+根據 Human Health Hazards / Sensitisation / EC3 的預測值顯示，該物質在皮膚致敏測試中為陰性，且不在預測範圍內。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，且目前無相關清單連結或額外註解提供。根據預測值，該物質在人類健康危害方面可能涉及皮膚致敏，並且其危害分類可能包括 EC3 <OR> S M W N <OR> 皮膚致敏。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為相對低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結。此物質的危害分類屬於 Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: ,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露所致。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或註解。此物質的危害分類屬於皮膚致敏，並涉及人類健康危害。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: No value,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單或連結未提供。此物質的危害分類屬於皮膚致敏，但未提供具體的危害等級值。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,呼吸致敏 - 重複劑量,高,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,具毒性,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為呼吸致敏 - 重複劑量，危害等級為高。根據 QSAR Toolbox: QSAR 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與適用產業未明確記載，且是否具強制性要求也未明確。
+相關清單與更多資訊可通過 QSAR Toolbox: QSAR 查閱。該資料來源指出此物質具毒性，但未提供額外註解或預測值。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,皮膚刺激,高,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,具毒性,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據 QSAR Toolbox 的 QSAR 資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與額外註解未提供。該物質具毒性，且資料來源為 QSAR Toolbox: QSAR。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+根據聯合國 GHS 的分類，1,3-丁二烯被歸類為嚴重眼睛損傷/刺激危害第 2A 級（H319）。相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的 CAS 編號與分類資訊，並會隨著資料庫更新進行調整。
+此清單不具強制性要求，相關資料可通過以下連結查閱：PubChem 資料庫。"
+"1,3-Butadiene",,1,7845,106-99-0,急毒性危害,眼睛刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information""。
+此物質的危害分類屬於高等級。"
+"1,3-Butadiene",,1,7845,106-99-0,環境危害,急性水生毒性,中,US EPA ECOSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA ECOSAR,translation missing: zh-TW.prediction.M,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署（US EPA）ECOSAR 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.US EPA ECOSAR。此清單不具強制性。"
+"1,3-Butadiene",,1,7845,106-99-0,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: T: 2.999 (1.956÷4.041) log(1/mol/L),,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為相對低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單或連結未提供。
+根據生態毒理學資訊，該物質的水生毒性（EC50 或 LC50）預測值為 2.999 log(1/mol/L)，範圍在 1.956 至 4.041 之間。"
+"1,3-Butadiene",,1,7845,106-99-0,環境危害,慢性水生毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H412,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的 CAS 編號與物質資訊，並會隨著資料庫的更新進行調整。
+此清單不具強制性要求，相關資料可通過以下連結查閱：PubChem 資料庫。"
+"1,3-Butadiene",,1,7845,106-99-0,環境危害,慢性水生毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該平台可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單，這是 ""Chemical Hazard and Risk Information"" 的子部分。
+此物質的危害分類屬於慢性水生毒性，並且相關資料可在以下連結中查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+"1,3-Butadiene",,1,7845,106-99-0,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為非常高。根據加拿大國內物質清單（DSL）的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於加拿大地區，影響所有產業。
+根據《加拿大環境保護法，1999》（CEPA）的規定，該物質在 2006 年 9 月的描述和特定清單中被列出。DSL 分類搜尋引擎可通過以下連結查閱，並可下載包含所有 DSL 物質分類決策的電子表格。每個欄位代表不同的終點：欄位 E - 人類毒性，欄位 H - 持續性，欄位 I - 生物累積性，欄位 J - 環境毒性。
+相關清單可通過以下連結查閱：
+[Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link)](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1)
+[The DSL categorization search engine is at the second link. Download the spreadsheet for ""Categorization decisions for all DSL substances""](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F)
+此物質的危害分類屬於持續性。"
+"1,3-Butadiene",,1,7845,106-99-0,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.US EPA EPI Suite,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA EPI Suite,非常低毒性,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常低。根據美國環保署（US EPA）EPI Suite 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.list_name.US EPA EPI Suite。該資料來源註解為：translation missing: zh-TW.hazard_annotation.US EPA EPI Suite，並且該物質被評估為非常低毒性。額外註解與預測值未提供。"
+"1,3-Butadiene",,1,7845,106-99-0,物理危害,可燃性,非常高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",可燃氣、液體第1級：H220 (氣體) 或 H224 (液體) 或 H230 (氣體) 或 H231 (氣體),,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於物理危害，主要的危害為可燃性，危害等級為非常高，根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 調和分類中被列為可燃氣、液體第1級，對應的危害說明為 H220（氣體）、H224（液體）、H230（氣體）或 H231（氣體）。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：
+- [ECHA 化學物質資訊資料庫](https://echa.europa.eu/information-on-chemicals/cl-inventory-database)
+- [CLP 法規附錄 VI](https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp)
+
+此物質的危害分類屬於第一級或第二級。"
+"1,3-Butadiene",,1,7845,106-99-0,物理危害,可燃性,非常高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H220,,,,"1,3-丁二烯（1,3-Butadiene），CAS 編號為 106-99-0，風險等級為 1，PubChem CID 為 7845。
+該物質屬於物理危害，主要的危害為可燃性，危害等級為非常高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含詳細的物質資訊，並會隨著資料庫更新進行調整。
+此物質的危害分類屬於 H220（極度易燃氣體），但該資料來源不具強制性要求。"
