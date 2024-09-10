@@ -1,0 +1,1 @@
+.vectorstore file used to temporarily store past databases

@@ -31,12 +31,12 @@ st.warning('🤖 Chatbot with 🧪  '  + f"{chemical_name}")
 
 with st.sidebar:
     # 清除聊天歷史按鈕
-    st.button('🧹 清除查詢記錄', on_click=lambda: st.session_state.update(messages=[{"role": "assistant", "content": "請輸入想查詢化學物質"}]))
+    st.button('🧹 清除查詢記錄', on_click=lambda: st.session_state.update(messages=[{"role": "assistant", "content": "請輸入化學物質相關問題"}]))
     st.markdown("[🔙 回到SAS平台](https://sas.cmdm.tw)")
 
 # 初始化會話狀態中的消息列表，如果還沒有則創建一個默認的消息
 if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "請輸入想查詢化學物質"}]
+    st.session_state["messages"] = [{"role": "assistant", "content": "請輸入化學物質相關問題"}]
 
 # 顯示會話狀態中的所有消息
 for msg in st.session_state.messages:
@@ -56,7 +56,7 @@ def get_response(query):
 
         # 檢查提取的文本，替換特定的英文訊息為中文
         if response_text.strip() == "I'm sorry, I can't respond to that.":
-            response_text = "此問題無法回答，請詢問化學相關問題"
+            response_text = "此問題無法回答，請試著詢問其他化學物質相關問題"
 
         return response_text, None
     except Exception as e:
@@ -65,7 +65,7 @@ def get_response(query):
 
 
 # 接收用戶輸入的消息
-if prompt := st.chat_input("請輸入想查詢化學物質"):
+if prompt := st.chat_input("請輸入化學物質相關問題"):
 
     # 將用戶消息添加到會話狀態中
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -86,4 +86,4 @@ if prompt := st.chat_input("請輸入想查詢化學物質"):
 
 # 清除聊天歷史功能和按鈕
 def clear_chat_history():
-    st.session_state.messages = [{"role": "assistant", "content": "請輸入想查詢化學物質"}]
+    st.session_state.messages = [{"role": "assistant", "content": "請輸入化學物質相關問題"}]
