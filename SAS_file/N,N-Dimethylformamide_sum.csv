@@ -1,0 +1,882 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,國際癌症研究機構清單,相對高,危害等級分類清楚。,全球,所有,N,"Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php",第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據國際癌症研究機構（IARC）清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+根據 IARC 分類，N,N-二甲基甲醯胺被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。相關清單可通過以下連結查閱：IARC 分類清單。清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。此清單不具強制性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",致癌性,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國加州第65號提案的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於加利福尼亞州，美國，並影響所有產業。
+該物質在加州第65號提案中列出，該清單包含致癌性物質，且相關 CAS 編號記載於提案中，並會隨著法規修訂進行更新。
+該法規在加利福尼亞州具有強制性要求，相關清單可通過以下連結查閱：Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.，此物質的危害分類屬於致癌性。
+
+相關連結：
+1. [Prop 65 descriptive information](http://oehha.ca.gov/proposition-65/about-proposition-65)
+2. [Current list of substances](http://oehha.ca.gov/proposition-65/proposition-65-list)"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,中,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",Carcinogen Group 3A or 3B or 4 or 5,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據德國最大工作場所濃度清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用於德國地區，主要影響所有工作場所安全相關的產業。
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）的永久參議院委員會負責調查工作區域內化學物質的健康危害（即 MAK 委員會）。MAK 委員會的分類類別可通過以下連結查閱，並且每年更新：
+[DFG 官方網站](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html)
+[Wiley 在線圖書館](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)
+該物質的致癌性分類可能屬於 3A、3B、4 或 5 類。
+此法規在德國地區具有強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於加拿大地區，並影響所有產業。該物質在加拿大工作場所有害物質訊息系統（WHMIS）中被列出，該清單包含致癌性危害第 1A 或 1B 級，並對應 H350 或 H350i（吸入性）。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+- [WHMIS 說明](http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php)
+- [Quebec CSST 受控產品清單](http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx)
+
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 txt 或 PDF 文件下載功能。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並影響所有產業。該物質在日本 GHS 分類中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類。要檢索完整的 CASRNs 清單，請在 ""GHS Classification Results by the Japanese Government"" 部分下的 ""Chemical Hazard and Risk Information"" 子部分中勾選所有框。
+
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。此物質的危害分類屬於第 1A 或 1B 級的致癌性危害。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於韓國地區，並影響所有產業。該物質在南韓 GHS 中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+
+相關的南韓 GHS 調和分類的最新清單，可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類。GreenScreen List Translator 僅包含五大類搜索範疇中的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個範疇都需單獨搜索，因為某些化學物質可能只在其中一個清單中出現。
+
+此法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：[NCiS 主頁](http://ncis.nier.go.kr/en/main.do)。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H350,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含相關的化學物質資訊與分類資料。額外註解為 translation missing: zh-TW.hazard_annotation.H350。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性。根據美國職業安全與健康管理局（US OSHA）毒性釋放清單（TRI Carcinogens），該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國 OSHA 的毒性釋放清單中列出，該清單包含致癌物質，且相關 CAS 編號記載於美國環保署（EPA）的毒性釋放清單中，並會隨著法規修訂進行更新。
+該法規在美國地區具有強制性要求，相關清單可通過以下連結查閱：[毒性釋放清單](https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf)。此物質的危害分類屬於第一級或第二級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據 ToxTree 分類模型的資料來源，該資料的可信度相對較低，且危害等級分類模糊。
+此物質的危害分類包含多種危害終點，適用於所有地區與產業。
+該物質不具強制性要求，相關清單連結未提供。根據預測值，該物質具有輕度毒性，並且在基因毒性致癌性和非基因毒性致癌性方面均為陰性。根據 QSAR 預測，該物質對 S. typhimurium TA100 的致突變性為陰性，且不被認為是潛在的致癌物。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致突變性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖細胞致突變性危害第2級：H341,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害適用於日本地區，主要影響所有產業。
+該物質在日本 GHS 中被列為生殖細胞致突變性危害第 2 級，對應 H341。
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。該物質的危害分類屬於生殖細胞致突變性危害第 2 級：H341。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,致突變性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H341,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含相關的化學物質資訊。此物質的危害分類屬於 H341（可能引起遺傳性基因突變）。
+額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 調和分類中被列為生殖毒性危害第 2 級，對應的危害說明為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：
+- [ECHA 化學物質資訊資料庫](https://echa.europa.eu/information-on-chemicals/cl-inventory-database)
+- [CLP 法規附錄 VI](https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp)
+
+此物質的危害分類屬於第 2 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於加拿大地區，並影響所有產業。該物質在加拿大工作場所有害物質訊息系統（WHMIS）中具有強制性要求，相關清單可通過以下連結查閱：
+- [WHMIS 官方網站](http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php)
+- [魁北克 CSST 網站](http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx)
+
+該清單包含受控產品，並可按 CAS 編號查詢，提供 txt 或 PDF 格式的下載功能。此物質的生殖毒性危害被列為第 1A 或 1B 級，對應 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於加拿大地區，並影響所有產業。該物質在加拿大工作場所有害物質訊息系統（WHMIS）中被列出，該清單包含所有受控產品，並可按 CAS 編號查詢，亦可下載為 txt 或 PDF 文件。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+- [WHMIS 說明](http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php)
+- [魁北克 CSST 網站](http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx)
+
+此物質的生殖毒性危害被列為第 2 級，對應 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，N,N-二甲基甲醯胺被歸類為第 1A 或 1B 級的生殖毒性危害，並對應 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。該物質的危害分類屬於第 1A 或 1B 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，N,N-二甲基甲醯胺被歸類為生殖毒性危害第 2 級，對應的危害代碼為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。此資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於第 2 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於韓國地區，並影響所有產業。該物質在南韓 GHS 中被列為生殖毒性危害第 1A 或 1B 級，對應的危害代碼為 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。
+
+相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學物質可能僅在其中一個清單中出現。
+
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：[NCiS 主頁](http://ncis.nier.go.kr/en/main.do)。此物質的危害分類屬於第 1A 或 1B 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害適用於韓國地區，影響所有產業。
+該物質在南韓 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，並包含五大類別：需註冊的過渡性物質、有毒物質、受限物質、禁用物質，以及需準備應急措施的物質。每個類別需分別搜索，因為某些化學品可能只在其中一個清單中出現。
+該物質的生殖毒性危害被列為第 2 級，對應 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於馬來西亞地區，主要影響製造業（C 類）及批發及零售業（G 類）。該物質在馬來西亞 GHS 中被列為生殖毒性危害第 2 級，對應的危害說明為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+
+該法規在馬來西亞地區具有強制性要求，相關清單可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.，網址為：http://cims.dosh.gov.my/。
+
+此物質的危害分類屬於第 2 級，且相關 CAS 編號記載於馬來西亞 GHS 法規中，並會隨著法規修訂進行更新。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據國際化學品秘書處（ChemSec）公告的立即替換清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業，且具有強制性要求。
+相關清單可通過以下連結查閱：ChemSec 介紹，以及當前的 SIN 清單。這些清單可以在網站上進行搜索或完整列出。
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/
+該物質的生殖毒性危害被列為第 2 級，對應的危害說明為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並影響所有產業。該物質在紐西蘭的化學分類和資訊資料庫（CCID）中列出，紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便使用於清單翻譯器。相關的翻譯文件可通過以下連結查閱：紐西蘭危險物質和新生物體（HSNO）提供的化學分類和資訊資料庫，以及 HSNO 到 GHS 分類的翻譯文件。
+
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+- [HSNO-CCID 資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+- [HSNO 到 GHS 分類翻譯文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+此物質的生殖毒性危害被列為第 1A 或 1B 級，對應 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,生殖毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據紐西蘭GHS的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並且適用於所有產業。紐西蘭使用其自身的分類術語，需轉換為GHS分類類別以便在清單翻譯器中使用。相關的紐西蘭GHS調和分類的最新清單，可通過以下連結查閱：The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals（第一個連結）。紐西蘭使用其自身的分類術語，需轉換為GHS分類類別以便在清單翻譯器中使用。A document describing the translation from HSNO to GHS classification is available at the second link（第二個連結）。
+
+該物質在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx 以及 http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf。此物質的危害分類屬於生殖毒性危害第2級：H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 調和分類中被列為第 1A 或 1B 級的生殖毒性危害，並對應 H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：限制物質清單，REACH 法規，以及 歐盟法律文本。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",懷孕風險組A或B,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據德國最大工作場所濃度清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此危害適用於德國地區，主要影響所有工作場所安全（workplace safety）。
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）常設參議會化學物質健康危害調查委員會（MAK Commission）負責，相關分類可通過以下連結查閱：MAK Commission分類類別PDF文件（每年更新），以及 Wiley 提供的清單。
+此法規在德國地區具有強制性要求，相關清單可通過以下連結查閱：
+- [德國研究基金會（DFG）常設參議會化學物質健康危害調查委員會（MAK Commission）](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html)
+- [Wiley 提供的 MAK 和 BAT 值清單](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)
+
+該物質的危害分類屬於懷孕風險組A或B。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在加拿大工作場所有害物質訊息系統（WHMIS）中具有強制性要求，相關清單可通過以下連結查閱：Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+該物質的危害分類屬於生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響)。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在加拿大工作場所有害物質訊息系統（WHMIS）中具有強制性要求，相關清單可通過以下連結查閱：Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file. 
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+該物質的危害分類屬於生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，該物質被列為生殖毒性危害第 2 級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於馬來西亞地區，主要影響製造業（C 類）和批發及零售業（G 類）。
+該物質在馬來西亞 GHS 中被列為生殖毒性危害第 1A 或 1B 級或附加級別，對應的危害代碼為 H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+該法規在馬來西亞地區具有強制性要求，相關清單可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.（http://cims.dosh.gov.my/）。
+此物質的危害分類屬於第一級或第二級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 中被列為生殖毒性危害第 1A 或 1B 級或附加級別，對應的危害標示為 H360FD 或 H360D 或 H360Df（影響生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，N,N-二甲基甲醯胺被歸類為生殖毒性危害第 1A 或 1B 級，或附加級別：H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+該物質在韓國具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學物質可能只在其中一個清單上。
+相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的規定，該物質在韓國具有強制性要求。相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，GreenScreen List Translator 僅包括五大類別的化學品：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質和需準備事故應對的物質。每個類別都需單獨搜索，因為某些化學品可能只在某一清單中出現。
+該物質的危害分類屬於生殖毒性危害第2級，對應的危害說明為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據紐西蘭GHS的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並適用於所有產業。該物質在紐西蘭的化學分類和資訊資料庫（CCID）中列出，該清單由紐西蘭危險物質和新有機體（HSNO）提供，並可用於查詢個別化學品的危害。紐西蘭使用其自身的分類術語，需轉換為GHS分類類別以便在清單翻譯器中使用。關於從HSNO到GHS分類的轉換文件可通過以下連結查閱：
+
+- [HSNO-CCID 搜尋資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+- [HSNO到GHS分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+該物質的危害等級被列為生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。此法規在紐西蘭地區具有強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並影響所有產業。紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。相關的紐西蘭 GHS 調和分類的最新清單，可通過以下連結查閱：化學分類和資訊資料庫（CCID），以及 HSNO 到 GHS 分類轉換文件。
+
+該物質在紐西蘭具有強制性要求，相關清單可通過以下連結查閱：
+- [HSNO-CCID 資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+- [HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+此物質的危害分類屬於生殖毒性危害第2級，對應的危害說明為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據國際化學品秘書處（ChemSec）公告的立即替換清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+根據 ChemSec 的資料，N,N-二甲基甲醯胺被歸類為生殖毒性危害第 1A 或 1B 級，或附加級別：H360FD（生育能力、胎兒）、H360D（胎兒）、H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+相關清單可通過以下連結查閱：ChemSec 介紹，立即替換清單。該清單包含所有相關的 CAS 編號與分類，並提供完整的清單下載功能。此清單在全球範圍內具有強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,發育毒性,高,"The Lancet Neurology 13(3), 330-338",相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/",發育神經毒性,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據《The Lancet Neurology》期刊第13卷第3期（頁330-338）的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於全球所有地區與產業。
+根據 Grandjean, P 和 PJ Landrigan 的研究，該物質的發育神經毒性被詳細探討，相關研究發表於《Lancet》期刊第368卷（頁2167-2178）和《The Lancet Neurology》期刊第13卷（頁330-338），分別於2006年和2014年發表。
+該物質的相關清單可通過以下連結查閱：http://www.ncbi.nlm.nih.gov/pubmed/17174709 和 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502。此清單不具強制性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,內分泌干擾,低,歐盟內分泌干擾物優先列表,相對低,包含多種危害終點，危害等級分類模糊。,歐盟,所有,Y,"List developed from four EU studies published between 1999 and 2007. Categorization results contained in 1) reports and 2) a consolidated Microsoft Access database at the link below.
+http://ec.europa.eu/environment/chemicals/endocrine/strategy/substances_en.htm#priority_list",內分泌干擾物第3級,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為低。根據歐盟內分泌干擾物優先列表，該資料來源的可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於歐盟地區，影響所有產業。
+該物質在歐盟內分泌干擾物優先列表中列出，該清單是根據1999年至2007年間四項歐盟研究所發表的報告和一個整合的 Microsoft Access 資料庫進行分類的。相關清單可通過以下連結查閱：http://ec.europa.eu/environment/chemicals/endocrine/strategy/substances_en.htm#priority_list。
+該物質被歸類為內分泌干擾物第3級，且在歐盟地區具有強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,慢毒性危害,內分泌干擾,高,國際內分泌干擾交流協會 - 潛在內分泌干擾物清單,相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch",潛在內分泌干擾物,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為高。根據國際內分泌干擾交流協會（TEDX）公告的潛在內分泌干擾物清單，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於全球所有地區與產業。
+該物質在 TEDX 清單中列出，該清單包含潛在內分泌干擾物，並可通過以下連結查閱：國際內分泌干擾交流協會網站，以及潛在內分泌干擾物清單。此清單不具強制性要求，且可通過網站進行搜索或列出相關物質。
+相關清單可通過以下連結查閱：
+- [國際內分泌干擾交流協會網站](http://endocrinedisruption.org/)
+- [潛在內分泌干擾物清單](http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch)
+
+該物質被列為潛在內分泌干擾物，相關資料來源的可信度相對較低。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 法規中的附錄 VI 中列出，該清單包含所有調和分類的物質，並會隨著法規修訂進行更新。
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：ECHA 提供的最新調和分類 Excel 清單。可通過以下連結查閱完整的 CAS 編號及其相關的調和 GHS 分類：https://echa.europa.eu/information-on-chemicals/cl-inventory-database 以及 https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp。
+此物質的急毒性危害屬於第 4 級，對應 H302（吞食）、H312（皮膚）或 H332（吸入）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署極度危害物質清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國環保署極度危害物質清單中列出，該清單包含 EPCRA 第 302 條極度危害物質，這些物質也列於 40 CFR 第 355 部分的附錄 A 和 B 中。
+該法規在美國地區不具強制性要求，相關清單可通過以下連結查閱：USEPA Consolidated List of Lists, March 2015。GreenScreen 僅使用 EPCRA 第 302 條極度危害物質。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+此物質的危害分類屬於極度危害物質。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未有明確的預測值。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未明確記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在加拿大工作場所有害物質訊息系統（WHMIS）中具有強制性要求，相關清單可通過以下連結查閱：Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file. 
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php 
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx。該物質的急毒性危害被列為第 4 級，對應 H302（吞食）、H312（皮膚）或 H332（吸入）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",急毒性危害第3級：H301 (吞食) 或H311 (皮膚) 或H331 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，N,N-二甲基甲醯胺被歸類為急毒性危害第 3 級，對應的危害代碼為 H301（吞食）、H311（皮膚）或 H331（吸入）。
+該物質在日本具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該平台可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於急毒性危害第 3 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於韓國地區，並影響所有產業。根據南韓 GHS 的分類，該物質被列為急毒性危害第 4 級，對應的危害說明包括 H302（吞食）、H312（皮膚）或 H332（吸入）。
+
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，並包含五大類別的化學品：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學品可能只在其中一個清單中出現。
+
+額外註解：急毒性危害第 4 級：H302（吞食）或 H312（皮膚）或 H332（吸入）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於馬來西亞地區，主要影響製造業（C 類）和批發及零售業（G 類）。
+該物質在馬來西亞 GHS 中被列為急毒性危害第 4 級，對應的危害說明包括 H302（吞食）、H312（皮膚）或 H332（吸入）。
+該法規在馬來西亞地區具有強制性要求，相關清單可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.（http://cims.dosh.gov.my/）。
+此物質的危害分類屬於第 4 級。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據紐西蘭GHS的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並適用於所有產業。該物質在紐西蘭的化學分類和資訊資料庫（CCID）中列出，紐西蘭使用其自身的分類術語，需轉換為GHS分類類別以便在清單翻譯器中使用。相關文件描述了從HSNO到GHS分類的轉換過程。
+
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+1. [紐西蘭危險物質和新生物體（HSNO）CCID](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+2. [HSNO到GHS分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+此物質的急毒性危害被列為第4級，對應的危害說明包括H302（吞食）、H312（皮膚）或H332（吸入）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據國際化學品秘書處（ChemSec）公告的立即替換清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+根據 ChemSec 的資料，N,N-二甲基甲醯胺被列為急毒性危害第4級，對應的危害說明為 H302（吞食）、H312（皮膚）或 H332（吸入）。
+該物質在 ChemSec 的立即替換清單中列出，該清單可通過以下連結查閱：ChemSec 關於我們，以及 SIN List。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資訊。
+該法規在全球範圍內具有強制性要求，相關清單可通過以下連結查閱：ChemSec 關於我們，以及 SIN List。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H303,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的 CAS 編號與物質資訊，並會隨著資料庫的更新進行調整。
+此物質的危害分類屬於低等級，並對應 H303（可能對吞食有害）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H312,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區和產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含相關的化學物質資訊，並提供額外的資料下載功能。
+該物質的危害分類屬於急毒性危害，並對應 H312（皮膚接觸有害）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,低,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H313,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的 CAS 編號與物質名稱，並提供額外的資料下載功能。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H331,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的 CAS 編號與物質資訊，並會隨著資料庫更新進行調整。
+此物質的危害分類屬於 H331（吸入性急毒性），但是否具強制性要求未明確記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H332,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的化學物質資訊，並提供額外的資料下載功能。此物質的危害分類屬於 H332（吸入性急毒性）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於急毒性危害，並且相關清單會隨著法規修訂進行更新。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,歐盟高度關切物質候選清單,相對高,危害等級分類清楚。,,,,https://echa.europa.eu/previous-recommendations,translation missing: zh-TW.hazard_annotation.Equivalent Concern – Candidate List,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為特定靶器官毒性（STOT），危害等級為高。根據歐盟高度關切物質候選清單的資料來源，可信度相對較高，且危害等級分類清楚。
+此物質的危害適用於歐盟地區，主要影響的產業與具體適用地區未明確記載。
+該物質在歐盟高度關切物質候選清單中列出，該清單包含對人類健康或環境具有高度關切的物質，並會隨著法規修訂進行更新。
+該清單在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：歐盟高度關切物質候選清單。此物質的危害分類屬於高等級。
+
+註解：該物質的危害描述為 ""translation missing: zh-TW.hazard_annotation.Equivalent Concern – Candidate List""，可能是翻譯缺失或資料不完整。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為低。根據 QSAR Toolbox: QSAR 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與更多資料可通過 QSAR Toolbox: QSAR 查閱。該資料來源的註解為 ""translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR""，顯示資料可能存在翻譯缺失或不完整的情況。
+該物質被分類為低毒性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3: No value,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級相對較低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的相關清單與資料來源並未提供具體的連結或註解，且不具強制性要求。此物質的危害分類尚未明確，且無法提供具體的預測值。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露所致。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單或連結未提供。此物質的危害分類屬於 Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且屬於重複劑量暴露的危害。根據 QSAR Toolbox 的 Read-Across 資料來源，該資料的可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，且目前沒有提供相關清單連結或額外註解。根據預測值，該物質在人類健康危害方面可能涉及皮膚致敏，並且 EC3 值或皮膚致敏性指標可能被考慮在內。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: ,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，特別是在重複劑量下。根據 QSAR Toolbox: Read-Across 的資料來源，該資料的可信度相對較低，且危害等級分類較為模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+目前沒有提供相關的清單連結或註解，且該資料不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: No value,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露所致。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類並不具強制性要求，且相關清單連結與註解資料缺失。根據預測值，該物質在人類健康危害方面可能涉及皮膚致敏，但具體數值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",腐蝕/刺激皮膚危害第2級：H315,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，且適用於所有產業。
+根據日本 GHS 的分類，N,N-二甲基甲醯胺被歸類為腐蝕/刺激皮膚危害第2級（H315）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分下的 ""Chemical Hazard and Risk Information"" 中選擇所有選項以檢索完整的 CASRNs 清單。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",嚴重眼睛損傷/刺激危害第2A級：H319,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於歐盟地區，主要影響製造業（C 類）。
+該物質在歐盟 GHS 調和分類中列出，相關清單可通過以下連結查閱：ECHA 提供的最新 Excel 清單，包含所有調和分類的 CAS 編號。完整清單可通過以下連結查閱：https://echa.europa.eu/information-on-chemicals/cl-inventory-database 以及 https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp。
+該法規在歐盟地區具有強制性要求，相關清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。此物質的危害分類屬於嚴重眼睛損傷/刺激危害第 2A 級（H319）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,非常高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H318,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為非常高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含詳細的化學物質資訊。此物質的危害分類屬於 H318（引起嚴重眼睛刺激）。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，該資料來源的可信度相對較低，但危害等級分類清楚。
+此物質的危害分類屬於嚴重眼睛損傷/刺激危害第 2A 級（H319）。
+相關清單可通過以下連結查閱：PubChem 資料庫。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類是否清楚尚不明確，且適用地區與適用產業未具體說明。該物質是否具強制性要求也未明確指出。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單提供了該物質的詳細資訊，但未提供額外註解或預測值。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，該資料的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單與更多資訊可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，且無額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。
+該物質的相關資料可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此危害適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+該物質的其他註解與額外註解未提供，預測值也未明確記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單與更多資訊可通過以下連結查閱：美國環保署CompTox化學品儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學品儀表板。此物質的其他註解與額外註解未提供，預測值也未明確記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，該資料的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此危害的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確標示。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。
+該物質的相關資料可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更詳細的資訊。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未有明確的預測值。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，且預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單與更多資訊可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此危害的適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，該資料的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。相關清單可通過以下連結查閱：美國環保署CompTox化學品儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+該清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料下載功能。此清單不具強制性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單提供了相關的化學物質資訊，但未提供具體的強制性要求或適用產業的詳細資料。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學品儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確標示，需進一步查閱相關資料以獲取更多信息。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確。
+
+額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: ,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級未明確標示。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+相關清單與資料可通過以下連結查閱：Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為非常高。根據加拿大國內物質清單的資料來源，該資料的可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於加拿大地區，並影響所有產業。根據《加拿大環境保護法，1999》（CEPA）的規定，該物質在 2006 年 9 月的描述和特定清單中被列出。該清單包含不同類型的物質，並可通過以下連結查閱：Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type（第一個連結）。DSL 分類搜索引擎可在第二個連結中找到，並可下載包含所有 DSL 物質分類決策的電子表格。每個欄位代表不同的終點：欄位 E - iT Human，欄位 H - Persistence，欄位 I - Bioaccumulation，欄位 J - iT Environment。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+- [Canadian Environmental Protection Act, 1999 (CEPA)](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1)
+- [DSL categorization search engine](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F)
+
+此物質的危害分類屬於持續性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.OECD QSAR Toolbox,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.OECD,非常低毒性,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常低。根據 OECD QSAR Toolbox 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業。
+根據 OECD 的資料，N,N-二甲基甲醯胺被認為具有非常低的毒性。相關清單可通過以下連結查閱：OECD QSAR Toolbox。此清單不具強制性。"
+"N,N-Dimethylformamide",,1,6228,68-12-2,物理危害,可燃性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H226,,,,"N,N-二甲基甲醯胺（N,N-Dimethylformamide），CAS 編號為 68-12-2，風險等級為 1，PubChem CID 為 6228。
+
+該物質屬於物理危害，主要的危害為可燃性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此物質的危害分類適用於所有地區與產業，但具體適用地區和產業未明確記載。該物質的相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含詳細的化學物質資訊。
+
+此清單不具強制性要求，相關資料可通過以下連結查閱：PubChem 資料庫。該物質的危害分類屬於 H226（可燃性液體和蒸氣）。"

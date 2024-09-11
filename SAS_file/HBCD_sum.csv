@@ -1,0 +1,270 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,高,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 決策樹 C5.0,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+該物質的相關資料可參考 SAS QSAR 模型決策樹 C5.0，該模型指出此物質具有高度或中度毒性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,高,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 隨機森林,高度/中度毒性,,,"Hexabromocyclododecane（HBCD），CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單或法規連結未提供，但根據 SAS QSAR 模型隨機森林的預測，該物質具有高度或中度毒性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,高,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 Polynomial核心,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與法規連結未提供，僅註明 SAS QSAR 模型支持向量機 Polynomial 核心，並指出該物質具有高度或中度毒性。額外註解與預測值未提供。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,高,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 RBF核心,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR模型 支持向量機 RBF核心的資料來源，可信度相對較低，但危害等級分類清楚。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+該物質的相關清單與資料可通過 SAS QSAR模型 支持向量機 RBF核心查閱，該模型顯示該物質具有高度或中度毒性。
+此資料的額外註解為「高度/中度毒性」，但未提供具體的預測值。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據美國職業安全與健康管理局（US OSHA）毒性釋放清單（TRI Carcinogens），該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國 OSHA 的毒性釋放清單中列出，該清單包含致癌性物質，並會隨著法規修訂進行更新。
+該法規在美國地區具有強制性要求，相關清單可通過以下連結查閱：[Toxics Release Inventory (TRI) Program](https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf)。此物質的危害分類屬於第一級或第二級。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,高度/中度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:NO; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確。根據 ToxTree 分類模型的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+根據 ToxTree 模型的預測，HBCD 被認為具有高度或中度毒性，但在基因毒性致癌性測試中為陰性，非基因毒性致癌性測試中為陰性，且基於 QSAR 的預測顯示對 S. typhimurium TA100 的致突變性為陰性，對致癌性的預測也為陰性。
+該資料來源不具強制性要求，且未提供相關清單連結。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致突變性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,translation missing: zh-TW.hazard_annotation.US EPA CompTox,具毒性,,,"Hexabromocyclododecane（HBCD），CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該資料庫提供了關於 HBCD 的詳細資訊，並且具毒性。
+此清單不具強制性要求。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致突變性,高,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業，但具體適用地區和產業未明確記載。
+目前沒有強制性要求的清單連結或相關法規註解。
+該物質被認為具有高度或中度毒性，相關資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致突變性,高,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型支持向量機 RBF 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+目前沒有明確的適用地區與產業資訊，且是否具強制性要求也未明確記載。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv。該物質被認為具有高度或中度毒性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致突變性,高,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv,高度/中度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv。該物質被註解為高度/中度毒性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,致突變性,低,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv,輕度毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv。該物質被註解為輕度毒性，且無額外註解或預測值。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,生殖毒性,中,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據澳洲 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於澳洲地區，並影響所有產業。
+該物質在澳洲 GHS 法規中的清單中列出，該清單包含生殖毒性危害第2級：H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在澳洲地區具有強制性要求，相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,生殖毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+
+此危害適用於韓國地區，影響所有產業。該物質在南韓 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類，GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學物質可能只在某一清單中出現。
+
+該物質的生殖毒性危害被列為第 2 級，對應 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,生殖毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並影響所有產業。該物質在日本 GHS 分類中被列為第 1A 或 1B 級的生殖毒性危害，並對應 H360F 或 H360FD 或 H360Fd（生育能力、胎兒）。
+
+相關的日本 GHS 分類清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並提供完整的 CAS 編號清單。要檢索完整清單，請在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項，該部分是 ""Chemical Hazard and Risk Information"" 的子部分。
+
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。該物質的危害分類屬於第 1A 或 1B 級。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的生殖毒性危害被列為第 2 級，對應 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,中,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據澳洲 GHS 的資料來源，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於澳洲地區，並且適用於所有產業。該物質在澳洲 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below. http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。
+
+該物質的危害分類屬於生殖毒性危害第2級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據澳洲 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+
+此危害適用於澳洲地區，並影響所有產業。該物質在澳洲 GHS 中被列為生殖毒性危害第 1A 或 1B 級或附加級別，對應的危害代碼為 H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+
+該法規在澳洲地區具有強制性要求，相關清單可通過以下連結查閱：The Hazardous Chemical Information System (HCIS)。HCIS 是一個資料庫，允許您查找根據 GHS 分類的化學物質資訊。可通過以下連結下載清單：http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於韓國地區，並且適用於所有產業。根據南韓 GHS 的規定，該物質在韓國具有強制性要求。
+
+相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁用物質以及需準備應急措施的物質。每個類別都需單獨搜索，因為某些化學物質可能只在某一清單中出現。
+
+該物質的危害分類屬於生殖毒性危害第 2 級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+
+相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的規定，該物質在 The Korean National Chemicals Information System (NCiS) 中可以查詢到其 GHS 分類。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的階段性物質、有毒物質、受限制物質、禁用物質，以及需準備應急措施的物質。每個類別都需分別查詢，因為某些化學物質可能只在其中一個清單上出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該物質的危害分類屬於生殖毒性危害第 1A 或 1B 級或附加級別：H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 分類中被列為生殖毒性危害第 1A 或 1B 級或附加級別，對應的危害代碼為 H360FD 或 H360D 或 H360Df（生育能力、胎兒）或 H362（影響哺乳期或透過哺乳期產生影響）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並且適用於所有產業。根據日本 GHS 的分類，該物質被列為生殖毒性危害第 2 級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+
+此物質的危害分類屬於生殖毒性危害第 2 級，相關清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資訊。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,慢毒性危害,內分泌干擾,高,US EPA ToxCast,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA ToxCast,translation missing: zh-TW.prediction.Androgen Antagonist,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為高。根據美國環保署（US EPA）ToxCast 計畫的資料來源，可信度相對較低，但危害等級分類清楚。
+目前沒有明確的適用地區和適用產業資訊，且是否具強制性要求也未明確記載。
+相關清單和資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.US EPA ToxCast。該物質的預測值為 translation missing: zh-TW.prediction.Androgen Antagonist。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,,"Hexabromocyclododecane（HBCD），CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署極度危害物質清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國環保署的極度危害物質清單中列出，該清單包含 EPCRA 第 302 條極度危害物質，並記載於 40 CFR 第 355 部分的附錄 A 和 B。相關清單可通過以下連結查閱：USEPA Consolidated List of Lists, March 2015。GreenScreen 僅使用 EPCRA 第 302 條的極度危害物質。
+此清單不具強制性要求，相關清單可通過以下連結查閱：http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version。該物質被列為極度危害物質。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於急毒性危害，主要的危害為急毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+
+此危害適用於日本地區，主要影響所有產業。該物質在日本 GHS 法規中的危害等級分類明確，並且具有強制性要求。
+
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。
+
+此物質的危害分類屬於急毒性危害，並且相關清單會隨著法規修訂進行更新。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,神經毒性 - 單次劑量,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+
+此危害適用於日本地區，主要影響所有產業。該物質在日本 GHS 法規中的危害等級被列為特定標的器官系統毒性（單一暴露）危害第 3 級，對應 H336（麻醉效應）。
+
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該平台可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+
+此物質的危害分類屬於第 3 級。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,低,QSAR Toolbox: AW,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: AW,低毒性,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為低。根據 QSAR Toolbox: AW 的資料來源，可信度相對較低，且危害等級分類清楚。
+目前沒有明確的適用地區與適用產業資訊，且是否具強制性要求也未明確記載。
+相關清單連結與註解缺失，僅有額外註解指出該物質屬於低毒性。預測值未提供。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3: R: Positive,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且屬於重複劑量的危害。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於所有地區與產業，並且不具強制性要求。相關清單與資料可通過以下連結查閱：目前無相關連結提供。
+
+該物質的危害分類屬於 Human Health Hazards / Sensitisation / EC3: R: Positive。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或額外註解。根據預測值，該物質可能涉及人類健康危害，特別是皮膚致敏性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於所有地區與產業。該物質不具強制性要求，相關清單連結與額外註解均未提供。預測值顯示該物質在人類健康危害與致敏性方面具有一定風險。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: ,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的相關清單與資料來源並未提供具體的連結或註解，且不具強制性要求。相關的危害分類資訊可參考 Human Health Hazards / Sensitisation / Skin sensitisation。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: R: Positive,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單或法規連結未提供。此物質的危害分類屬於 Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: R: Positive。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,腐蝕/刺激皮膚危害第2級：H315,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類屬於腐蝕/刺激皮膚危害第2級（H315）。
+相關清單可通過以下連結查閱：PubChem 資料庫。此清單不具強制性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"Hexabromocyclododecane（HBCD），CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並且適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information""。
+此物質的危害分類屬於高等級。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,,,,"Hexabromocyclododecane（HBCD），CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此物質的危害等級被列為嚴重眼睛損傷/刺激危害第 2A 級（H319）。相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的化學物質資訊。
+
+目前沒有明確指出該物質適用的地區或產業，且是否具強制性也未明確註明。相關清單可通過以下連結查閱：https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,急毒性危害,眼睛刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information""。
+此物質的危害分類屬於高等級，並且在日本地區具有強制性要求。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,急性水生毒性,非常高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",水生環境之急性危害第1級：H400,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+該物質在南韓 GHS 法規中的清單中列出，該清單包含五大類別：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質以及需準備應急措施的物質。每個類別都需要單獨查詢，因為某些化學物質可能只在某一類別中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學物質的 GHS 分類。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質以及需準備應急措施的物質。每個類別都需要單獨查詢，因為某些化學物質可能只在某一類別中出現。
+該物質的危害分類屬於水生環境之急性危害第1級（H400）。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,急性水生毒性,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",水生環境之急性危害第1級：H400,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於水生環境之急性危害第1級：H400。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,急性水生毒性,非常高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,水生環境之急性危害第1級：H400,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此物質的危害分類屬於水生環境之急性危害第1級（H400）。相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的化學物質資訊。
+
+目前沒有明確指出此物質適用的地區和產業，且是否具強制性要求也未明確註明。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: No value,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級未明確標示。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的相關清單與資料來源未提供具體連結或註解，且無強制性要求。根據現有資料，該物質的生態毒理學資訊（如 EC50 或 LC50 值）尚未明確標示。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,慢性水生毒性,非常高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H410,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為非常高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含相關的 CAS 編號與物質詳細資訊。此清單不具強制性要求。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境危害,慢性水生毒性,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為非常高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於慢性水生毒性，並且相關清單會隨著法規修訂進行更新。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為非常高。根據加拿大國內物質清單的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於加拿大地區，並影響所有產業。根據《加拿大環境保護法，1999》（CEPA）的規定，該物質在 2006 年 9 月被列入清單。具體的清單和分類可通過以下連結查閱：Canadian Environmental Protection Act, 1999 (CEPA)，以及 DSL 分類搜尋引擎。下載 ""Categorization decisions for all DSL substances"" 的電子表格，每個欄位代表不同的終點：欄位 E - iT Human，欄位 H - Persistence，欄位 I - Bioaccumulation，欄位 J - iT Environment。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+[Canadian Environmental Protection Act, 1999 (CEPA)](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1)
+[DSL categorization search engine](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F)
+
+此物質的危害分類屬於持續性。"
+Hexabromocyclododecane (HBCD),,1,18529,3194-55-6,環境流佈,生物累積性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",生物累積性,,,,"Hexabromocyclododecane (HBCD)，CAS 編號為 3194-55-6，風險等級為 1，PubChem CID 為 18529。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常高。根據加拿大國內物質清單的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於加拿大地區，影響所有產業。
+根據《加拿大環境保護法，1999》（CEPA）的分類，該物質在 2006 年 9 月的清單中被列出。該清單包含不同類型的具體描述和清單，並可通過以下連結查閱：Canadian Environmental Protection Act, 1999 (CEPA)，以及 DSL 分類搜尋引擎。下載 ""Categorization decisions for all DSL substances"" 的 Excel 表格，每一欄代表不同的終點：E 欄 - iT Human，H 欄 - Persistence，I 欄 - Bioaccumulation，J 欄 - iT Environment。
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1 以及 http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F。此物質的危害分類屬於生物累積性。"

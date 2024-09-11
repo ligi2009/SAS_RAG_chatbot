@@ -1,0 +1,721 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,高,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 決策樹 C5.0,高度/中度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+該物質的相關清單連結未提供，但根據 SAS QSAR 模型決策樹 C5.0 的資料，該物質被分類為高度或中度毒性。
+此資料的額外註解為 ""高度/中度毒性""，但預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,高,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 隨機森林,高度/中度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+該物質的相關清單連結與註解未提供，但根據 SAS QSAR 模型隨機森林的預測，該物質具有高度或中度毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,高,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 Polynomial核心,高度/中度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與詳細資料可參考 SAS QSAR 模型支持向量機 Polynomial 核心的研究結果，該模型顯示該物質具有高度或中度毒性。此資料的額外註解為 ""高度/中度毒性""。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,高,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 RBF核心,高度/中度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型支持向量機 RBF 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+目前沒有明確的適用地區與產業資訊，且是否具強制性要求也未明確記載。
+此物質的相關清單與資料可參考 SAS QSAR 模型支持向量機 RBF 核心，該模型顯示該物質具有高度或中度毒性。
+由於資料來源的可信度較低，建議進一步查閱其他權威機構的資料以確認其危害性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為低。根據 QSAR Toolbox: QSAR 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過 QSAR Toolbox: QSAR 查閱，該資料來源提供了低毒性的預測值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,高度/中度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:NO; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確。根據 ToxTree 分類模型的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+根據 ToxTree 分類模型，該物質被預測為具有高度或中度毒性，但對基因毒性致癌性為陰性，對非基因毒性致癌性為陰性，根據 QSAR 預測對 S. typhimurium TA100 突變原性為陰性，根據 QSAR 預測為潛在致癌物為陰性。
+此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致突變性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,translation missing: zh-TW.hazard_annotation.US EPA CompTox,低毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。該資料來源註解為 ""translation missing: zh-TW.hazard_annotation.US EPA CompTox""，並且該物質被標註為低毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致突變性,低,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv,輕度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據 QSAR 模型支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業，並且該資料來源不具強制性要求。
+相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv。該物質被認為具有輕度毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致突變性,低,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv,輕度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據 QSAR 模型支持向量機 RBF 核心的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv。該物質被認為具有輕度毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致突變性,低,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv,輕度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv。該物質被註解為輕度毒性，並無額外註解或預測值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,致突變性,低,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv,輕度毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+該物質的相關清單連結與註解未提供具體資訊，但根據資料，該物質被註解為輕度毒性。額外註解與預測值未提供進一步資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,生殖毒性,中,美國國家毒物計畫非癌症健康影響評估-繁殖或發育專著清單,相對高,危害等級分類清楚。,美國,所有,N,"The NIEHS Office of Health Assessment and Translation (OHAT) can be found at the first link. Reports and monographs from NTP studies (ongoing and completed) can be found at the second link.
+http://www.niehs.nih.gov/research/atniehs/dntp/assoc/ohat/index.cfm
+http://ntp.niehs.nih.gov/pubhealth/hat/noms/index.html",translation missing: zh-TW.hazard_annotation.Limited Evidence of No Adverse Effects – Reproductive or Some Evidence of No Adverse Effects – Reproductive,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據美國國家毒物計畫非癌症健康影響評估-繁殖或發育專著清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國國家毒物計畫（NTP）的健康評估與翻譯辦公室（OHAT）中有詳細記載，相關報告和專著可通過以下連結查閱：
+1. [NIEHS Office of Health Assessment and Translation (OHAT)](http://www.niehs.nih.gov/research/atniehs/dntp/assoc/ohat/index.cfm)
+2. [NTP Reports and Monographs](http://ntp.niehs.nih.gov/pubhealth/hat/noms/index.html)
+
+該清單中包含了有限證據顯示無不良影響的生殖毒性或某些證據顯示無不良影響的生殖毒性。此清單不具強制性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，影響所有產業。
+根據日本 GHS 的分類，DINP 被歸類為生殖毒性危害第 2 級，對應的危害代碼為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。此資料庫可用於個別搜尋化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,發育毒性,高,美國國家毒物計畫非癌症健康影響評估-繁殖或發育專著清單,相對高,危害等級分類清楚。,美國,所有,N,"The NIEHS Office of Health Assessment and Translation (OHAT) can be found at the first link. Reports and monographs from NTP studies (ongoing and completed) can be found at the second link.
+http://www.niehs.nih.gov/research/atniehs/dntp/assoc/ohat/index.cfm
+http://ntp.niehs.nih.gov/pubhealth/hat/noms/index.html",translation missing: zh-TW.hazard_annotation.Limited Evidence of Adverse Effects – Developmental or Some Evidence of Adverse Effects – Developmental,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據美國國家毒物計畫非癌症健康影響評估-繁殖或發育專著清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，主要影響所有產業。
+該物質在美國國家毒物計畫（NTP）的評估中被列出，相關清單可通過以下連結查閱：NIEHS 健康評估與翻譯辦公室（OHAT）以及 NTP 研究報告和專著。這些清單會定期更新，並提供所有相關的研究資料。
+此清單不具強制性要求，相關連結如下：
+[NIEHS 健康評估與翻譯辦公室（OHAT）](http://www.niehs.nih.gov/research/atniehs/dntp/assoc/ohat/index.cfm)
+[NTP 研究報告和專著](http://ntp.niehs.nih.gov/pubhealth/hat/noms/index.html)
+
+該物質的危害分類屬於發育毒性，根據資料來源，存在有限的發育不良影響證據或某些發育不良影響證據。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，該物質被列為生殖毒性危害第 2 級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,慢毒性危害,內分泌干擾,高,歐盟內分泌干擾物優先列表,相對低,包含多種危害終點，危害等級分類模糊。,歐盟,所有,Y,"List developed from four EU studies published between 1999 and 2007. Categorization results contained in 1) reports and 2) a consolidated Microsoft Access database at the link below.
+http://ec.europa.eu/environment/chemicals/endocrine/strategy/substances_en.htm#priority_list",分類第一級或二級,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為高。根據歐盟內分泌干擾物優先列表，該資料來源的可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於歐盟地區，影響所有產業。
+該物質在歐盟內分泌干擾物優先列表中列出，該清單是根據 1999 年至 2007 年間發表的四項歐盟研究所制定，分類結果包含在報告和一個整合的 Microsoft Access 資料庫中，相關清單可通過以下連結查閱：http://ec.europa.eu/environment/chemicals/endocrine/strategy/substances_en.htm#priority_list。
+該法規在歐盟地區具有強制性要求，該物質的危害分類屬於第一級或第二級。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前無明確適用地區與產業的資訊，且是否具強制性要求尚不清楚。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+目前無明確適用地區與產業的資訊，且是否具強制性要求尚不清楚。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+目前無明確適用地區與產業資訊，且是否具強制性要求尚不清楚。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。
+
+此物質的危害分類尚未完全明確，需進一步查閱相關資料以獲取更詳細的資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了該物質的詳細資訊，但未提供額外註解或預測值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前無明確適用地區與產業資訊，且是否具強制性要求尚不清楚。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的註解或額外註解。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了關於 DINP 的詳細資訊，但未提供額外註解或預測值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,急性毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3: R: Negative,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為相對低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單或連結未提供。此物質的預測值顯示為 Human Health Hazards / Sensitisation / EC3: R: Negative。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級相對較低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料可通過以下連結查閱：Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation。此清單不具強制性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級未明確標示。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類尚不清楚，且目前沒有具強制性的法規要求。相關清單或資料連結未提供。此物質的危害分類屬於 Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: ,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，危害等級為相對低。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或註解。此物質的危害分類屬於皮膚致敏性，並且在 Human Health Hazards / Sensitisation / Skin sensitisation 中有所記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: R: Negative,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚致敏 - 重複劑量，根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或註解。根據 Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: R: Negative 的預測值，該物質在皮膚致敏方面的風險評估結果為陰性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,呼吸致敏 - 重複劑量,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為呼吸致敏 - 重複劑量，危害等級為低。根據 QSAR Toolbox: QSAR 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單連結與註解未提供，僅有額外註解指出該物質屬於低毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,皮膚刺激,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",腐蝕/刺激皮膚危害第2級：H315,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於紐西蘭地區，並適用於所有產業。
+紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。相關清單可通過以下連結查閱：紐西蘭危險物質和新有機物（HSNO）提供的化學分類和信息數據庫（CCID），以及描述從 HSNO 到 GHS 分類轉換的文件。
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：[CCID](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx) 和 [HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)。
+此物質的危害分類屬於腐蝕/刺激皮膚危害第2級：H315。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,急毒性危害,眼睛刺激,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.GHS_Japan,低毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為低。根據 QSAR Toolbox: QSAR 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於所有地區與產業，並且不具強制性要求。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.GHS_Japan。此物質被歸類為低毒性。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該資料庫提供了關於化學物質的詳細資訊，包括其環境和健康影響。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確記載該物質的適用地區與產業，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單與資料可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了詳細的化學物質資訊，但未具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此資料庫提供了關於化學物質的詳細資訊，並可進行進一步的查詢與研究。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了該物質的詳細資訊，但未提供額外註解或預測值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區和適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。該資料庫提供了關於化學物質的詳細資訊，但未明確指出是否具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更詳細的資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求尚不明確。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此資料庫提供了關於該物質的詳細資訊，但未提供具體的強制性規範。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+目前無明確適用地區與產業的資訊，且是否具強制性要求尚不明確。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確的適用地區與適用產業資訊，且是否具強制性要求也未明確記載。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了相關的化學物質資訊，但未提供具體的強制性要求或適用產業的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更多信息。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確記載此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確定具體分類。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查詢功能。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求尚不明確。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求尚不明確。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。該清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單的具體強制性要求未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：CompTox 化學物質儀表板。此清單提供了詳細的化學物質資訊，並可按 CAS 編號或名稱進行查詢。該資料庫會定期更新，並提供相關的環境危害資訊。
+此物質的危害分類是否具強制性未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確記載此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。該清單是否具強制性未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確定具體分類。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查詢功能。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未明確記載。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，且無強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未有明確的等級分類。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單提供了關於 DINP 的詳細資料，但並未提供具體的強制性規範。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，且無強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未有明確的預測值或額外註解。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的具體危害分類尚不明確，需進一步查閱相關資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求也未明確。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無明確適用地區與產業的資訊，且是否具強制性要求也未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確的適用地區和適用產業資訊，且是否具強制性要求尚不清楚。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更多信息。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：CompTox 化學物質儀表板。此清單提供了關於該物質的詳細資料，但未提供具體的強制性要求或適用範圍。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此資料庫提供了關於化學物質的詳細資訊，並可進行進一步的查詢與研究。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細信息。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: ,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級未明確記載。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+目前沒有具體的清單連結或註解提供，且該資料來源不具強制性要求。相關的生態毒理學資訊或水生毒性資料可參考 EC50 或 LC50 值。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類是否清楚尚不明確，且適用地區與適用產業未具體說明。
+該物質的相關資料可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前無適用地區與產業的具體資訊，且是否具強制性要求尚不明確。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更詳細的資訊。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步研究與確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為非常高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+目前沒有明確指出此危害適用的地區與產業，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境流佈,持續性,高,translation missing: zh-TW.list_name.US EPA EPI Suite,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA EPI Suite,translation missing: zh-TW.prediction.H,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為高。根據美國環保署（US EPA）EPI Suite 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害分類適用於所有地區與產業。
+相關清單可通過以下連結查閱：美國環保署 EPI Suite。該清單包含相關的危害分類與預測值，並會隨著法規修訂進行更新。
+此清單不具強制性要求。"
+Diisononyl phthalate (DINP),,1,590836,28553-12-0,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.OECD QSAR Toolbox,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.OECD,非常低毒性,,,"Diisononyl phthalate (DINP)，CAS 編號為 28553-12-0，風險等級為 1，PubChem CID 為 590836。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常低。根據 OECD QSAR Toolbox 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：OECD QSAR Toolbox。該清單中會列出相關的危害註解，並標示為非常低毒性。此物質的危害分類屬於非常低毒性。"

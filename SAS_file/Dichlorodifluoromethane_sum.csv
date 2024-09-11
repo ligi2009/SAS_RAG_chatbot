@@ -1,0 +1,139 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,高,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 決策樹 C5.0,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+該物質的相關清單與連結未提供，但根據 SAS QSAR 模型決策樹 C5.0 的資料，該物質被列為高度或中度毒性。
+此資料的額外註解與預測值未提供。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,高,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 隨機森林,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+該物質的危害分類屬於高度或中度毒性，相關資料可參考 SAS QSAR 模型隨機森林的研究結果。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,高,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 Polynomial核心,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 QSAR 模型支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與連結未提供，但根據 SAS QSAR 模型支持向量機 Polynomial 核心的註解，該物質具有高度或中度毒性。此資料的額外註解與預測值未提供。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,低,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,SAS QSAR模型 支持向量機 RBF核心,輕度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為低。根據 QSAR 模型（支持向量機 RBF 核心）的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與更多資訊可參考 SAS QSAR 模型（支持向量機 RBF 核心），該模型顯示此物質具有輕度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,中,US EPA OncgLogic,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA OncgLogic,中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據美國環保署（US EPA）OncgLogic 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單或資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.US EPA OncgLogic。該物質被認為具有中度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性。根據美國職業安全與健康管理局（US OSHA）毒性釋放清單（TRI Carcinogens），該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國 OSHA 的毒性釋放清單中列出，該清單包含致癌性物質，且相關 CAS 編號記載於該清單中。該法規在美國地區具有強制性要求，相關清單可通過以下連結查閱：Toxics Release Inventory (TRI) Program。此物質的危害分類屬於第一級或第二級。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據 ToxTree 模型的分類，該資料來源的可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此物質的危害適用於所有地區與產業。
+根據 ToxTree 模型的預測，二氯二氟甲烷對基因毒性致癌性和非基因毒性致癌性均為陰性，且基於 QSAR（定量結構-活性關係）的預測，該物質對 S. typhimurium TA100 的致突變性和潛在致癌性均為陰性。
+此清單不具強制性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致突變性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,translation missing: zh-TW.hazard_annotation.US EPA CompTox,低毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為低。根據美國環保署CompTox資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。該清單中包含多種化學物質的詳細資料，並提供相關的低毒性註解。
+此清單不具強制性要求。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致突變性,高,QSAR模型 支持向量機 Polynomial核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型中的支持向量機 Polynomial 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_poly.csv。該物質被分類為高度或中度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致突變性,高,QSAR模型 支持向量機 RBF核心,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型支持向量機 RBF 核心的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_wFG_mw1300_svm_rbf.csv。該物質被註解為高度/中度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致突變性,高,QSAR模型 決策樹 C5.0,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型決策樹 C5.0 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_c5.csv。該物質被標註為高度/中度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,致突變性,高,QSAR模型 隨機森林,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv,高度/中度毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為高。根據 QSAR 模型隨機森林的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.to_prec_che_w_FG_mw1300_rf.csv。該物質被註解為高度/中度毒性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,生殖毒性,低,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為低。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,發育毒性,中,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",懷孕風險組C,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據德國最大工作場所濃度清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此危害適用於德國地區，主要影響所有產業的工作場所安全。該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）常設參議會化學化合物健康危害調查委員會（MAK Commission）制定，並可通過以下連結查閱：MAK Commission分類目錄，該目錄每年更新，並可在 Wiley 網站上以 PDF 格式獲取。
+
+該法規在德國地區具有強制性要求，相關清單可通過以下連結查閱：
+1. [德國研究基金會（DFG）常設參議會化學化合物健康危害調查委員會（MAK Commission）](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html)
+2. [Wiley 上的 MAK 和 BAT 值清單](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)
+
+該物質的危害分類屬於懷孕風險組C。"
+Dichlorodifluoromethane,,1,6391,75-71-8,慢毒性危害,內分泌干擾,低,US EPA ToxCast,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA ToxCast,不干擾雌/雄激素受器,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為低。根據美國環保署（US EPA）ToxCast 計畫的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業。
+根據 US EPA ToxCast 計畫的資料，二氯二氟甲烷不干擾雌/雄激素受器。相關清單可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.US EPA ToxCast。此清單不具強制性。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署極度危害物質清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國環保署的極度危害物質清單中列出，該清單包含 EPCRA 第 302 條極度危害物質，並記載於 40 CFR Part 355 的附錄 A 和 B 中。
+該法規在美國地區不具強制性要求，相關清單可通過以下連結查閱：USEPA Consolidated List of Lists, March 2015。GreenScreen 僅使用 EPCRA 第 302 條極度危害物質，這些物質也列於 40 CFR Part 355 的附錄 A 和 B 中。
+此物質的危害分類屬於極度危害物質。相關清單可通過以下連結查閱：http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並且適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於急毒性危害，並且相關清單會隨著法規修訂進行更新。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並適用於所有產業。該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+
+此物質的危害分類屬於高等級，並且相關清單會定期更新，提供所有相關 CAS 編號與調和分類的詳細資訊。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,神經毒性 - 單次劑量,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中的危害等級被列為特定標的器官系統毒性（單一暴露）第 3 級，對應 H336（麻醉效應）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。此資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。相關連結為：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+此物質的危害分類屬於高等級。"
+Dichlorodifluoromethane,,1,6391,75-71-8,急毒性危害,眼睛刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單，這是 ""Chemical Hazard and Risk Information"" 下的一個子部分。
+此物質的危害分類屬於高等級。"
+Dichlorodifluoromethane,,1,6391,75-71-8,環境危害,急性水生毒性,低,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據日本 GHS 的資料來源，可信度相對較低，且危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+此物質的危害分類屬於低等級。"
+Dichlorodifluoromethane,,1,6391,75-71-8,環境危害,慢性水生毒性,中,US EPA ECOSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA ECOSAR,translation missing: zh-TW.prediction.M,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署（US EPA）ECOSAR 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業。
+目前沒有具體的強制性要求或適用產業的詳細資訊。相關清單與資料可通過以下連結查閱：translation missing: zh-TW.hazard_annotation.US EPA ECOSAR。此物質的預測值為 translation missing: zh-TW.prediction.M。"
+Dichlorodifluoromethane,,1,6391,75-71-8,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為非常高。根據加拿大國內物質清單（DSL）的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於加拿大地區，影響所有產業。
+根據《加拿大環境保護法，1999》（CEPA）的規定，該物質在 2006 年 9 月的描述和特定清單中被列出。DSL 分類搜索引擎可通過以下連結查閱，並可下載包含所有 DSL 物質分類決策的電子表格。每個欄位代表不同的終點：欄位 E - 人類毒性，欄位 H - 持續性，欄位 I - 生物累積性，欄位 J - 環境毒性。
+相關清單可通過以下連結查閱：
+[Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link)](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1)
+[DSL categorization search engine (second link)](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F)
+該法規在加拿大地區具有強制性要求。"
+Dichlorodifluoromethane,,1,6391,75-71-8,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.US EPA EPI Suite,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.US EPA EPI Suite,非常低毒性,,,"二氯二氟甲烷（Dichlorodifluoromethane），CAS 編號為 75-71-8，風險等級為 1，PubChem CID 為 6391。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常低。根據美國環保署 EPI Suite 的資料來源，可信度相對較低，且危害等級分類清楚。
+此物質的危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與資料可通過以下連結查閱：美國環保署 EPI Suite。該物質被評估為非常低毒性。"

@@ -1,0 +1,823 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,中,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",致癌性危害第2級：H351,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+
+此危害適用於歐盟地區，主要影響製造業（C 類）。該物質的危害等級被列為第 2 級的致癌性危害，並對應 H351。
+
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+
+該法規在歐盟地區具有強制性要求，相關清單可通過以下連結查閱：
+- [ECHA 化學物質資訊資料庫](https://echa.europa.eu/information-on-chemicals/cl-inventory-database)
+- [CLP 法規附錄 VI](https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp)
+
+此物質的危害分類屬於第 2 級。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,國際癌症研究機構清單,相對高,危害等級分類清楚。,全球,所有,N,"Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php",第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據國際癌症研究機構（IARC）清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+
+此物質的危害適用於全球所有地區與產業。
+
+根據 IARC 分類，二氯甲烷被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。相關清單可通過以下連結查閱：IARC 分類清單。清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。此清單不具強制性。
+
+相關清單可通過以下連結查閱：[IARC 分類清單](http://monographs.iarc.fr/ENG/Classification/index.php)。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,美國環保署整合性風險資料系統,相對高,危害等級分類清楚。,美國,所有,N,"""US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link).""
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris ",已知或很可能有毒性,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國環保署整合性風險資料系統（US EPA Integrated Risk Information System），該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國環保署的整合性風險資料系統中列出，相關清單可通過以下連結查閱：US EPA Integrated Risk Information System home page，Advanced search by substance ID。
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。
+此清單不具強制性要求，但已知或很可能有毒性。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,美國衛生與公眾服務部-第十四次致癌物報告,相對高,危害等級分類清楚。,美國,所有,Y,"The Report on Carcinogens (RoC) is prepared by the National Toxicology Program (NTP) on behalf of the Secretary, Health and Human Services (description at the first link). The latest RoC edition is available at the second link.
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html",合理預期的人類致癌物,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國衛生與公眾服務部發布的第十四次致癌物報告，該資料來源的可信度相對較高，且危害等級分類清楚。
+
+此危害適用於美國地區，並影響所有產業。根據報告，甲烷氯化物被合理預期為人類致癌物。該報告由國家毒理學計劃（NTP）代表衛生與公眾服務部長編制，最新的致癌物報告版本可通過以下連結查閱：
+- [第十四次致癌物報告](http://ntp.niehs.nih.gov/pubhealth/roc/index.html)
+- [第十二次致癌物報告](http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html)
+
+該法規在美國地區具有強制性要求，並且相關清單會定期更新，提供所有相關 CAS 編號與調和分類的詳細資料。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,美國疾病控制中心 - 職業致癌物清單,相對高,危害等級分類清楚。,美國,所有 (workplace safety),N,"NIOSH's carcinogen policy is described at the first link below. The current occupational carcinogen list is at the second link
+http://www.cdc.gov/niosh/topics/cancer/policy.html
+http://www.cdc.gov/niosh/topics/cancer/npotocca.html",職業性致癌物,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國疾病控制中心（CDC）職業致癌物清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此危害適用於美國地區，主要影響所有需要考量工作場所安全的產業。
+根據 CDC 的職業致癌物政策，甲烷氯化物被列為職業性致癌物。相關清單可通過以下連結查閱：CDC 職業致癌物政策，以及當前的職業致癌物清單。這些清單會定期更新，並提供所有相關 CAS 編號與分類的詳細資訊。
+此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",Carcinogen – specific to chemical form or exposure route,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據美國加州第65號提案的資料來源，可信度相對較高，且危害等級分類清楚。
+此危害適用於加利福尼亞州，美國，並影響所有產業。
+根據加州第65號提案，二氯甲烷被列為致癌物，且該提案具有強制性要求。相關清單可通過以下連結查閱：Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.，http://oehha.ca.gov/proposition-65/about-proposition-65，http://oehha.ca.gov/proposition-65/proposition-65-list。
+該清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料下載功能。此物質的危害分類屬於致癌性，且具體針對化學形式或暴露途徑。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,中,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",Carcinogen Group 3A or 3B or 4 or 5,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據德國最大工作場所濃度清單的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用於德國地區，主要影響所有工作場所安全（workplace safety）。
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）的永久參議會委員會（MAK Commission）進行調查，並每年在 Wiley 上更新。相關清單可通過以下連結查閱：
+- [DFG 健康危害調查委員會](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html)
+- [MAK 和 BAT 值清單](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)
+
+該物質的危害分類屬於 Carcinogen Group 3A、3B、4 或 5，並且在德國地區具有強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據加拿大工作場所有害物質訊息系統（WHMIS）2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於加拿大地區，並影響所有產業。根據 WHMIS 的分類，二氯甲烷被歸類為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+1. [WHMIS 官方網站](http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php)
+2. [魁北克 CSST 網站](http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx)
+
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 txt 或 PDF 文件下載功能。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並影響所有產業。該物質在日本 GHS 分類中被列為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",致癌性危害第1A或1B級：H350或H350i (吸入性),,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，甲烷氯化物被歸類為第 1A 或 1B 級的致癌性危害，並對應 H350 或 H350i（吸入性）。
+相關的南韓 GHS 調和分類的最新清單，可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，並包含五大類別的化學品：需註冊的階段性物質、有毒物質、受限制物質、禁止物質以及需準備事故應對的物質。每個類別都需單獨搜索，因為某些化學品可能只在其中一個清單中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,中,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",致癌性危害第2級：H351,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據馬來西亞 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於馬來西亞地區，主要影響製造業（C 類）和批發及零售業（G 類）。
+該物質在馬來西亞 GHS 中被列為致癌性危害第 2 級，對應 H351（懷疑致癌性）。
+相關清單可通過以下連結查閱：The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only. 此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+該法規在馬來西亞地區具有強制性要求，相關清單可通過以下連結查閱：http://cims.dosh.gov.my/。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",致癌性危害第2級：H351,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並影響所有產業。該物質在紐西蘭的 GHS 分類中被列為致癌性危害第 2 級，對應 H351。
+
+紐西蘭的化學分類和資訊資料庫（CCID）提供了查詢個別化學品危害的功能，相關清單可通過以下連結查閱：
+- [紐西蘭 EPA 化學分類和資訊資料庫](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+- [HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+
+紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。該文件描述了從 HSNO 到 GHS 分類的轉換過程。
+
+此法規在紐西蘭地區具有強制性要求，相關清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H350,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，該資料來源的可信度相對較低，但危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的 CAS 編號與物質詳細資訊，並會隨著資料庫更新進行調整。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,致癌性危害第2級：H351,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害等級被列為第 2 級的致癌性危害，並對應 H351（懷疑致癌性）。
+相關的資料可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的化學物質資訊，並提供下載功能。
+此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Silent Spring - Breast Cancer Chemicals,相對低,危害等級分類清楚。,,所有,N,http://sciencereview.silentspring.org/mamm_browse.cfm,,,IARC group: 2B; US EPA: B2,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據 Silent Spring - Breast Cancer Chemicals 清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於所有地區與產業。
+該物質在 IARC 分類中被歸類為第 2B 類（可能為人體致癌物），在美國環保署（US EPA）中被歸類為 B2 類（可能為人體致癌物）。相關清單可通過以下連結查閱：Silent Spring - Breast Cancer Chemicals 清單。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據美國職業安全與健康管理局（US OSHA）公告的有毒物質釋放清單（TRI Carcinogens），該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於美國地區，並影響所有產業。
+該物質在美國 OSHA 的有毒物質釋放清單中列出，該清單包含致癌性物質，且相關 CAS 編號記載於美國環保署（EPA）的文件中，並會隨著法規修訂進行更新。
+該法規在美國地區具有強制性要求，相關清單可通過以下連結查閱：[有毒物質釋放清單](https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf)。此物質的危害分類屬於第一級或第二級。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,高度/中度毒性,Negative for genotoxic carcinogenicity:NO; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致癌性，危害等級未明確標示。根據 ToxTree 分類模型的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+根據 ToxTree 分類模型的預測，二氯甲烷對基因毒性致癌性呈陰性，對非基因毒性致癌性呈陰性，基於 QSAR 的預測顯示對 S. typhimurium TA100 突變原性呈陰性，對潛在致癌性也呈陰性。
+該物質的危害分類包含多種危害終點，危害等級分類不明確，且不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致突變性,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖細胞致突變性危害第2級：H341,,,,"亞甲基氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，亞甲基氯化物被歸類為生殖細胞致突變性危害第 2 級（H341）。
+相關的南韓 GHS 調和分類的最新清單，可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。該系統可用於搜索化學品的 GHS 分類，並包含五大類別的化學品：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質以及需準備應對事故的物質。每個類別都需單獨搜索，因為某些化學品可能只在某一清單中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,致突變性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H341,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為致突變性，危害等級為中。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的化學物質資訊，並提供額外的資料下載功能。此物質的危害分類屬於 H341（致突變性）。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為生殖毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+根據日本 GHS 的分類，二氯甲烷被歸類為生殖毒性危害第 2 級，對應的危害代碼為 H360Df 或 H361f 或 H361fd（生育能力、胎兒）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於第 2 級。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,發育毒性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",懷孕風險組A或B,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據德國最大工作場所濃度清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此危害適用於德國地區，主要影響所有產業的工作場所安全。
+該物質在德國最大工作場所濃度清單中列出，該清單由德國研究基金會（DFG）常設參議會健康危害調查委員會（MAK Commission）制定，並可通過以下連結查閱：MAK Commission分類類別可在 Wiley 的 PDF 文件中查閱（每年更新）：[DFG 連結](http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html) 和 [Wiley 連結](http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm)。
+該物質的危害分類屬於懷孕風險組 A 或 B，且在德國地區具有強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並影響所有產業。根據日本 GHS 的分類，二氯甲烷被列為生殖毒性危害第 2 級，對應的危害代碼為 H360Fd 或 H361d 或 H361fd（生育能力、胎兒）。
+
+相關的日本 GHS 調和分類的最新清單，可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中勾選所有選項以檢索完整的 CASRNs 清單。
+
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput。該清單包含生殖毒性危害第 2 級的物質，並會隨著法規修訂進行更新。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,發育毒性,高,"The Lancet Neurology 13(3), 330-338",相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/",發育神經毒性,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為發育毒性，危害等級為高。根據《The Lancet Neurology》期刊第13卷第3期（頁330-338）的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於全球所有地區與產業。
+根據 Grandjean, P 和 PJ Landrigan 的研究，該物質的發育神經毒性已被記錄於《Developmental neurotoxicity of industrial chemicals》一文中，該文發表於《Lancet》期刊第368卷（頁2167-2178，2006年），以及《Neurobehavioural effects of developmental toxicity》一文中，該文發表於《The Lancet Neurology》期刊第13卷（頁330-338，2014年）。
+相關資料可通過以下連結查閱：http://www.ncbi.nlm.nih.gov/pubmed/17174709 和 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/。此清單不具強制性。"
+Methylene Chloride,,1,6344,75-09-2,慢毒性危害,內分泌干擾,高,國際內分泌干擾交流協會 - 潛在內分泌干擾物清單,相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch",潛在內分泌干擾物,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於慢毒性危害，主要的危害為內分泌干擾，危害等級為高。根據國際內分泌干擾交流協會（TEDX）公告的潛在內分泌干擾物清單，該資料來源的可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+此危害適用於全球所有地區與產業。
+該物質在 TEDX 清單中列出，該清單包含潛在內分泌干擾物，並會隨著研究進展進行更新。相關清單可通過以下連結查閱：TEDX 主網站，以及 TEDX 潛在內分泌干擾物清單。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署極度危害物質清單，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用於美國地區，並影響所有產業。該物質在美國環保署的極度危害物質清單中列出，該清單包含 EPCRA 第 302 條極度危害物質，這些物質也列於 40 CFR Part 355 的附錄 A 和 B 中。
+
+該法規在美國地區不具強制性要求，相關清單可通過以下連結查閱：USEPA Consolidated List of Lists, March 2015。GreenScreen 僅使用 EPCRA 第 302 條極度危害物質。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+
+此物質的危害分類屬於極度危害物質。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，且相關資料中未提供額外註解或預測值。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為 DG。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+目前沒有明確指出該危害適用的地區與產業，且是否具強制性也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單提供了關於二氯甲烷的詳細資料，但未提供額外註解或預測值。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於加拿大地區，並適用於所有產業。該物質在加拿大工作場所有害物質訊息系統（WHMIS）中被列出，該清單包含急毒性危害第4級：H302（吞食）、H312（皮膚）或 H332（吸入）。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+1. [WHMIS 官方網站](http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php)
+2. [魁北克 CSST 網站](http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx)
+
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 txt 或 PDF 文件下載功能。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據日本 GHS 的資料來源，該資料的可信度相對較低，但危害等級分類清楚。
+
+此危害適用於日本地區，並且適用於所有產業。該物質在日本 GHS 分類中被列為急毒性危害第 4 級，對應的危害代碼為 H302（吞食）、H312（皮膚）或 H332（吸入）。
+
+相關的日本 GHS 分類清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。
+
+此法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：[NITE-CHRIP Database](http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput)。該清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+
+此危害適用於紐西蘭地區，並且適用於所有產業。該物質在紐西蘭的化學分類和資訊資料庫（CCID）中列出，該清單由紐西蘭危險物質和新有機物（HSNO）提供，並可通過以下連結查閱：紐西蘭化學分類和資訊資料庫（CCID）。紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。相關文件描述了從 HSNO 到 GHS 分類的轉換，並可通過以下連結查閱：HSNO 到 GHS 分類轉換文件。
+
+該物質的急毒性危害被列為第 4 級，對應的危害說明包括 H302（吞食）、H312（皮膚）或 H332（吸入）。此法規在紐西蘭地區具有強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H302,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫，該連結提供了額外的資料下載功能。此物質的危害分類屬於 H302（吞入有害）。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H332,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為中。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類適用於全球所有地區與產業，並且相關清單可通過以下連結查閱：PubChem 資料庫。
+該清單包含相關的 CAS 編號與物質資訊，並會隨著資料庫的更新進行調整。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"亞甲基氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為急性毒性，危害等級為非常高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於急毒性危害，並且在日本地區具有強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為翻譯缺失：zh-TW.hazard_class.ST-R，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類。要檢索完整的 CASRNs 清單，請在 ""GHS Classification Results by the Japanese Government"" 部分中的 ""Chemical Hazard and Risk Information"" 子部分中勾選所有框。
+此物質的危害分類屬於高等級。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,神經毒性 - 單次劑量,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在 WHMIS（加拿大工作場所有害物質訊息系統）中列出，該清單包含所有受控產品，並可按 CAS 編號查詢，且提供 txt 或 PDF 文件下載功能。
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：WHMIS 說明，Quebec CSST 網站。此物質的危害分類屬於特定標的器官系統毒性（單一暴露）第 3 級：H336（麻醉效應）。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,神經毒性 - 單次劑量,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並且適用於所有產業。
+根據日本 GHS 的分類，甲烷氯化物被歸類為特定標的器官系統毒性（單一暴露）危害第 3 級：H336（麻醉效應）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+此物質的危害分類屬於第三級。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,神經毒性 - 單次劑量,中,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為神經毒性 - 單次劑量，危害等級為中。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，二氯甲烷被歸類為特定標的器官系統毒性（單一暴露）危害第 3 級，對應 H336（麻醉效應）。
+相關的南韓國家化學物質資訊系統（NCiS）可用於查詢化學物質的 GHS 分類。GreenScreen List Translator 僅包含五大類別的化學物質：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質，以及需準備事故應對的物質。每個類別都需單獨查詢，因為某些化學物質可能僅在其中一個清單中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,"Human Health Hazards / Sensitisation / EC3: Negative, In domain",,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於所有地區與產業。該物質的危害分類不具強制性要求，且目前沒有提供相關清單連結或額外註解。
+
+根據預測值，該物質在人類健康危害方面的皮膚致敏性測試結果為陰性，且屬於預測範疇內。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且屬於重複劑量的危害。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+
+此危害適用於所有地區與產業。該物質不具強制性要求，相關清單連結與額外註解未提供。
+
+根據預測值，該物質在人類健康危害方面，屬於皮膚致敏的範疇，並且可能涉及 EC3 或其他相關的皮膚致敏指標。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且為重複劑量暴露。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或註解。根據預測值，該物質在人類健康危害方面可能涉及皮膚致敏，並且 EC3 值或皮膚致敏性指標顯示其具有一定的致敏風險。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: ,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，特別是在重複劑量下。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或額外註解。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: No value,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚致敏，且屬於重複劑量暴露的危害。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊，包含多種危害終點。
+此危害適用於所有地區與產業。
+該物質的危害分類不具強制性要求，相關清單與資料來源未提供具體連結或額外註解。根據預測值，該物質在人類健康危害方面可能涉及皮膚致敏，但未提供具體數值。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚刺激,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",腐蝕/刺激皮膚危害第2級：H315,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據加拿大工作場所有害物質訊息系統 2015 分類清單，該資料來源的可信度相對較低，但危害等級分類清楚。
+此危害適用於加拿大地區，並影響所有產業。
+該物質在加拿大工作場所有害物質訊息系統（WHMIS）中列出，該清單包含所有受控產品，並可按 CAS 編號查詢，且提供 txt 或 PDF 格式的下載功能。
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：WHMIS 說明，以及 Quebec CSST 網站。此物質的危害分類屬於腐蝕/刺激皮膚危害第2級（H315）。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",腐蝕/刺激皮膚危害第2級：H315,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並適用於所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學品的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。
+此物質的危害分類屬於腐蝕/刺激皮膚危害第2級（H315）。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚刺激,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",腐蝕/刺激皮膚危害第2級：H315,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據南韓 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於韓國地區，並影響所有產業。
+根據南韓 GHS 的分類，二氯甲烷被歸類為腐蝕/刺激皮膚危害第 2 級（H315）。相關清單可通過以下連結查閱：The Korean National Chemicals Information System (NCiS)，該系統可用於搜索化學品的 GHS 分類。GreenScreen List Translator 僅包含 5 個廣泛的搜索類別：需註冊的過渡性物質、有毒物質、受限制物質、禁止物質以及需準備應對事故的物質。每個類別都需單獨搜索，因為某些化學品可能僅在某一清單中出現。
+該法規在韓國地區具有強制性要求，相關清單可通過以下連結查閱：http://ncis.nier.go.kr/en/main.do。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,腐蝕/刺激皮膚危害第2級：H315,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據 PubChem 資料庫和聯合國 GHS 的資料來源，該資料來源的可信度相對較低，但危害等級分類清楚。
+
+此物質的危害分類屬於腐蝕/刺激皮膚危害第2級，對應的危害說明為 H315。相關清單可通過以下連結查閱：PubChem 資料庫，該清單包含所有相關的化學物質資訊，並提供額外的資料下載功能。
+
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,皮膚刺激,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",腐蝕/刺激皮膚危害第2級：H315,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為皮膚刺激，危害等級為高。根據紐西蘭 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於紐西蘭地區，並影響所有產業。
+紐西蘭使用其自身的分類術語，需轉換為 GHS 分類類別以便在清單翻譯器中使用。相關清單可通過以下連結查閱：紐西蘭危險物質和新有機物（HSNO）提供的化學分類和信息數據庫（CCID），以及描述從 HSNO 到 GHS 分類轉換的文件。
+該法規在紐西蘭地區具有強制性要求，相關清單可通過以下連結查閱：
+[紐西蘭 HSNO CCID](http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx)
+[HSNO 到 GHS 分類轉換文件](http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf)
+此物質的危害分類屬於腐蝕/刺激皮膚危害第2級：H315。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的危害分類屬於嚴重眼睛損傷/刺激危害第 2A 級（H319）。
+相關清單可通過以下連結查閱：PubChem 資料庫。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,急毒性危害,眼睛刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,,"亞甲基氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於急毒性危害，主要的危害為眼睛刺激，危害等級為高。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，並影響所有產業。
+該物質在日本 GHS 法規中具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有選項以檢索完整的 CASRNs 清單。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚不清楚，且無額外註解或預測值提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高。然而，該資料庫包含多種危害終點，導致危害等級分類模糊。
+
+此物質的危害分類適用於多個地區與產業，但具體適用地區與產業未明確記載。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+該資料庫提供了詳細的化學物質資訊，但並未明確指出是否具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+目前沒有額外註解或預測值提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更詳細的資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該資料庫提供了詳細的化學物質資訊，並包含多種危害終點的資料。
+
+目前沒有明確指出該物質適用的地區與產業，且是否具強制性也未明確註明。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高。然而，該物質包含多種危害終點，危害等級分類相對模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+目前沒有額外註解或預測值提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查閱功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+目前沒有額外註解或預測值提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+
+此物質的危害分類適用於多個地區與產業，但具體適用地區與產業未明確記載。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+該資料庫提供了詳細的化學物質資訊，並包含多種危害終點的資料。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+目前沒有額外註解或預測值的相關資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確標示，需進一步查閱相關資料以獲取詳細資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更詳細的資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查詢功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取更多信息。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確標示，需進一步查閱相關資料以獲取詳細資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。該清單會定期更新，並提供相關 CAS 編號與危害分類的詳細資料。
+此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類相對模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的其他註解與額外註解未提供，預測值也未記載。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+
+此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，且危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供相關資料的查詢功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單提供了關於甲烷氯化物的詳細資料，但未提供額外註解或預測值。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的其他註解與額外註解未提供，預測值也未記載。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的額外註解與預測值未提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高。然而，該物質包含多種危害終點，危害等級分類相對模糊。
+
+此物質的危害分類適用於多種地區與產業，但具體適用地區與產業未明確記載。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板（https://www.epa.gov/chemical-research/comptox-chemicals-dashboard）。
+
+目前，該物質的危害分類是否具強制性要求尚未明確記載。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查詢功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與產業未明確記載，相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用於全球所有地區與產業。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。此清單不具強制性。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高。然而，該物質包含多種危害終點，危害等級分類較為模糊。
+
+目前沒有明確記載該物質適用的地區與產業，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更詳細的資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害適用地區與產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，且無額外註解或預測值提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細信息。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此危害的適用地區與適用產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區和適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的其他註解與額外註解未提供，預測值也未記載。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查閱功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的詳細資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此危害的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。
+
+此物質的危害分類尚未完全清楚，且資料中未提供額外註解或預測值。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+
+額外註解與預測值未提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供所有相關 CAS 編號與調和分類的資料。
+
+額外註解與預測值未提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單提供了詳細的化學物質資訊，但具體的危害分類和適用範圍需要進一步查閱。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此物質的危害分類尚未明確，需進一步確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供相關的化學物質資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關資料的查詢功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署CompTox化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單與更多資訊可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該資料庫提供了詳細的化學物質資訊，並包含多種危害終點的資料。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的額外註解與預測值未提供。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",水生環境之急性危害第3級：H402,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據日本 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用於日本地區，且適用於所有產業。
+根據日本 GHS 的分類，甲烷氯化物被歸類為水生環境之急性危害第 3 級（H402）。
+該法規在日本地區具有強制性要求，相關清單可通過以下連結查閱：The NITE Chemical Risk Information Platform (NITE-CHRIP) database。該資料庫可用於單獨搜索化學物質的 GHS 分類，並可在 ""Chemical Hazard and Risk Information"" 下的 ""GHS Classification Results by the Japanese Government"" 部分中選擇所有框以檢索完整的 CASRNs 清單。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H402,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級為中。根據 PubChem 資料庫與聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此危害適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含急性水生毒性（H402）物質，並會隨著資料庫更新進行調整。
+此物質的危害分類屬於中等級，且相關資料不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: T: 2.376 (1.329÷3.422) log(1/mol/L),,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為急性水生毒性，危害等級未明確標示。根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊。
+此危害適用於所有地區與產業。
+該物質的危害分類包含多種危害終點，具體分類尚不明確。相關的生態毒理學資訊顯示，該物質的水生毒性（EC50 或 LC50）為 T: 2.376（1.329÷3.422）log(1/mol/L)。
+目前沒有強制性要求，且無相關清單連結或額外註解。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未完全清楚，需進一步查閱相關資料以獲取更多信息。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以確認。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類模糊。
+此物質的危害分類適用地區與產業未明確記載。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單不具強制性要求。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫，該資料來源的可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未有明確的等級或分類標準。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此物質的危害分類尚未明確，需進一步查閱相關資料以獲取詳細信息。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"甲烷氯化物（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的危害分類適用地區與產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。該清單會定期更新，並提供相關資料的查詢功能。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但包含多種危害終點，危害等級分類較為模糊。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質儀表板。此清單會定期更新，並提供相關的化學物質資訊。"
+Methylene Chloride,,1,6344,75-09-2,環境危害,慢性水生毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H412,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境危害，主要的危害為慢性水生毒性，危害等級為中。根據 PubChem 資料庫和聯合國 GHS 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區和適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：PubChem 資料庫。該清單包含相關的化學物質資訊，並提供額外的註解和預測值。"
+Methylene Chloride,,1,6344,75-09-2,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+
+該物質屬於環境流佈危害，主要的危害為持續性，危害等級為非常高。根據加拿大國內物質清單（DSL）的資料來源，可信度相對較低，且包含多種危害終點，危害等級分類模糊。
+
+此危害適用於加拿大地區，影響所有產業。根據加拿大環境保護法（Canadian Environmental Protection Act, 1999，CEPA），該法規於 2006 年 9 月發布，並提供具體的清單與分類說明。DSL 分類搜尋引擎可通過以下連結查閱，並可下載包含所有 DSL 物質分類決策的電子表格。每個欄位代表不同的危害終點，例如：欄位 E - iT Human，欄位 H - Persistence，欄位 I - Bioaccumulation，欄位 J - iT Environment。
+
+該法規在加拿大地區具有強制性要求，相關清單可通過以下連結查閱：
+- [Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1)
+- [DSL categorization search engine](http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F)
+
+此物質的危害分類屬於持續性。"
+Methylene Chloride,,1,6344,75-09-2,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.OECD QSAR Toolbox,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.OECD,非常低毒性,,,"二氯甲烷（Methylene Chloride），CAS 編號為 75-09-2，風險等級為 1，PubChem CID 為 6344。
+該物質屬於環境流佈危害，主要的危害為生物累積性，危害等級為非常低。根據 OECD QSAR Toolbox 的資料來源，可信度相對較低，但危害等級分類清楚。
+此物質的適用地區與適用產業未明確記載，且是否具強制性要求也未明確說明。
+相關清單可通過以下連結查閱：OECD QSAR Toolbox。該物質的危害分類屬於非常低毒性。"

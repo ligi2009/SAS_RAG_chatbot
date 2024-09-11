@@ -4,14 +4,17 @@ from langchain_openai import ChatOpenAI
 import os
 import time  # 引入 time 模組
 
+API_key = 'yout api key'
+os.environ["OPENAI_API_KEY"] = API_key
 
 # 讀取原始的 CSV 檔案
-input_file = './SAS_file/Benzene.csv'
+# input_file = './SAS_file/Benzene.csv'
+input_file = './SAS_file/Tetrachloroethylene.csv'
 df = pd.read_csv(input_file)
 
 # 初始化 ChatOpenAI 模型
-llm = ChatOllama(model='mixtral:8x7b', temperature=0.1)
-# llm = ChatOpenAI(model='gpt-4o', temperature=0.1)
+# llm = ChatOllama(model='mixtral:8x7b', temperature=0.1)
+llm = ChatOpenAI(model='gpt-4o', temperature=0.1)
 # 創建一個新欄位來存放生成的文本
 df['Summary'] = ""
 
@@ -59,7 +62,8 @@ end_time = time.time()
 elapsed_time = end_time - start_time
 
 # 儲存為新的 CSV 檔案
-output_file = './SAS_file/Benzene_sum.csv'
+# output_file = './SAS_file/Benzene_sum.csv'
+output_file = './SAS_file/Tetrachloroethylene_sum.csv'
 df.to_csv(output_file, index=False)
 
 print(f"生成的文字已存為: {output_file}")

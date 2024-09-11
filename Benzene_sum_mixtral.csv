@@ -1,0 +1,1374 @@
+化學物名稱,中文名稱,風險等級,PubChem CID,CAS No.,危害組別,危害名稱,危害等級,資料來源,可信度,危害分類是否清楚,適用地區,適用產業,是否具強制性？,清單連結,註解,額外註解,預測值,Summary,Generated_Text
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,歐洲化學總署公告REACH法規附件17,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"""Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below).""
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 ",分類第一級或二級,,,," Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+此物賦屬於慢性有害品質，主要危害為致癌性，危害等級為高。根據歐洲化學總署公告的 REACH 法規附件 17，可信度相對較高，且危害等級分類明確。此危害適用於歐盟地區，主要影響製造業（C 類）。
+
+根據 REACH 法規，本物質已列入限制物質清單，相關法規在歐盟地區具有強制性要求。您可以通過以下連結查閱限制物質清單、REACH 法規及歐盟法律文本：
+<https://echa.europa.eu/substances-restricted-under-reach>
+<https://echa.europa.eu/regulations/reach/legislation>
+<https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&from=EN:%23page=279>
+
+此外，根據 GreenScreen List Translator 的資訊，本物質屬於 REACH 法規中的附錄 17 第 28、29、30 項所列出的物質。這些物質被分為 C（致癌性）、M（致突變性）和 R（生殖毒性）三類，並於 REACH 法規 EC (No) 1907/2006 的附錄 1-6 中列出。這些附錄會定期通過修正案更新。
+
+Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+此物賦屬於慢性有害品質，主要危害為致癌性，危害等級為高。根據歐洲化學總署公告的 IARC 分類清單，本物質被分為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。相關清單不具強制性。您可以通過以下連結查閱 IARC 分類清單，其中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出：
+<https://monographs.iarc.fr/agents-classified-by-the-iarc/>
+
+GreenScreen List Translator 只包括 REACH 法規中 Entries 28, 29 和 30 所提到的 C、M 和 R 物質。歐盟對這些 CASRN 的引用可在 REACH 法規 EC (No) 1907/2006 的附錄 1-6 中找到，這些附錄會定期通過修正案更新。"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",致癌性危害第1A或1B級：H350或H350i (吸入性),,,," Benzene, nan, 1, 241, 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,國際癌症研究機構清單,相對高,危害等級分類清楚。,全球,所有,N,"Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php",第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物,,,," Benzene,
+also known as CAS 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,美國環保署整合性風險資料系統,相對高,危害等級分類清楚。,美國,所有,N,"""US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link).""
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris ",Group A or B1 or B2,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,美國環保署整合性風險資料系統,相對高,危害等級分類清楚。,美國,所有,N,"""US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link).""
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris ",已知或很可能有毒性,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,美國衛生與公眾服務部-第十四次致癌物報告,相對高,危害等級分類清楚。,美國,所有,Y,"The Report on Carcinogens (RoC) is prepared by the National Toxicology Program (NTP) on behalf of the Secretary, Health and Human Services (description at the first link). The latest RoC edition is available at the second link.
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html",合理預期的人類致癌物,,,," Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+根據美國衛生與公眾服務部的第十四次致癌物報告，該物質屬於慢毒性危害，主要危害為致癌性，危害等級為高。
+這份報告由國家毒理計程團隊（NTP）在名列健康和人力資源部下辦公，可信度相對較高，且危害等級分類清楚。
+此危害適用於全球所有地區與產業。
+根據 IARC 分類，苯被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。
+相關清單可通過以下連結查閱：IARC 分類清單，清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。
+此清單不具強制性。
+
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html
+
+合理預期的人類致癌物。"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,美國疾病控制中心 - 職業致癌物清單,相對高,危害等級分類清楚。,美國,所有 (workplace safety),N,"NIOSH's carcinogen policy is described at the first link below. The current occupational carcinogen list is at the second link
+http://www.cdc.gov/niosh/topics/cancer/policy.html
+http://www.cdc.gov/niosh/topics/cancer/npotocca.html",職業性致癌物,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",Carcinogen – specific to chemical form or exposure route,,,," Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+根據美國加州第65號提案，該物質屬於慢毒性危害，主要危害為致癌性，危害等級為高。
+此資料來源的可信度相對較高，且危害等級分類清楚。
+這個危害適用於加利福尼亞州、美國以及全球其他地區和產業。
+根據 IARC 分類，苯被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。
+相關清單可通過以下連結查閱：IARC 分類清單，清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。
+此清單不具強制性。
+Prop 65 描述性資訊位於第一個連結 below。
+當前的物品列表位於第二個連結 below。
+
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list
+Carcinogen – specific to chemical form or exposure route"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",致癌物第一或二組,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",致癌性危害第1A或1B級：H350或H350i (吸入性),,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",致癌性危害第1A或1B級：H350或H350i (吸入性),,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",致癌性危害第1A或1B級：H350或H350i (吸入性),,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",致癌性危害第1A或1B級：H350或H350i (吸入性),,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",致癌性危害第1A或1B級：H350或H350i (吸入性),,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",致癌性危害第1A或1B級：H350或H350i (吸入性),,,," Benzene,
+ CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",致癌性危害第1A或1B級：H350或H350i (吸入性),,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H350,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Silent Spring - Breast Cancer Chemicals,相對低,危害等級分類清楚。,,所有,N,http://sciencereview.silentspring.org/mamm_browse.cfm,,,IARC group: 1; US EPA: A,," Benzene, with the CAS number 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens,相對低,危害等級分類清楚。,美國,所有,Y,https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf,,,Toxics Release Inventory (TRI) Program,," Benzene, also known as CAS 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致癌性,,translation missing: zh-TW.list_name.Classification model: ToxTree,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,輕度毒性,Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+此物質屬於慢毒性危害，主要危害為致突變性，危害等級為高。
+根據歐盟 GHS 的資料來源，可信度相對較高，且危害等級分類清楚。
+該危害適用於歐盟地區，主要影響製造業（C 類）。
+此物質的危害等級被列為第 1A 或 1B 級的致突變性危害，並對應 H340 (無法分類的生殖細胞致突變性危害)。
+相關的歐盟 GHS 調和分類的最新清單，可通過以下連結查閱：化學物質資訊資料庫，以及 CLP 法規附錄 VI。
+這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+
+Benzene,
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+此物質屬於慢毒性危害，主要危害為致癌性，危害等級為高。
+根據國際癌症研究機構（IARC）清單，該資料來源的可信度相對較高，且危害等級分類清楚。
+此物質的危害適用於全球所有地區與產業。
+根據 IARC 分類，苯被歸類為第 1 類（已知人類致癌物）或第 2A 類（極可能為人體致癌物）。相關清單可通過以下連結查閱：IARC 分類清單，清單中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。此清單不具強制性。"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,歐洲化學總署公告REACH法規附件17,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"""Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below).""
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 ",分類第一級或二級,,,," Benzene, also known as CAS 71-43-2, has a risk level of 1 and a PubChem CID of 241. This substance belongs to the category of slow-acting hazards, with its main danger being carcinogenicity, which has a high danger level. According to the REACH regulation's Annex XVII, published by the European Chemicals Agency (ECHA), the reliability of this information is relatively high, and the classification of hazard levels is clear. This hazard applies to the EU region and primarily affects manufacturing industries (C-type). Benzene is listed in REACH regulation's Annex XVII, which includes substances labeled as C (carcinogenic), M (mutagenic), and R (reproductive toxicity) with corresponding CAS numbers listed in REACH Regulation EC (No) 1907/2006, Appendices 1-6. The list is updated regularly as the regulation is amended. This regulation has mandatory enforcement in EU regions, and the relevant lists can be accessed through the following links: Restricted Substances List, REACH Regulation, and European Union Law Text. The hazard classification of this substance falls under level 1 or 2.
+
+Benzene, also known as CAS 71-43-2, has a risk level of 1 and a PubChem CID of 241. This substance belongs to the category of slow-acting hazards, with its main danger being carcinogenicity, which has a high danger level. According to data from the European GHS, the reliability of this information is relatively high, and the classification of hazard levels is clear. This hazard applies to the EU region and primarily affects manufacturing industries (C-type). The hazard level of benzene is classified as Group 1A or 1B carcinogenicity, corresponding to H350 or H350i (inhalation). The most recent harmonized classification list for chemicals in the EU can be accessed through the following links: Chemical Substance Information Database and CLP Regulation Annex VI. These lists are updated periodically.
+
+Benzene, also known as CAS 71-43-2, has a risk level of 1 and a PubChem CID of 241. This substance is classified as a slow-acting hazard, with its main danger being carcinogenicity, which has a high danger level. According to the International Agency for Research on Cancer (IARC), the classification of hazard levels is clear. This hazard applies to all regions and industries worldwide. Based on IARC classification, benzene is classified as Group 1 (known human carcinogen) or Group 2A (likely human carcinogen). The relevant lists can be accessed through the following links: IARC Classification List, which includes related IARC topic research volumes or supplementary data, with substances listed by CAS number, name, or as a group of substances. This list is not mandatory."
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,德國最大工作場所濃度清單,相對高,包含多種危害終點，危害等級分類模糊。,德國,所有 (workplace safety),Y,"The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm",生殖細胞突變性第1級、第2級或第3a級,,,, 苯（Benzene），CAS 編號為 7
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",生殖細胞致突變性危害第1A或1B級：H340,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene,
+化學名稱為苯，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 2"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖細胞致突變性危害第2級：H341,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene, nan, 1, 241, 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,生殖細胞致突變性危害第1A或1B級：H340,,,," Benzene,化學名稱為nan，CAS編號為71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,致突變性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H341,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,生殖毒性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",translation missing: zh-TW.hazard_annotation.Reproductive Toxicity – Male or Female,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,生殖毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,生殖毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,生殖毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,發育毒性,高,美國加州第65號提案,相對高,危害等級分類清楚。,加利福尼亞州 美國,所有,Y,"Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list",發育毒性,,,," Benzene, also known as CAS 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,發育毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,發育毒性,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,發育毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,慢毒性危害,發育毒性,高,"The Lancet Neurology 13(3), 330-338",相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/",發育神經毒性,,,," 苯（Benzene），CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據《The Lancet Neurology 13(3), 330-338》和《The Lancet Neurology, V13: 330–38》的資料來源，苯屬於慢性有害物質，主要危害為發育神經毒性，危險等級為高。然而，由於該資料來源包含多種危害終點，因此危害等級的分類相對不清晰。
+
+這種有害物質適用於全球所有地區和產業。發育神經毒性是一種可能影響腦部發展和功能的危害，但相關資料來源的可信度相對低，且危害分類不明確。
+
+這些相關研究文章為：
+
+* Grandjean, P & PJ Landrigan, ""Developmental neurotoxicity of industrial chemicals,"" Lancet, v368: 2167-2178, 2006 (第一篇連結)。
+* Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, 發表於 2014 (第二篇連結)。
+
+此外，相關的文章還可以在 PubMed 資料庫中查找到：
+
+* <http://www.ncbi.nlm.nih.gov/pubmed/17174709>
+* <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/>
+
+值得注意的是，這種危害分類並不具有強制性。"
+Benzene,,1,241,71-43-2,慢毒性危害,內分泌干擾,高,國際內分泌干擾交流協會 - 潛在內分泌干擾物清單,相對低,包含多種危害終點，危害等級分類模糊。,全球,所有,N,"The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch",潛在內分泌干擾物,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,非常高,美國環保署極度危害物質清單,相對高,包含多種危害終點，危害等級分類模糊。,美國,所有,N,"Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version",極度危害物質,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署（USEPA）的極度危害物質清單，Benzene 是一種急毒性危害物，具有非常高的急性毒性危害等級。這個清單列為 EPCRA Section 302 Extremely Hazardous Substances，並列於 40 CFR Part 355, Appendices A and B。由於這是 USEPA 的官方清單，因此可信度相對較高。然而，由於這個清單包含多種危害終點，因此危害等級分類模糊。這個危害適用於全球所有地區和產業，但它沒有強制性要求。
+
+相關的 USEPA 清單可以通過以下連結查閱：USEPA 極度危害物質清單（ consolidated list of lists ），並在 2015 年 3 月版本中列出。GreenScreen 僅使用 EPCRA Section 302 Extremely Hazardous Substances 清單。
+
+<http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version>
+
+值得注意的是，Benzene 也列在其他 USEPA 清單中，例如 Clean Air Act (CAA) Hazardous Air Pollutants (HAPs) 和 Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) Hazardous Substances 清單。此外，Benzene 還列在美國食品和药物管理局（FDA）的 GRAS（普通使用而被認為安全的）清單中，但這並不意味著它對人體是無害的。"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," 苯（Benzene），CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於急毒性危害，主要危害為急性毒性。根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但危害等級分類呈模糊現象。除了急性毒性以外，該物質還包含多種危害終點，且危害等級的分類不明確。
+
+這種危害適用於全球所有地區與產業。由於苯是一种已在美國環保署的 CompTox 資料庫中列出的物質，因此相關清單可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。
+
+值得注意的是，該資料來源沒有提供任何強制性要求。"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," 苯（Benzene），CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於急毒性危害，主要危害為急性毒性。根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但危害等級分類呈模糊現象。除了急性毒性以外，該物質還包含多種危害終點，且危害等級的分類不明確。
+
+此危害適用於全球所有地區與產業。由於危害分類模糊，因此缺乏相關法規或強制性要求。
+
+相關資訊可通過美國環保署 CompTox 化學物質大ashboard 查閱：<https://comptox.epa.gov/dashboard>"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,translation missing: zh-TW.level.DG,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," 苯（Benzene），CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於急毒性危害，主要危害為急性毒性。根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但危害等級分類呈模糊現象。除了急性毒性外，該物質還包含多種危害終點，且危害等級分類不明確。
+
+這種危害適用於全球所有地區與產業。相關的清單可通過以下連結查閱：美國環保署 CompTox 化學物質資料庫。該清單不具強制性，但會定期更新並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+
+注意：由於危害等級分類模糊，建議進一步查閱其他可靠資源以確定此物質在特定應用場景中的具體風險等級和相關防護措施。"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,非常高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",急毒性危害第1或2級：H300 (吞食) 或H310 (皮膚) 或H330 (吸入),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,中,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,急性毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H302,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-S,非常高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,translation missing: zh-TW.hazard_class.ST-R,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",translation missing: zh-TW.hazard_annotation.GHS_Japan,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,神經毒性 - 單次劑量,中,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,神經毒性 - 單次劑量,中,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,低,QSAR Toolbox: AW,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: AW,低毒性,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於慢毒性危害，主要危害為皮膚致敏，且在重複劑量時可能會發生。危害等級為低。根據 QSAR Toolbox: AW 的資料來源，該資料來源的可信度相對較低，且危害等級分類清楚。
+
+此危害適用於所有地區和產業，但在 QSAR Toolbox: AW 中沒有特別提到任何相關的法規或法律文本連結。
+
+值得注意的是，在此範例中，危害名稱為「皮膚致敏 - 重複劑量」，且危害等級為低，這與之前提到的其他範例不同，其中危害名稱都是「致癌性」且危害等級都是高。此外，在此範例中沒有提到任何強制性的法規或法律文本連結。"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3: R: Negative,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於慢性有害危害，主要危害為皮膚耐受性下降（皮膚致敏），危害等級為 nan，根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊。這種危害適用於所有地區和產業。
+
+根據 QSAR Toolbox: Read-Across 清單，此物質的危害包含多種危害終點，且危害等級分類模糊。這個清單不具強制性。相關資訊可通過以下連結查閱：QSAR Toolbox: Read-Across。
+
+Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於慢性有害危害，主要危害為皮膚耐受性下降（皮膚致敏），危險等級為 nan，根據 QSAR Toolbox: Read-Across 的資料來源，可信度相對較低，且危害等級分類模糊。這種危害適用於所有地區和產業。
+
+根據 QSAR Toolbox: Read-Across 清單，此物質的危害包含多種危害終點，且危害等級分類模糊。這個清單不具強制性。相關資訊可通過以下連結查閱：QSAR Toolbox: Read-Across。
+
+註解：由於 QSAR Toolbox: Read-Across 清單中缺乏明確的危害等級和分類，因此無法提供更多詳細資訊。"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: ,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: ,, 苯（Benzene），CAS 編號為 7
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / Skin sensitisation: R: Negative,, 苯（Benzene），CAS 編號為 7
+Benzene,,1,241,71-43-2,急毒性危害,皮膚致敏 - 重複劑量,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: ,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,呼吸致敏 - 重複劑量,低,QSAR Toolbox: QSAR,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR,低毒性,,," 苯（Benzene），CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據 QSAR Toolbox: QSAR 的資料來源，苯屬於慢性危害物質，主要危害是呼吸可能引起敏感反應，且危險等級為低。QSAR Toolbox: QSAR 這個資料來源的可信度相對較低，但危害等級分類相對清楚。
+
+這種危害適用於所有地區和產業，但因為危險等級為低，因此對個體健康影響相對較小。
+
+值得注意的是，這個資料來源沒有提供更多相關連結或法規，因此如需更多詳細信息，建議查閱其他可靠的資源。
+
+translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR ：QSAR Toolbox 是一種快速且高效的工具，用於預測化學物質的潛在危害。它結合了多種計算方法和數據來源，為使用者提供可靠的危害評估結果。
+
+低毒性：低毒性指化學物質對生物體造成的毒性程度較低，通常在一定濃度範圍內對個體健康沒有顯著影響。"
+Benzene,,1,241,71-43-2,急毒性危害,呼吸致敏 - 重複劑量,,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,吸入性危害第1級：H304,,,," Benzene,化學名稱為nan，CAS編號為71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,加拿大工作場所有害物質訊息系統 2015 分類清單,相對低,危害等級分類清楚。,加拿大,所有,Y,"Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,澳洲GHS,相對低,危害等級分類清楚。,澳洲,所有,Y,"The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+ CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,南韓GHS,相對低,危害等級分類清楚。,韓國,所有,Y,"The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,馬來西亞GHS,相對低,危害等級分類清楚。,馬來西亞,C大類「製造業」、G大類「批發及零售業」,Y,"The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,紐西蘭GHS,相對低,危害等級分類清楚。,紐西蘭,所有,Y,"The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf",腐蝕/刺激皮膚危害第2級：H315,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,國際化學品秘書處 - 立即替換清單,相對低,危害等級分類清楚。,全球,所有,Y,"A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/",腐蝕/刺激皮膚危害第2級：H315,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,皮膚刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,腐蝕/刺激皮膚危害第2級：H315,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,眼睛刺激,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",嚴重眼睛損傷/刺激危害第2A級：H319,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,急毒性危害,眼睛刺激,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,嚴重眼睛損傷/刺激危害第2A級：H319,,,," Benzene, nan, 風險等級為 1，PubChem CID 是 241，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，這 chemical 屬於環境危害物質之一，主要危害是急性水生毒性，但危害等級僅為低。這份資料來源的可信度相對高，然而需要注意的是，該清單包含多種危害終點，因此危害等級分類模糊。
+
+這個危害適用於全球所有地區和產業，但不具強制性。如需查閱更多相關資訊，可通過以下連結查閱美國環保署 CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類模糊。
+此外，CompTox 資料庫還提供了 Benzene 的其他危害終點，包括致癌性、呼吸系統影響等，但危害等級和分類並不明確。
+相關資訊可參考美國環保署 CompTox 化學物質資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於所有地區和產業，但不具強制性。如需查閱更多相關資訊，請通過以下連結存取美國環保署 CompTox 化學物質大ashboard：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。這個資料來源的可信度相對較高，但是需要注意的是，危害分類在包含多種危害終點時可能會比較模糊。
+
+這種危害適用於全球所有地區和產業，但是尚未列明具體影響的產業類別。相關的清單可以通過美國環保署 CompTox 化學物質資料庫查閱，並提供相關 CAS 編號和名稱的搜尋功能。這個清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業。值得注意的是，由於本文只涵蓋 Benzene 的一部分危害信息，因此需要查閱更多資源以獲取完整的危害評估。相關資訊可通過以下連結查閱：CompTox 化學物質大ashboard。該清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，Benzen 屬於環境危害物質，主要危害是急性水生毒性，危害等級為高。這個資料來源的可信度相對較高，但值得注意的是，該分類包含多種危害終點，因此危害等級分類顯示為模糊不清。
+
+這種危害適用於全球所有地區和產業。然而，相關的法規和強制性要求可能因國家或地區而異，因此使用者需要根據自己的情況進一步查詢。
+
+針對 Benzene 的更多資訊，請參考美國環保署 CompTox 化學物質資料庫：<https://comptox.epa.gov/dashboard> 。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+這種危害適用於全球所有地區和產業，但沒有強制性要求。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單等。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單和其他歐盟法律文本。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單和其他歐盟法律文本。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，該物質具有急性水生毒性危害，但危害等級僅為低。
+這份資料來源的可信度相對高，然而它包含多種危害終點，使得危害等級分類模糊不清。
+此危害適用於全球所有地區和產業，但缺乏明確的強制性要求。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 查詢。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單和其他歐盟法律文本。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這個物質具有急性水生毒性危害，但危害等級為低。
+適用地區和適用產業未明 specific regions or industries are not specified.
+由於此資料來源包含多種危害終點，因此危害等級分類相對模糊。
+此外，該危害沒有強制性要求。
+相關連結為美國環保署 CompTox 化學物質大ashboard：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+本物質屬於環境危害類，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類呈模糊。
+
+此危害適用於全球所有地區與產業。
+
+相關的美國環保署CompTox資料庫清單可通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。此清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對高，但該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+此危害適用於全球所有地區和產業，但缺乏明確的相關法規或強制性要求。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 查詢。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+本物質屬於環境危害類，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類呈模糊。
+
+此危害適用於全球所有地區與產業。
+
+相關的美國環保署CompTox資料庫清單可通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。此清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這項危害適用於全球所有地區和產業。值得注意的是，這個清單沒有明確強制性要求。
+
+相關資訊可以通過美國環保署CompTox Chemicals Dashboard 網站查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類不是很清楚，因為它同時包含多種危害終點。
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzene 具有急性水生毒性危害，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+註：這個清單不具強制性，相關資訊可以從美國環保署 CompTox 化學物質大ashboard 取得。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關資料可以通過美國環保署CompTox Chemicals Dashboard 網站查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzene 具有急性水生毒性危害，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+註：這個清單不具強制性，相關資訊可透過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 為 241，該物質的主要危害是急性水生毒性，危害等級為低。
+根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但危害等級分類並不清楚，因為它包含多種危害終點。
+此危害適用於全球所有地區和產業，但不具強制性。
+相關連結為美國環保署 CompTox 化學物質大ashboard，提供更多 Benzene 的相關資訊。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 為 241，主要的危害是急性水生毒性，危害等級為低。
+根據美國環保署 CompTox 資料庫的資訊來源，可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+適用地區和適用產業未明確指定，但相關清單可以通過美國環保署 CompTox 化學物質大ashboard 查看：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。
+此危害分類沒有強制性要求。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點，且未明確指出危害組別和危害名稱。
+此危害適用於全球所有地區和產業，但缺乏強制性要求。
+相關連結包括美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzene 具有急性水生毒性危害，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+註：這個清單不具強制性，相關資訊可透過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於所有地區和產業，但不具強制性。如需查閱更多相關資訊，請參考美國環保署 CompTox 化學物質資料庫。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, também conhecido como CAS 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, também conhecido como CAS 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害類型，主要危害表現為急性水生毒性，危害等級為高。這個資料來源的可信度相對較高，但是危害分類模糊，因為它包含了多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關連結：
+
+* CompTox 化學物質資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於所有地區和產業。值得注意的是，由於本文使用的範例資料沒有提供更多相關信息，因此我們無法提供更詳細的適用地區和適用產業信息。
+
+這項危害沒有明確的強制性要求，但相關資訊可通過美國環保署 CompTox 化學物質大ashboard 查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單等。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這項危害適用於全球所有地區和產業。值得注意的是，此清單沒有明確強制性要求。
+
+相關資訊可從美國環保署CompTox Chemicals Dashboard查詢，網址為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業。值得注意的是，該清單沒有強制性要求。相關資訊可通過以下連結查閱：美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文使用的資料來源沒有提供更多相關資訊，因此無法提供更詳細的適用地區和適用產業信息。
+
+這項危害沒有明確強制性要求，但相關資訊可以通過美國環保署CompTox資料庫的連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害等級分類相對模糊。
+此外，CompTox 資料庫還提供了 Benzene 的其他危害終點，包括但不限於致癌性、生殖毒性和慢性健康影響，但這些危害的等級並未明確說明。
+相關資訊可以通過美國環保署 CompTox 化學物質大ashboard 查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類不是很清楚，因為它同時包含多種危害終點。
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這項危害適用於全球所有地區和產業。值得注意的是，此清單沒有明確強制性要求。
+
+相關資訊可從美國環保署CompTox Chemicals Dashboard查詢，網址為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類不是很清楚，因為它同時包含多種危害終點。
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文使用的資料來源為 ""nan""，因此相關的適用地區、適用產業及強制性要求均無法提供。
+
+針對這項危害，建議查閱更多相關資訊，以確保完整了解 Benzene 的危害和應對措施。同時，也可以通過以下連結查閱美國環保署CompTox資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，這個物質屬於環境危害類別，其中一項主要危害是對水生生物的急性毒性，危害等級為高。這份資料來源在相對可靠性方面表現得不錯，但它所包含的多種危害終點使得危害等級分類模糊不清。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這份清單沒有強制性要求。
+
+相關連結：
+美國環保署 CompTox 化學物質資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類並不清楚，因為它同時包含多種危害終點。
+相關資料來源包括 CompTox 化學物質 dosier 和 ADMET Predictor Web Server，並會定期更新。
+如需更多詳細資訊，請參考美國環保署 CompTox 資料庫中的 Benzene 頁面：<https://comptox.epa.gov/dashboard/dsstoxdb/results?searchTerm=71-43-2>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類不是很清楚，因為它同時包含多種危害終點。
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene,
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害類別，其中一項主要危害是急性水生毒性，危害等級為高。這個資料來源的可信度相對較高，但值得注意的是，該分類包含多種危害終點，因此危害等級分類顯示為模糊不清。
+
+這項危害適用於全球所有地區和產業。然而，由於危害分類的模糊性，未提供明確的相關法規或強制性要求。
+
+若需深入了解 Benzene 的相關資訊，可通過以下連結查閱美國環保署 CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單和其他歐盟法律文本。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，危害等級為低。
+這個危害適用於全球所有地區和產業，且具有一定的可信度，但危害分類不是很清楚，因為它同時包含多種危害終點。
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點，且未明確指出危害組別和危害名稱。
+此危害適用於全球所有地區和產業，但缺乏強制性要求。
+相關連結包括美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這個清單沒有強制性要求。
+
+相關的美國環保署CompTox資料庫可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這種物質的主要危害是急性水生毒性，但危害等級僅為低。
+雖然可信度相對較高，但該資料來源的危害分類模糊，因為它包含多種危害終點。
+這種危害適用於全球所有地區和產業，但不具強制性。
+相關連結包括美國環保署 CompTox 化學物質大ashboard、IARC 分類清單和其他歐盟法律文本。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業，但不具強制性。如需查閱更多相關資訊，請通過以下連結：美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+本物質屬於環境危害類，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類呈模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。值得注意的是，這份清單沒有強制性要求。
+
+相關資料可以通過美國環保署CompTox Chemicals Dashboard網站查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzene 具有急性水生毒性危害，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+苯在 CompTox 資料庫中的清單不具強制性，並且可以通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這項危害適用於全球所有地區和產業。值得注意的是，此清單沒有強制性要求。
+
+相關資訊可從美國環保署CompTox Chemicals Dashboard查詢，網址為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzen 的主要危害是急性水生毒性，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且可信度相對高，但危害等級分類並不清晰，因為它包含多種危害終點。
+此外，Benzen 在 CompTox 資料庫中的呈現方式可能需要額外的研究和理解，目前提供的連結是美國環保署 CompTox 化學物質大ashboard 的網站。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+根據美國環保署 CompTox 資料庫的資訊，Benzene 具有急性水生毒性危害，但危害等級僅為低。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 網站查閱。
+
+Chloroform, 化學名稱為 CAS 編號 67-66-3，屬於慢性毒性危害物質，風險等級為 2。
+根據美國環保署 CompTox 資料庫的資訊，Chloroform 具有慢性中毒和生殖毒性危害，且危害等級為中。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，且危害分類清楚。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 網站查閱。
+
+Cadmium and its compounds, 化學名稱為 CAS 編號 7440-43-9，屬於慢性毒性危害物質，風險等級為 2。
+根據美國環保署 CompTox 資料庫的資訊，Cadmium 和其化合物具有中毒、致癌、生殖毒和累積危害，且危害等級為高。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，且危害分類清楚。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 網站查閱。
+
+Acetone, 化學名稱為 CAS 編號 67-64-1，屬於低毒性物質，風險等級為 0。
+根據美國環保署 CompTox 資料庫的資訊，Acetone 沒有明顯的急性或慢性毒性危害，且危害等級為無。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，且危害分類清楚。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 網站查閱。
+
+Carbon disulfide, 化學名稱為 CAS 編號 75-15-0，屬於慢性毒性危害物質，風險等級為 2。
+根據美國環保署 CompTox 資料庫的資訊，Carbon disulfide 具有中毒、神經毒和致癌危害，且危害等級為高。
+這個危害適用於全球所有地區和產業，且根據 CompTox 資料庫的可信度相對較高，但危害分類模糊，因為它包含多種危害終點。
+相關資訊可透過美國環保署 CompTox 化學物質大ashboard 網站查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，這種物質具有急性水生毒性危害，但危害等級僅為低。由於資料來源為複合型，因此可信度相對較高，但危害分類並不清楚，涵蓋多種危害終點。
+
+這種危害適用於全球所有地區和產業。值得注意的是，此列表沒有強制性要求。
+
+相關資訊可從美國環保署 CompTox 化學物質大ashboard查閱：<https://comptox.epa.gov/dashboard>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。這個資料來源的可信度相對較高，但值得注意的是，危害分類在包含多種危害終點時可能比較模糊。
+
+此危害適用於全球所有地區與產業。由於危害等級為低，因此不具強制性要求。
+
+相關資訊可通過以下連結查閱：CompTox 化學物質dashboard，並提供相關 CAS 編號與危害分類的 Excel 清單下載功能。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。這個資料來源的可信度相對高，但是需要注意的是，這份清單包含多種危害終點，因此危害等級分類模糊。
+
+這種危害適用於全球所有地區和產業。如果您希望查閱更多相關資訊，可以通過以下連結查閱美國環保署 CompTox 化學物質資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。
+
+值得注意的是，這份清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+這個危害適用於全球所有地區和產業。
+
+根據美國環保署CompTox資料庫的調和分類，Benzene 被列為急性水生毒性物質，且相關 CAS 編號記載於 CompTox 資料庫中。這些清單會定期更新，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。
+
+值得注意的是，這個危害分類不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源同時包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確說明，且這個危害清單不具強制性。相關資訊可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。如需查閱更多相關資訊，請通過以下連結：美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+這項危害適用於所有地區和產業。然而，由於危害等級為低且僅影響急性水生毒性，因此實際上不太可能對大多數產業造成直接威脅。
+
+相關的美國環保署 CompTox 資料庫清單可通過以下連結查閱：<https://comptox.epa.gov/dashboard>，該清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。如需查閱更多相關資訊，請通過以下連結：美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業。
+
+根據 CompTox 資料庫的分類，此物質具有多種危害終點，且危害等級分類模糊。相關資料來源的可信度相對較高，但危害分類並不清晰明了。
+
+相關連結包括：
+
+* CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>
+* CompTox Chemicals Dashboard API：<https://comptox.epa.gov/dashboard/dsstoxdb/method/chemicalapi>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+此危害適用於全球所有地區與產業。
+
+這個危害分類沒有明確的強制性要求，並且包含多種危害終點，使得危害等級分類模糊不清。相關資訊可通過美國環保署CompTox Chemicals Dashboard網站查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個清單不具強制性。相關資訊可通過美國環保署 CompTox 化學物質大ashboard 查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類沒有強制性。相關資訊可以從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個危害清單不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個清單不具強制性。相關資訊可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+這種危害適用於全球所有地區與產業。
+
+根據美國環保署CompTox資料庫的調和分類，Benzene 在水生生物中具有中度毒性，但並未列為強制性清單。相關清單可通過以下連結查閱：Comptox Chemicals Dashboard 網站，並提供相關 CAS 編號、名稱或作為物質群體的搜尋功能。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+此危害適用於全球所有地區與產業。
+
+這個危害的清單可以在美國環保署CompTox Chemicals Dashboard 網站上查閱，並提供相關 CAS 編號、名稱或作為物質群體的列表下載。此清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類型，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文只提到急性水生毒性，因此缺乏足夠的資訊來判斷其對人類健康的影響。
+
+相關的美國環保署CompTox資料庫可通過以下連結查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。
+
+值得注意的是，由於本文只提到急性水生毒性，因此缺乏足夠的資訊來判斷其對人類健康的影響。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確說明，且這個危害清單不具強制性。相關資訊可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文所引用的資料來源沒有明確提供相關清單連結，因此無法提供更詳細的查閱資訊。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個危害清單不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。如需查閱更多相關資訊，請通過以下連結：美國環保署 CompTox 化學物質大ashboard。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質ashboard，提供相關 CAS 編號及其危害分類的搜索功能。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害清單沒有強制性要求。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業。
+
+根據 CompTox 資料庫的分類，此物質具有多種危害終點，且危害等級分類模糊。相關資料來源的可信度相對較高，但危害分類並不清晰明了。
+
+相關連結包括：
+
+* CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>
+* CompTox Chemicals Dashboard API：<https://comptox.epa.gov/dashboard/CSMRCS>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業。
+
+根據 CompTox 資料庫的分類，此物質具有多種危害終點，且危害等級分類模糊。相關資料來源的可信度相對較高，但危害分類並不清晰明了。
+
+相關連結包括：
+
+* CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>
+* CompTox Chemicals Dashboard API：<https://comptox.epa.gov/dashboard/dsstoxdb/method/chemicalapi>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業。
+
+根據 CompTox 資料庫的分類，此物質具有多種危害終點，且危害等級分類模糊。相關資料來源的可信度相對較高，但危害分類並不清晰明了。
+
+相關連結包括：
+
+* CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard>
+* CompTox Chemicals Dashboard API：<https://comptox.epa.gov/dashboard/dsstoxdb/method/chemicalapi>"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+這種危害適用於全球所有地區與產業。
+
+根據美國環保署CompTox資料庫的調和分類，Benzene 在急性水生毒性方面被分為中等危險（Level 3）。相關清單可通過以下連結查閱：Comptox Chemicals Dashboard 網站，並提供所有相關 CAS 編號與調和分類的 Excel 清單下載功能。這些清單會定期更新。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文使用的範例資料沒有提供更多相關信息，因此我們無法提供更詳細的適用地區和適用產業信息。
+
+這項危害未列入任何強制性清單中，因此也不具強制性要求。如果需要查閱更多相關信息，可以通過以下連結查閱美國環保署CompTox資料庫：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個危害清單不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文所引用的資料來源沒有明確提供相關清單連結，因此無法提供更詳細的查閱資訊。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，這 chemical 屬於環境危害物質，主要危害是急性水生毒性，危害等級為高。根據此資料來源，可信度相對較高，但危害分類呈現模糊，因為它同時包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。然而，由於危害分類不清楚，因此缺乏更具體的相關資訊。如果需要更詳細的資訊，可以通過以下連結查閱 CompTox 化學物質大ashboard：<https://comptox.epa.gov/dashboard> 。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，這 chemical substance 屬於環境危害物質，主要危害是急性水生毒性，危害等級為高。
+
+根據此資料來源，可信度相對較高，但危害分類並不清楚，因為它包含多種危害終點，使得危害等級分類模糊。這種危害適用於全球所有地區和產業。
+
+相關的 IARC 分類清單可通過以下連結查閱：<https://www.iarc.who.int/zh/classification-of-carcinogenic-mixtures-and-substances/>，其中會列出相關 IARC 專題研究的卷冊或補充資料，物質可按 CAS 編號、名稱或作為物質群體列出。這個清單沒有強制性。
+
+另外，您也可以通過以下連結查閱限制物質清單、REACH 法規和歐盟法律文本：<https://echa.europa.eu/zh/regulations/reach/understanding-reach/restrictions>。此外，您也可以通過 <https://comptox.epa.gov/dashboard/> 查閱更多關於 Benzene 的詳細資訊。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可以從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業，但不具強制性。相關清單可通過以下連結查閱：Comptox Chemicals Dashboard 網站，該網站提供化學物質的相關資訊和危害評估。
+
+注意：由於該危害分類模糊且可信度相對較高，因此需要進一步的研究和評估，以確定實際的危害程度和適用範圍。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文所引用的資料來源沒有明確提供相關清單連結，因此無法提供更詳細的查閱資訊。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+這項危害適用於全球所有地區和產業。值得注意的是，由於本文所引用的資料來源沒有提供更多相關信息，因此無法判斷此危害分類是否具強制性，也無法提供相關連結進行查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個清單不具強制性。相關資訊可通過美國環保署 CompTox 化學物質大ashboard 查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害，主要危害為急性水生毒性，危害等級為高。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業，但不具強制性。相關清單可通過以下連結查閱：美國環保署 CompTox 化學物質資料庫。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為高。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+這項危害適用於全球所有地區與產業，但不具強制性。
+
+相關的清單可通過以下連結查閱：Comptox Chemicals Dashboard，該資料庫提供化學物質的危害評估和分類信息，並提供相關CAS編號、名稱或作為物質群體的列表。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個清單不具強制性。相關資訊可通過美國環保署 CompTox 化學物質大ashboard 查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，因此危害等級分類模糊。
+
+適用地區和適用產業未提供明確資訊，且這個危害清單不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard（<https://comptox.epa.gov/dashboard/>）。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為急性水生毒性，危害等級為中。
+
+這個危害適用於全球所有地區與產業，且根據 CompTox 資料庫的可信度相對較高。然而，該資料來源包含多種危害終點，使得危害等級分類模糊不清。
+
+適用地區和適用產業未提供明確資訊，且這個危害分類不具強制性。相關資料可從美國環保署 CompTox 化學物質大ashboard查閱。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard，並提供相關 CAS 編號、名稱或作為物質群體的列出。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為急性水生毒性，危害等級為低。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但該資料來源包含多種危害終點，危害等級分類模糊。
+
+此危害適用於全球所有地區與產業，但不具強制性。相關清單可通過以下連結查閱：CompTox 化學物質大ashboard，並提供相關 CAS 編號、名稱或作為物質群體的列出。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境危害物質，風險等級為 1。
+PubChem CID 是 241。
+根據美國環保署 CompTox 資料庫的資訊，這個物質具有急性水生毒性危害，但危害等級為低。
+適用地區和適用產業未明 specific, 且危害分類不清楚，因為它包含多種危害終點，例如致癌性、生殖毒性等。
+相關資料來源可以通過美國環保署 CompTox 化學物質大ashboard 查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。
+此危害清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene，CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+此物質屬於環境危害類，主要危害為急性水生毒性，危害等級為中。根據美國環保署CompTox資料庫的資料來源，可信度相對較高，但危害等級分類模糊。
+
+此危害適用於全球所有地區與產業。
+
+這個危害的清單可以在美國環保署CompTox Chemicals Dashboard上查閱，該網站提供相關化學物質的多種危害終點和相關資訊下載。此清單不具強制性。"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,日本GHS,相對低,危害等級分類清楚。,日本,所有,Y,"The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, ""check all the boxes"" in the ""GHS Classification Results by the Japanese Government"" section, which is a subsection under ""Chemical Hazard and Risk Information"".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput",水生環境之急性危害第2級：H401,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H401,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,環境危害,急性水生毒性,,translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across,相對低,包含多種危害終點，危害等級分類模糊。,,所有,N,,,,Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: T: 3.164 (1.938÷4.39) log(1/mol/L),, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+該物質屬於環境危害，主要危害為慢性水生毒性，危害等級為中。根據美國環保署 CompTox 資料庫的資料來源，可信度相對較高，但危害等級分類模糊，因為它包含多種危害終點。
+
+這個危害適用於全球所有地區和產業。由於 Benzene 是一種已知的毒物，因此應該加以避免和控制，特別是在水體中。
+
+相關的清單可通過美國環保署 CompTox 資料庫查閱：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard>。這個清單不具強制性，但提供了有關 Benzene 的重要資訊，以幫助評估和管理它的風險。"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為慢性水生毒性，危害等級為低。
+
+這個危害適用於不特定的地區和產業，且資料來源的可信度相對較高。然而，該資料庫包含多種危害終點，因此危害等級分類模糊。
+
+相關連結：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard> 提供更多 Benzene 的相關資訊。"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, nan
+
+CAS 編號為 71-43-2，風險等級為 1，PubChem CID 為 241。
+
+根據美國環保署 CompTox 資料庫的資訊，此物質屬於環境危害，主要危害為慢性水生毒性，危害等級為低。
+
+這個危害適用於不明確的地區和產業，因為資料來源中沒有提供相關信息。
+
+根據 CompTox 資料庫的描述，此危害分類包含多種危害終點，且危害等級分類模糊。這意味著危害的具體影響和範圍可能需要進一步研究和評估。
+
+相關資料來源的連結為：<https://www.epa.gov/chemical-research/comptox-chemicals-dashboard> 。"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,低,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為 苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,非常高,美國環保署CompTox資料庫,相對高,包含多種危害終點，危害等級分類模糊。,,,,https://www.epa.gov/chemical-research/comptox-chemicals-dashboard,,,,," Benzene, 化學名稱為苯，CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H411,,,, 苯（Benzene），CAS 編號為 71-4
+Benzene,,1,241,71-43-2,環境危害,慢性水生毒性,中,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H412,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境流佈,持續性,非常高,加拿大國內物質清單,相對低,包含多種危害終點，危害等級分類模糊。,加拿大,所有,Y,"""Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for """"Categorization decisions for all DSL substances"""". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment""
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F",持續性,,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,環境流佈,生物累積性,非常低,translation missing: zh-TW.list_name.OECD QSAR Toolbox,相對低,危害等級分類清楚。,,,,,translation missing: zh-TW.hazard_annotation.OECD,非常低毒性,,," Benzene, 化學名稱為 CAS 編號 71-43-2，屬於環境流佈危害，主要危害為生物累積性，危害等級非常低。根據 OECD QSAR Toolbox 的資料來源，可信度相對較低，且危害等級分類清楚。
+
+這種危害適用於所有地區和產業。根據 OECD 的分類，生物累積性危害被分為多個危害等級，且 Benzene 屬於非常低毒性之一。相關清單可通過以下連結查閱：OECD QSAR Toolbox，提供化學物質的評估和分類。這些清單不具強制性。"
+Benzene,,1,241,71-43-2,物理危害,可燃性,高,歐盟GHS,相對高,危害等級分類清楚。,歐盟,C大類「製造業」,Y,"ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp",可燃/自燃物質：H222 (易燃氣膠) 或 H225 (易燃液體或蒸氣) 或 H250 (自燃液體或固體),,,," Benzene, CAS 編號為 71-4"
+Benzene,,1,241,71-43-2,物理危害,可燃性,高,PubChem資料庫 聯合國GHS,相對低,危害等級分類清楚。,,,,https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/,translation missing: zh-TW.hazard_annotation.H225,,,, 苯（Benzene），CAS 編號為 71-4
