@@ -66,5 +66,5 @@ def main():
 
 
 if __name__ == "__main__":
-    file_path = './SAS_file/Benzene_sum.csv'
+    file_path = './SAS_file/Tetrachloroethylene_sum.csv'
     main()
