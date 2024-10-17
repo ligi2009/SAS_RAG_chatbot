@@ -52,5 +52,8 @@ def main():
     print(f"Script executed in {elapsed_time:.2f} seconds")
 
 if __name__ == "__main__":
-    file_path = './SAS_txt_file/Benzene.txt'
+    # file_path = './SAS_txt_file/Benzene.txt'
+    file_path = './Benzene_txt/Benzene_summary.txt' # 59_sum
+    # file_path = './Benzene_txt/Benzene_remove_duplicate.txt' # 59_rm_duplicate
+    # file_path = './Benzene_txt/Benzene_alternatives_Childrens_Products.txt'
     main()

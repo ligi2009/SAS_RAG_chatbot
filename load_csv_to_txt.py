@@ -54,8 +54,6 @@ def load_and_save_txt(input_folder, output_folder):
             except Exception as e:
                 print(f"An error occurred while saving data: {e}")
 
-
-
 if __name__ == "__main__":
 
     # 設定資料夾路徑

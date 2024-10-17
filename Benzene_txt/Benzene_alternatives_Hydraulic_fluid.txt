@@ -1,0 +1,8 @@
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為液壓液的苯(Benzene)安全化學替代物：
+
+名稱: Isopropyl alcohol 
+CAS no.: 67-63-0
+工業用途: 抗微生物活性
+安全性: 安全; Green [Circle]
+註解: 
+

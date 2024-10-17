@@ -1,0 +1,1813 @@
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 歐洲化學總署公告REACH法規附件17
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: "Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below)."
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 
+註解: 分類第一級或二級
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 歐盟GHS
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 國際癌症研究機構清單
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: N
+清單連結: Lists provided at the link below reference the relevant IARC monograph volume or supplement. Substances may be listed by CAS number, name or collectively as a substance group.
+http://monographs.iarc.fr/ENG/Classification/index.php
+註解: 第1類：已知人類致癌物 或 第2a類：極可能為人體致癌物
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 美國環保署整合性風險資料系統
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: N
+清單連結: "US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link)."
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris 
+註解: Group A or B1 or B2
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 美國環保署整合性風險資料系統
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: N
+清單連結: "US EPA Integrated Risk Information System home page (first link).
+Advanced search by substance ID (second link)."
+http://www.epa.gov/ncea/iris/search_human.htm 
+https://iris.epa.gov/AdvancedSearch/ 
+https://www.epa.gov/iris 
+註解: 已知或很可能有毒性
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 美國衛生與公眾服務部-第十四次致癌物報告
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Report on Carcinogens (RoC) is prepared by the National Toxicology Program (NTP) on behalf of the Secretary, Health and Human Services (description at the first link). The latest RoC edition is available at the second link.
+http://ntp.niehs.nih.gov/pubhealth/roc/index.html
+http://ntp.niehs.nih.gov/pubhealth/roc/roc12/index.html
+註解: 合理預期的人類致癌物
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 美國疾病控制中心 - 職業致癌物清單
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有 (workplace safety)
+是否具強制性？: N
+清單連結: NIOSH's carcinogen policy is described at the first link below. The current occupational carcinogen list is at the second link
+http://www.cdc.gov/niosh/topics/cancer/policy.html
+http://www.cdc.gov/niosh/topics/cancer/npotocca.html
+註解: 職業性致癌物
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 美國加州第65號提案
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加利福尼亞州 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list
+註解: Carcinogen – specific to chemical form or exposure route
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 德國最大工作場所濃度清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 德國
+適用產業: 所有 (workplace safety)
+是否具強制性？: Y
+清單連結: The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm
+註解: 致癌物第一或二組
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 加拿大工作場所有害物質訊息系統 2015 分類清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 澳洲GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 澳洲
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 馬來西亞GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 馬來西亞
+適用產業: C大類「製造業」、G大類「批發及零售業」
+是否具強制性？: Y
+清單連結: The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: 國際化學品秘書處 - 立即替換清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: Y
+清單連結: A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/
+註解: 致癌性危害第1A或1B級：H350或H350i (吸入性)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H350
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.Silent Spring - Breast Cancer Chemicals
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: http://sciencereview.silentspring.org/mamm_browse.cfm
+註解: 
+額外註解: 
+預測值: IARC group: 1; US EPA: A
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.US OSHA - TRI Carcinogens
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: https://www.epa.gov/system/files/documents/2023-01/Toxics%20Release%20Inventory%20Basis%20of%20OSHA%20Carcinogens.pdf
+註解: 
+額外註解: 
+預測值: Toxics Release Inventory (TRI) Program
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致癌性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.Classification model: ToxTree
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 輕度毒性
+預測值: Negative for genotoxic carcinogenicity:YES; Negative for nongenotoxic carcinogenicity:YES; Potential S. typhimurium TA100 mutagen based on QSAR:NO; Potential carcinogen based on QSAR:NO
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 歐盟GHS
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 歐洲化學總署公告REACH法規附件17
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: "Access the full list of REACH Annex XVII chemicals using the first link below (Export search results function is at the bottom of the page). GreenScreen List Translator only includes C, M, and R substances from Entries 28, 29, and 30.
+The C, M, and R CASRN’s referred to in Entries 28, 29 and 30 are listed in Appendices 1-6 of REACH Regulation EC (No) 1907/2006, which is updated semi-regularly through amendments (Second link below)."
+https://echa.europa.eu/substances-restricted-under-reach 
+https://echa.europa.eu/regulations/reach/legislation 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02006R1907-20220108&%20from=EN:#page=279 
+註解: 分類第一級或二級
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 德國最大工作場所濃度清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 德國
+適用產業: 所有 (workplace safety)
+是否具強制性？: Y
+清單連結: The German Research Foundation’s (DFG) Permanent Senate Commission for the Investigation of Health Hazards of Chemical Compounds in the Work Area (“MAK Commission”) is at the first link. MAK Commission classification categories are available via PDFs at Wiley (second link, updated annually):
+http://www.dfg.de/en/dfg_profile/statutory_bodies/senate/health_hazards/index.html
+http://onlinelibrary.wiley.com/book/10.1002/3527600418/homepage/access_to_the_list_of_mak_and_bat_values.htm
+註解: 生殖細胞突變性第1級、第2級或第3a級
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 加拿大工作場所有害物質訊息系統 2015 分類清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 澳洲GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 澳洲
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 生殖細胞致突變性危害第2級：H341
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 馬來西亞GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 馬來西亞
+適用產業: C大類「製造業」、G大類「批發及零售業」
+是否具強制性？: Y
+清單連結: The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: 國際化學品秘書處 - 立即替換清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: Y
+清單連結: A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 生殖細胞致突變性危害第1A或1B級：H340
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 致突變性
+危害等級: 中
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H341
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 高
+資料來源: 美國加州第65號提案
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加利福尼亞州 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list
+註解: translation missing: zh-TW.hazard_annotation.Reproductive Toxicity – Male or Female
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 生殖毒性危害第1A或1B級：H360F 或 H360FD 或 H360Fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 生殖毒性
+危害等級: 中
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 生殖毒性危害第2級：H360Df 或 H361f 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 高
+資料來源: 美國加州第65號提案
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加利福尼亞州 美國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Prop 65 descriptive information is at the first link below. The second link provides the current list of substances.
+http://oehha.ca.gov/proposition-65/about-proposition-65
+http://oehha.ca.gov/proposition-65/proposition-65-list
+註解: 發育毒性
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 生殖毒性危害第1A或1B級或附加級別：H360FD 或 H360D 或 H360Df (生育能力、胎兒) 或 H362 (影響哺乳期或透過哺乳期產生影響)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 中
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 生殖毒性危害第2級：H360Fd 或 H361d 或 H361fd (生育能力、胎兒)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 發育毒性
+危害等級: 高
+資料來源: The Lancet Neurology 13(3), 330-338
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: N
+清單連結: Grandjean, P & PJ Landrigan, "Developmental neurotoxicity of industrial chemicals," Lancet, v368: 2167-2178, 2006 (first link). Grandjean, P & PJ Landrigan, “Neurobehavioural effects of developmental toxicity,” The Lancet Neurology, V13: 330–38, published 2014 (second link).
+http://www.ncbi.nlm.nih.gov/pubmed/17174709
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418502/
+註解: 發育神經毒性
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 慢毒性危害
+危害名稱: 內分泌干擾
+危害等級: 高
+資料來源: 國際內分泌干擾交流協會 - 潛在內分泌干擾物清單
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: N
+清單連結: The main TEDX website is at the first link below. The current list of potential endocrine disruptors can be searched or listed from the webpage at the second link below.
+http://endocrinedisruption.org/
+http://endocrinedisruption.org/endocrine-disruption/tedx-list-of-potential-endocrine-disruptors/chemicalsearch
+註解: 潛在內分泌干擾物
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 非常高
+資料來源: 美國環保署極度危害物質清單
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 美國
+適用產業: 所有
+是否具強制性？: N
+清單連結: Link leads to the USEPA Consolidated List of Lists, March 2015. GreenScreen utilizes only the EPCRA Section 302 Extremely Hazardous Substances. These are also listed in 40 CFR Part 355, Appendices A and B.
+http://www.epa.gov/epcra/epcracerclacaa-ss112r-consolidated-list-lists-march-2015-version
+註解: 極度危害物質
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: translation missing: zh-TW.level.DG
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 低
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 加拿大工作場所有害物質訊息系統 2015 分類清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+註解: 急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 非常高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 急毒性危害第1或2級：H300 (吞食) 或H310 (皮膚) 或H330 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 急毒性危害第4級：H302 (吞食) 或H312 (皮膚) 或H332 (吸入)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 急性毒性
+危害等級: 中
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H302
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: translation missing: zh-TW.hazard_class.ST-S
+危害等級: 非常高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: translation missing: zh-TW.hazard_class.ST-R
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: translation missing: zh-TW.hazard_annotation.GHS_Japan
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 神經毒性 - 單次劑量
+危害等級: 中
+資料來源: 加拿大工作場所有害物質訊息系統 2015 分類清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+註解: 特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 神經毒性 - 單次劑量
+危害等級: 中
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 特定標的器官系統毒性(單一暴露)危害第3級：H336 (麻醉效應)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 低
+資料來源: QSAR Toolbox: AW
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.QSAR Toolbox: AW
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3: R: Negative
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3 <OR> S M W N <OR> Skin sensitisation: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / EC3 <OR> Skin sensitisation: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / Skin sensitisation: R: Negative
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚致敏 - 重複劑量
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Human Health Hazards / Sensitisation / S M W N <OR> Skin sensitisation: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 呼吸致敏 - 重複劑量
+危害等級: 低
+資料來源: QSAR Toolbox: QSAR
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.QSAR Toolbox: QSAR
+額外註解: 低毒性
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 呼吸致敏 - 重複劑量
+危害等級: 
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 吸入性危害第1級：H304
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 歐盟GHS
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 加拿大工作場所有害物質訊息系統 2015 分類清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: Description of the WHMIS is available at the first link below. The Quebec CSST site (second link) contains a list of controlled products, also available by CAS number and as a txt or PDF file.
+http://www.hc-sc.gc.ca/ewh-semt/occup-travail/whmis-simdut/index-eng.php
+http://www.csst.qc.ca/en/prevention/reptox/Pages/list-whmis-1988-cas-50-84.aspx
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 澳洲GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 澳洲
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Hazardous Chemical Information System (HCIS) is a database that allows you to find information on chemicals that have been classified in accordance with the GHS. Download the list using the link below.
+http://hsis.safeworkaustralia.gov.au/GHSInformation/GHS_Hazardous_Chemical_Information_List
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 南韓GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 韓國
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Korean National Chemicals Information System (NCiS) can be used to search for GHS Classifications for chemicals. GreenScreen List Translator only includes chemicals in 5 broad search categories: Phase-in substances subject to registration, Toxic Substances, Restricted Substances, Prohibited Substances, and Substances requiring preparation for accidents. Search each category, as a chemical may be on one list and not another.
+http://ncis.nier.go.kr/en/main.do
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 馬來西亞GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 馬來西亞
+適用產業: C大類「製造業」、G大類「批發及零售業」
+是否具強制性？: Y
+清單連結: The Chemical Search database provided by the Malaysia Department of Environmental Safety and Health (DOSH) can be used to search for GHS Classifications for individual chemicals only.
+http://cims.dosh.gov.my/
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 紐西蘭GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 紐西蘭
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The Chemical Classification and Information Database (CCID) provided by the New Zealand Hazardous Substances and New Organisms (HSNO) can be used to search for hazards of individual chemicals (first link). New Zealand uses their own classification terminology which need to be converted to GHS classification categories to be used in the List Translator. A document describing the translation from HSNO to GHS classification is available at the second link.
+http://www.epa.govt.nz/search-databases/Pages/HSNO-CCID.aspx
+http://www.epa.govt.nz/Publications/hsnogen-ghs-nz-hazard.pdf
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: 國際化學品秘書處 - 立即替換清單
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 全球
+適用產業: 所有
+是否具強制性？: Y
+清單連結: A description of ChemSec is available at the first link below. The current SIN List can be searched or listed in full at the website at the second link below.
+http://chemsec.org/about-us
+http://sinlist.chemsec.org/
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 皮膚刺激
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 腐蝕/刺激皮膚危害第2級：H315
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 高
+資料來源: 歐盟GHS
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp
+註解: 嚴重眼睛損傷/刺激危害第2A級：H319
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 急毒性危害
+危害名稱: 眼睛刺激
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: 嚴重眼睛損傷/刺激危害第2A級：H319
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 低
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 中
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 高
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 非常高
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 高
+資料來源: 日本GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 日本
+適用產業: 所有
+是否具強制性？: Y
+清單連結: The NITE Chemical Risk Information Platform (NITE-CHRIP) database can be used to search for GHS Classifications for chemicals individually. To retrieve a full list of CASRNs, "check all the boxes" in the "GHS Classification Results by the Japanese Government" section, which is a subsection under "Chemical Hazard and Risk Information".
+http://www.nite.go.jp/en/chem/chrip/chrip_search/srhInput
+註解: 水生環境之急性危害第2級：H401
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H401
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 急性水生毒性
+危害等級: 
+資料來源: translation missing: zh-TW.list_name.QSAR Toolbox: Read-Across
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: NA
+適用產業: 所有
+是否具強制性？: N
+清單連結: 
+註解: 
+額外註解: 
+預測值: Ecotoxicological Information / Aquatic Toxicity / EC50 <OR> LC50: T: 3.164 (1.938÷4.39) log(1/mol/L)
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 中
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 低
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 高
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 非常高
+資料來源: 美國環保署CompTox資料庫
+可信度: 相對高
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://www.epa.gov/chemical-research/comptox-chemicals-dashboard
+註解: 
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H411
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境危害
+危害名稱: 慢性水生毒性
+危害等級: 中
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H412
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境流佈
+危害名稱: 持續性
+危害等級: 非常高
+資料來源: 加拿大國內物質清單
+可信度: 相對低
+危害分類是否清楚: 包含多種危害終點，危害等級分類模糊。
+適用地區: 加拿大
+適用產業: 所有
+是否具強制性？: Y
+清單連結: "Canadian Environmental Protection Act, 1999 (CEPA), September 2006. Description and specific lists by type (first link).
+The DSL categorization search engine is at the second link. Download the spreadsheet for ""Categorization decisions for all DSL substances"". Each column represents different endpoints:
+Column E - iT Human, Column H - Persistence, Column I - Bioaccumulation, Column J - iT Environment"
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1
+http://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=5F213FA8-1&wsdoc=D031CB30-B31B-D54C-0E46-37E32D526A1F
+註解: 持續性
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 環境流佈
+危害名稱: 生物累積性
+危害等級: 非常低
+資料來源: translation missing: zh-TW.list_name.OECD QSAR Toolbox
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: 
+註解: translation missing: zh-TW.hazard_annotation.OECD
+額外註解: 非常低毒性
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 物理危害
+危害名稱: 可燃性
+危害等級: 高
+資料來源: 歐盟GHS
+可信度: 相對高
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 歐盟
+適用產業: C大類「製造業」
+是否具強制性？: Y
+清單連結: ECHA provides an updated excel list of all harmonized classifications. Access the full list of CASRNs with associated harmonized GHS classifications using the first link below (Export search results function is at the bottom of the page).
+https://echa.europa.eu/information-on-chemicals/cl-inventory-database
+https://echa.europa.eu/information-on-chemicals/annex-vi-to-clp
+註解: 可燃/自燃物質：H222 (易燃氣膠) 或 H225 (易燃液體或蒸氣) 或 H250 (自燃液體或固體)
+額外註解: 
+預測值: 
+
+化學物名稱: Benzene
+中文名稱: 苯 
+風險等級: 1
+PubChem CID: 241
+CAS No.: 71-43-2
+危害組別: 物理危害
+危害名稱: 可燃性
+危害等級: 高
+資料來源: PubChem資料庫 聯合國GHS
+可信度: 相對低
+危害分類是否清楚: 危害等級分類清楚。
+適用地區: 
+適用產業: 
+是否具強制性？: 
+清單連結: https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+註解: translation missing: zh-TW.hazard_annotation.H225
+額外註解: 
+預測值: 
+

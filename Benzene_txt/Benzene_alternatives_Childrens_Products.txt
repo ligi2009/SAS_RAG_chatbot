@@ -1,0 +1,889 @@
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Acetone
+CAS no.: 67-64-1
+工業用途: 特殊工業用
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Hexanedioic acid
+CAS no.: 124-04-9
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Benzoic Acid
+CAS no.: 65-85-0
+工業用途: 防腐劑-抗氧化劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Citric Acid
+CAS no.: 77-92-9
+工業用途: 抗微生物活性
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Butanedioic acid, hydroxy-
+CAS no.: 6915-15-7
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Propanoic acid, 2-hydroxy-
+CAS no.: 50-21-5
+工業用途: 防腐劑-抗氧化劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Inks containing 30% acrylic acid, 30% hydroxy-propanoic acid CAS# 79-33-4, 25% bronze powder (copper CAS # 7440-50-8 and tin CAS #7440-31-5, 10% ethanol CAS # 64-17-5 and 4% white spirit.  
+CAS no.: 64-17-5
+工業用途: 抗微生物活性
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1-Octanol
+CAS no.: 111-87-5
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: Hexadecanoic acid
+CAS no.: 57-10-3
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Phosphoric Acid
+CAS no.: 7664-38-2
+工業用途: 只允許用於氧化劑之穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Sulfuric Acid
+CAS no.: 7664-93-9
+工業用途: 加工助劑-添加物
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: *Yellow, due in part to IARC designation for strong inorganic acid mists. Not allowed in mist form. Meets criteria for Simple Acids and Bases sub-group.
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Menthol
+CAS no.: 89-78-1
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: Decanoic acid
+CAS no.: 334-48-5
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Phosphonic acid, (1-hydroxyethylidene)bis-
+CAS no.: 2809-21-4
+工業用途: 只允許用於氧化劑之穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Isopropyl alcohol 
+CAS no.: 67-63-0
+工業用途: 抗微生物活性
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Lauric acid 
+CAS no.: 143-07-7
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sodium Chloride
+CAS no.: 7647-14-5
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Stearic Acid
+CAS no.: 57-11-4
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Benzeneethanol
+CAS no.: 60-12-8
+工業用途: 防腐劑-抗氧化劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: 3,7-Dimethyloctan-3-ol
+CAS no.: 78-69-3
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: linalool; 3,7-dimethyl-1,6-octadien-3-ol; dl-linalool [1]coriandrol; (S)-3,7-dimethyl-1,6-octadien-3-ol; d-linalool [2]licareol; (R)-3,7-dimethyl-1,6-octadien-3-ol; l-linalool [3]
+CAS no.: 78-70-6
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: 2-Pyrrolidinone, 1-ethenyl-
+CAS no.: 9003-39-8
+工業用途: 聚合物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,3-Dioxolane-4-methanol, 2,2-dimethyl-
+CAS no.: 100-79-8
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 2(3H)-Furanone, 5-heptyldihydro-
+CAS no.: 104-67-6
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 1-Octanol, dimethyl-
+CAS no.: 106-21-8
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 重複劑量毒性
+
+名稱: Butanedioic acid, dimethyl ester
+CAS no.: 106-65-0
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Hydroxycitronellal 
+CAS no.: 107-75-5
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: 1-Methoxy-2-propanol 
+CAS no.: 107-98-2
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: propyl acetate [1]isopropyl acetate  [2]
+CAS no.: 108-21-4
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Tetradecanoic acid, 1-methylethyl ester
+CAS no.: 110-27-0
+工業用途: 溶劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: Tetracosane, 2,6,10,15,19,23-hexamethyl-
+CAS no.: 111-01-3
+工業用途: 軟化劑;潤滑劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Dodecanoic acid, methyl ester
+CAS no.: 111-82-0
+工業用途: 軟化劑;潤滑劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Diethylene glycol monobutyl ether 
+CAS no.: 112-34-5
+工業用途: 溶劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: *Yellow, due in part to its status as a Hazardous Air Pollutant HAP under the Clean Air Act. *Yellow due to hazard concerns, but allowed to provide functionality while meeting Safer Choice VOC criteria. See section 4.2.7.1 of the Safer Choice Standard.
+
+名稱: 1-Octadecanol
+CAS no.: 112-92-5
+工業用途: 軟化劑;潤滑劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,6-Octadien-3-ol, 3,7-dimethyl-, acetate
+CAS no.: 115-95-7
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: Benzoic acid, 2-hydroxy-, phenylmethyl ester
+CAS no.: 118-58-1
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: Benzaldehyde, 3-ethoxy-4-hydroxy-
+CAS no.: 121-32-4
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 6-Octen-1-ol, 3,7-dimethyl-, (S)-
+CAS no.: 106-22-9
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Acetic acid, hexyl ester
+CAS no.: 142-92-7
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 6-Octen-1-ol, 3,7-dimethyl-, acetate
+CAS no.: 150-84-5
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: .alpha.,.alpha.-dimethylphenethyl acetate
+CAS no.: 151-05-3
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: Calcium Carbonate
+CAS no.: 471-34-1
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sodium Carbonate
+CAS no.: 497-19-8
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Formic acid, calcium salt
+CAS no.: 544-17-2
+工業用途: 酵素和安定劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Tetradecanoic acid
+CAS no.: 544-63-8
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Lignoceric acid
+CAS no.: 557-59-5
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Hexanedioic acid, dimethyl ester
+CAS no.: 627-93-0
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1-Eicosanol
+CAS no.: 629-96-9
+工業用途: 軟化劑;潤滑劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 2-Buten-1-ol, 3-methyl-, acetate
+CAS no.: 1191-16-8
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 缺乏足夠致敏資料
+
+名稱: 3,4-dimethylbenzenesulfonic Acid
+CAS no.: 1300-72-7
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Sodium Hydroxide
+CAS no.: 1310-73-2
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Silicic acid, calcium salt
+CAS no.: 1344-95-2
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1-Dodecanamine, N,N-dimethyl-, N-oxide
+CAS no.: 1643-20-5
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Acetic acid, sulfo-, 1-dodecyl ester
+CAS no.: 1847-58-1
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Benzoic acid, 2-hydroxy-, pentyl ester
+CAS no.: 2050-08-0
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: L-Menthol
+CAS no.: 2216-51-5
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Sulfuric acid, monododecyl ester, ammonium salt
+CAS no.: 2235-54-3
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 2-Naphthalenesulfonic acid, 6-hydroxy-5-[(4-sulfophenyl)azo]-, disodium salt
+CAS no.: 2783-94-0
+工業用途: 著色劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: 1-Tetradecanamine, N,N-dimethyl-, N-oxide
+CAS no.: 3332-27-2
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Cocamidopropyl betaine
+CAS no.: 4292-10-8
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Benzoic acid, 2-hydroxy-, hexyl ester
+CAS no.: 6259-76-3
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: Butanoic acid, 2-methyl-, ethyl ester
+CAS no.: 7452-79-1
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: Silica, Amorphous
+CAS no.: 7631-86-9
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: *Only allowed as an abrasive, in non-carcinogenic particle sizes and shapes
+
+名稱: Sulfurous acid, disodium salt
+CAS no.: 7757-83-7
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Thiosulfuric acid (H2S2O3), disodium salt
+CAS no.: 7772-98-7
+工業用途: 加工助劑-添加物
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: 3,7-dimethylnona-1,6-dien-3-ol
+CAS no.: 10339-55-6
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: Nitric acid, magnesium salt
+CAS no.: 10377-60-3
+工業用途: 只允許用於防腐劑之穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Titanium oxide (TiO2)
+CAS no.: 13463-67-7
+工業用途: 著色劑
+安全性: 安全; Green [Circle]
+註解: (*Only allowed when particle sizes and shapes are non-carcinogenic.)
+
+名稱: 7-Octen-2-ol, 2,6-dimethyl-
+CAS no.: 18479-58-8
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: Ethanol, 2-phenoxy-
+CAS no.: 122-99-6
+工業用途: 防腐劑-抗氧化劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: *Yellow, due in part to its status as a Hazardous Air Pollutant HAP under the Clean Air Act.
+
+名稱: Amines, C10-16-alkyldimethyl, N-oxides
+CAS no.: 70592-80-2
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 3(2H)-Isothiazolone, 2-methyl-
+CAS no.: 2682-20-4
+工業用途: 防腐劑-抗氧化劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: 1,4-Dioxacyclohexadecane-5,16-dione
+CAS no.: 54982-83-1
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 2-Buten-1-one, 1-[(1R,2S)-2,6,6-trimethyl-3-cyclohexen-1-yl]-, (2E)-rel-
+CAS no.: 57378-68-4
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: 1,4-Dioxacycloheptadecane-5,17-dione
+CAS no.: 105-95-3
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: 1-Penten-3-one, 1-[(1R)-2,6,6-trimethyl-2-cyclohexen-1-yl]-, (1E)-
+CAS no.: 7779-30-8
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: Octyldimethylamine oxide
+CAS no.: 2605-78-9
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: N,N-Dimethyldecylamine-N-oxide
+CAS no.: 2605-79-0
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1-Tetradecanaminium, N-(carboxymethyl)-N,N-dimethyl-, hydroxide, inner salt
+CAS no.: 2601-33-4
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Myristamidopropylamine oxide
+CAS no.: 67806-10-4
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 2-Propanol, 1-phenoxy-
+CAS no.: 770-35-4
+工業用途: 特殊工業用
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: 3-Cyclohexene-1-carboxaldehyde, 2,4-dimethyl-
+CAS no.: 68039-49-6
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物;重複劑量毒性
+
+名稱: Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester
+CAS no.: 24851-98-7
+工業用途: 芳香劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Sandalore
+CAS no.: 65113-99-7
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 2-Buten-1-ol, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-
+CAS no.: 28219-61-6
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: Carbonic acid disodium salt, compd. with hydrogen peroxide (H2O2) (2:3)
+CAS no.: 15630-89-4
+工業用途: 氧化劑和穩定劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: trisodium 5-hydroxy-1-(4-sulphophenyl)-4-(4-sulphophenylazo)pyrazole-3-carboxylate
+CAS no.: 12225-21-7
+工業用途: 著色劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Oxacyclohexadecan-2-one
+CAS no.: 106-02-5
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 2-Butenedioic acid (E)-
+CAS no.: 110-17-8
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 9-Octadecenoic acid
+CAS no.: 112-80-1
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sodium Bisulfate
+CAS no.: 7681-38-1
+工業用途: 抗微生物活性
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sodium Benzoate
+CAS no.: 532-32-1
+工業用途: 防腐劑-抗氧化劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Boron oxide (B2O3)
+CAS no.: 1303-86-2
+工業用途: 只允許用於蛋白酶穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Octadecanoic acid, sodium salt
+CAS no.: 822-16-2
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 2H-Pyran-4-ol, tetrahydro-4-methyl-2-(2-methylpropyl)-
+CAS no.: 63500-71-0
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 1-Hexadecanamine, N,N-dimethyl-, N-oxide
+CAS no.: 7128-91-8
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Myristamidopropyl betaine
+CAS no.: 59272-84-3
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Sulfuric acid monododecyl ester sodium salt
+CAS no.: 151-21-3
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1-Dodecanaminium, N-(carboxymethyl)-N,N-dimethyl-, hydroxide, inner salt
+CAS no.: 683-10-3
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 9,12,15-Octadecatrienoic acid, (Z,Z,Z)-
+CAS no.: 463-40-1
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: 9-Tetradecenoic acid, (Z)-
+CAS no.: 544-64-9
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 10043-52-4
+CAS no.: 10043-52-4
+工業用途: 酵素和安定劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 7786-30-3
+CAS no.: 7786-30-3
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Benzoic acid, 2-hydroxy-, 3-hexenyl ester, (Z)-
+CAS no.: 65405-77-8
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Hydrated Lime
+CAS no.: 1305-62-0
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: C.I. Fluorescent brightener 260
+CAS no.: 16090-02-1
+工業用途: 著色劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 143-18-0
+CAS no.: 143-18-0
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sodium cocoyl isethionate
+CAS no.: 61789-32-0
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Ethanol, 2-[2-[2-(tridecyloxy)ethoxy]ethoxy]-, hydrogen sulfate, sodium salt
+CAS no.: 25446-78-0
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sulfuric acid, mono-C10-16-alkyl esters, sodium salts
+CAS no.: 68585-47-7
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Glycine, N-methyl-N-(1-oxododecyl)-, sodium salt
+CAS no.: 137-16-6
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Kaolin
+CAS no.: 1332-58-7
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Diethylenetriaminepenta(methylenephosphonic acid), sodium salt
+CAS no.: 22042-96-2
+工業用途: 只允許用於氧化劑之穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: Sulfuric acid, mono-C12-18-alkyl esters, sodium salts
+CAS no.: 68955-19-1
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Benzenesulfonic acid, mono-C10-16-alkyl derivs., sodium salts
+CAS no.: 68081-81-2
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 73398-61-5
+CAS no.: 73398-61-5
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,2,3-Propanetriol, homopolymer
+CAS no.: 56-81-5
+工業用途: 加工助劑-添加物
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Water
+CAS no.: 7732-18-5
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,2-Propanediol
+CAS no.: 57-55-6
+工業用途: 酵素和安定劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Urea
+CAS no.: 57-13-6
+工業用途: 未分類
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: 3,4-dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-benzopyran-6-ol
+CAS no.: 10191-41-0
+工業用途: 防腐劑-抗氧化劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 9-Hexadecenoic acid, (9Z)-
+CAS no.: 2091-29-4
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,2,3-Propanetriol, triacetate
+CAS no.: 102-76-1
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Acetic acid, calcium salt
+CAS no.: 62-54-4
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, trisodium salt
+CAS no.: 68-04-2
+工業用途: 螯合劑；鉗合劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, triethyl ester
+CAS no.: 77-93-0
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 已知致敏物
+
+名稱: 2-Propanol, 1,1'-oxybis-
+CAS no.: 110-98-5
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Docosanoic acid
+CAS no.: 112-85-6
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Hexadecanoic acid, 1-methylethyl ester
+CAS no.: 142-91-6
+工業用途: 軟化劑;潤滑劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: 1,3-Propanediol
+CAS no.: 504-63-2
+工業用途: 酵素和安定劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: 2(3H)-Furanone, 5-hexyldihydro-
+CAS no.: 706-14-9
+工業用途: 芳香劑
+安全性: 安全但仍須更多資料強化; Half Green [Circle]
+註解: 
+
+名稱: 2H-Pyran-2-one, 6-heptyltetrahydro-
+CAS no.: 713-95-1
+工業用途: 芳香劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 缺乏足夠致敏資料
+
+名稱: 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, tripotassium salt
+CAS no.: 866-84-2
+工業用途: 螯合劑；鉗合劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Pentanedioic acid, dimethyl ester
+CAS no.: 1119-40-0
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Phosphonic acid, [nitrilotris(methylene)]tris-
+CAS no.: 6419-19-8
+工業用途: 只允許用於氧化劑之穩定劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: C.I. Acid blue 9, disodium salt
+CAS no.: 3844-45-9
+工業用途: 著色劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sulfuric acid disodium salt
+CAS no.: 7757-82-6
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Tetradecanoic acid, methyl ester
+CAS no.: 124-10-7
+工業用途: 溶劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Glyceryl monooleate
+CAS no.: 25496-72-4
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: C.I. Pigment Yellow 104
+CAS no.: 15790-07-5
+工業用途: 著色劑
+安全性: 可替換但需留意部分危害; Yellow [Triangle]
+註解: 
+
+名稱: pentaerythritol tetrakis(3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate)
+CAS no.: 6683-19-8
+工業用途: 防腐劑-抗氧化劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: C.I. Pigment Green 7
+CAS no.: 1328-53-6
+工業用途: 著色劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Sorbitan monooleate
+CAS no.: 1338-43-8
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: Carbonic acid monosodium salt
+CAS no.: 144-55-8
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Fatty acids, C14-18 and C16-18-unsatd.
+CAS no.: 67701-06-8
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Octadecanoic acid, 2-ethylhexyl ester
+CAS no.: 22047-49-0
+工業用途: 介面活性劑
+安全性: 安全; Green [Circle]
+註解: 
+此為依據美國環保署ChemView資料庫整理各化學物工業用途，分類為兒童產品的苯(Benzene)安全化學替代物資料：
+名稱: D-Gluconic acid, sodium salt
+CAS no.: 527-07-1
+工業用途: 螯合劑；鉗合劑
+安全性: 安全; Green [Circle]
+註解: 
+
+名稱: Silanamine, 1,1,1-trimethyl-N-(trimethylsilyl)-, hydrolysis products with silica
+CAS no.: 68909-20-6
+工業用途: 加工助劑-添加物
+安全性: 安全; Green [Circle]
+註解: 
+

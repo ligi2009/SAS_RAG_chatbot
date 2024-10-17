@@ -1,6 +1,10 @@
 import streamlit as st
 import retriever_chain_openai as rc
 import argparse
+from langchain.vectorstores import Chroma
+# from langchain_community.vectorstores import Chroma
+import vectorstore as vs
+from retriever_chain_openai import format_docs
 
 # 設置命令行參數解析
 parser = argparse.ArgumentParser(description='Run chatbot with specific vector database.')
@@ -8,7 +12,6 @@ parser.add_argument('chemical_number', type=str, help='The SAS chemical number t
 
 args = parser.parse_args()
 SAS_chemical_number = args.chemical_number
-load_path = f'./Vector_db/{SAS_chemical_number}'
 
 # 讀取化學物質對應的名稱
 def get_chemical_name(chemical_number, mapping_file='./chemical_mapping.txt'):
@@ -21,9 +24,6 @@ def get_chemical_name(chemical_number, mapping_file='./chemical_mapping.txt'):
 
 # 根據用戶輸入的化學品號碼獲取對應的名稱
 chemical_name = get_chemical_name(SAS_chemical_number)
-
-# 設置RAG Chain 選用llm model, embedding model
-chain = rc.chain(load_path=load_path)
 
 st.title('🧪 SAS GPT')
 st.caption("🦙 A SAS GPT powered by ChatGPT-4o & NeMo-Guardrails") #更改使用模型名稱
@@ -42,27 +42,54 @@ if "messages" not in st.session_state:
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["content"])
 
+# Ｔell if it is a summary question 
+def is_summary_query(query):
+    summary_keywords = ["總結", "概述", "摘要", "回顧", "重點", "要點", "整理", "summary", "summarize", "summarization", "conclude"]
+    return any(keyword in query for keyword in summary_keywords)
+# or use NLP model to tell?
 
 def get_response(query):
     try:
-        # 使用 retriever chain 來處理查詢
-        response = chain.invoke(query)
-        
-        # 假設 response 是字典，提取 'output' 或其他關鍵字
-        if isinstance(response, dict):
-            response_text = response.get('output', '')  # 假設 'output' 是你需要的字段
+        if is_summary_query(query):
+            load_path = [f'./Vector_db/59_sum']
         else:
-            response_text = response  # 如果不是字典，直接使用 response
+            load_path = [
+                f'./Vector_db/59_sum', 
+                f'./Vector_db/59_rm_duplicate', 
+                f'./Vector_db/59_alternatives_industrial', 
+                f'./Vector_db/59_alternatives_children_product', 
+                f'./Vector_db/59_alternatives_commercial', 
+                f'./Vector_db/59_alternatives_consumer', 
+                f'./Vector_db/59_alternatives_consumer_or_commercial', 
+                f'./Vector_db/59_alternatives_hydraulic_fluid', 
+                f'./Vector_db/59_alternatives_polymers'
+            ]
+            # load_path = [
+            #     f'./Vector_db/59_sum', 
+            #     f'./Vector_db/59_rm_duplicate', 
+            #     f'./Vector_db/59_1', 
+            #     f'./Vector_db/59_2', 
+            #     f'./Vector_db/59_3', 
+            #     f'./Vector_db/59_4', 
+            #     f'./Vector_db/59_5', 
+            #     f'./Vector_db/59_6', 
+            #     f'./Vector_db/59_7'
+            # ]
+        # 設置RAG Chain 選用llm model, embedding model
+        chain = rc.chain(load_path=load_path)
+        response = chain.invoke(query)
+        if isinstance(response, dict):
+            response_text = response.get('output', '')
+        else:
+            response_text = response
 
-        # 檢查提取的文本，替換特定的英文訊息為中文
         if response_text.strip() == "I'm sorry, I can't respond to that.":
             response_text = "此問題無法回答，請試著詢問其他化學物質相關問題"
 
         return response_text, None
+
     except Exception as e:
         return None, str(e)
-
-
 
 # 接收用戶輸入的消息
 if prompt := st.chat_input("請輸入化學物質相關問題"):
