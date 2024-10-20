@@ -37,7 +37,6 @@ with st.sidebar:
 # 初始化會話狀態中的消息列表，如果還沒有則創建一個默認的消息
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "請輸入化學物質相關問題"}]
-
 # 顯示會話狀態中的所有消息
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["content"])

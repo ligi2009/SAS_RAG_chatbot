@@ -11,7 +11,6 @@ import vectorstore as vs
 
 def format_docs(docs):
     return "\n\n".join([d.page_content for d in docs])
-
 # 建立RAG Chain 選擇llm model, embedding model, vector database
 def chain(llm_model='llama3', load_path=None):
     llm = ChatOllama(model=llm_model, temperature=0.3)
