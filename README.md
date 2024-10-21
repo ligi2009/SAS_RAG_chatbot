@@ -88,3 +88,32 @@ python vectorstore.py
    - 由於每份文件差異，需嘗試不同的文字分割塊尺寸與重疊數，建議初始設定：`chunk_size=1000`，`chunk_overlap=200`，`SAS chemical number=對應流水號`。
 4. 將對應流水號新增至 `chemical_mapping.txt`。
 5. 執行 `chatbot.py` 啟動 RAG。
+
+## 苯的其他資料
+檔案皆放在 `./Benzene_txt` 內
+### 轉換苯的總結 txt 檔為向量資料庫
+
+更改 `vectorstore.py` 中的 `file_path` 路徑為 `./Benzene_txt/Benzene_summary.txt`，並執行以下指令：
+
+```bash
+python vectorstore.py
+```
+設定：`chunk_size=1000`，`chunk_overlap=200`，`SAS chemical number=59_sum`
+
+### 苯的安全替代物資料
+#### 1. 將 csv 檔轉為 txt
+將苯的安全替代物資料放入 `./SAS_file/Benzene_alternatives` 資料夾，並轉檔為 txt 格式：
+
+```bash
+python load_csv_to_txt_alternatives.py
+```
+
+#### 2. 轉換安全替代物 txt 檔為向量資料庫
+
+以苯的兒童產品化學替代物為例：
+更改 `vectorstore.py` 中的 `file_path` 路徑為 `./Benzene_txt/Benzene_alternatives_Childrens_Products.txt`，並執行以下指令：
+
+```bash
+python vectorstore.py
+```
+設定：`chunk_size=1000`，`chunk_overlap=200`，`SAS chemical number=59_alternatives_children_product`
