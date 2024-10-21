@@ -39,8 +39,8 @@ def load_and_save_txt(input_folder, output_folder):
 
 if __name__ == "__main__":
     # 設定資料夾路徑
-    input_folder = './SAS_file/alternatives'
-    output_folder = './new_txt'
+    input_folder = './SAS_file/Benzene_alternatives'
+    output_folder = './Benzene_txt'
 
     # 執行函式將所有檔案轉為TXT
     load_and_save_txt(input_folder, output_folder)
