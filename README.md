@@ -91,9 +91,15 @@ python vectorstore.py
 
 ## 苯的其他資料
 檔案皆放在 `./Benzene_txt` 內
+### 生成苯的總結 txt 檔
+設定好 `gen_summary.py` 中的 `input_file` 跟 `output_file`，並執行以下指令：
+
+```bash
+python gen_summary.py
+```
 ### 轉換苯的總結 txt 檔為向量資料庫
 
-更改 `vectorstore.py` 中的 `file_path` 路徑為 `./Benzene_txt/Benzene_summary.txt`，並執行以下指令：
+更改 `vectorstore.py` 中的 `file_path` 路徑為 `./Benzene_txt/Benzene_summary_gpt.txt`，並執行以下指令：
 
 ```bash
 python vectorstore.py
