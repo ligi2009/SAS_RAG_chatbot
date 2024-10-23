@@ -11,6 +11,7 @@ def load_and_split_documents(file_path, chunk_size, chunk_overlap):
     documents = loader.load()
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     return text_splitter.split_documents(documents)
+
 def initialize_embeddings(model_name="all-MiniLM-L6-v2", device="cpu", normalize_embeddings=False):
     """初始化嵌入模型"""
     return HuggingFaceEmbeddings(
@@ -52,7 +53,7 @@ def main():
 
 if __name__ == "__main__":
     # file_path = './SAS_txt_file/Benzene.txt'
-    file_path = './Benzene_txt/Benzene_summary.txt' # 59_sum
+    file_path = './Benzene_txt/Benzene_summary_gpt.txt'
     # file_path = './Benzene_txt/Benzene_remove_duplicate.txt' # 59_rm_duplicate
     # file_path = './Benzene_txt/Benzene_alternatives_Childrens_Products.txt'
     main()
